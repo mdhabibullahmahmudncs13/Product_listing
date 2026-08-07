@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Telapiya Fish Processed ±50 gm 1 kg",
+    "price": "349",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/telapiya-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185032&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Telapiya_Fish_Processed_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "299 Deshi Sarputi Fish ±30 gm 500 gm",
+    "price": "179",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-sarputi-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103467&q=best&v=1&m=400&webp=1",
+    "image_location": "images/299_Deshi_Sarputi_Fish_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "979 Shol Fish Processed ±50 gm 1 kg",
+    "price": "849",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shol-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175612&q=best&v=1&m=400&webp=1",
+    "image_location": "images/979_Shol_Fish_Processed_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "999 Boal Fish After Cutting  ±50 gm 1 kg",
+    "price": "869",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/boal-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103527&q=best&v=1&m=400&webp=1",
+    "image_location": "images/999_Boal_Fish_After_Cutting__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "215 Pabda Fish ±30 gm 500 gm",
+    "price": "199",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pabda-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103441&q=best&v=1&m=400&webp=1",
+    "image_location": "images/215_Pabda_Fish_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "475 Rui Fish After Cutting ±50 gm 1 kg",
+    "price": "439",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rui-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116875&q=best&v=1&m=400&webp=1",
+    "image_location": "images/475_Rui_Fish_After_Cutting_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Pangas Fish After Cutting ±50 gm 1 kg",
+    "price": "289",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pangas-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177010&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Pangas_Fish_After_Cutting_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "189 Kaski Fish ±15 gm 250 gm",
+    "price": "169",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kaski-fish-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103443&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/189_Kaski_Fish_15_gm_250_gm.jpg"
+  },
+  {
+    "name": "395 Koi Fish Processed ±50 gm 1 kg",
+    "price": "369",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/koi-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120746&q=best&v=1&m=400&webp=1",
+    "image_location": "images/395_Koi_Fish_Processed_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "379 Shing Fish Processed ±30 gm 500 gm",
+    "price": "299",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shing-fish-processed-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103459&q=best&v=1&m=400&webp=1",
+    "image_location": "images/379_Shing_Fish_Processed_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "Gura Chingri (Shrimp) ±15 gm 250 gm",
+    "price": "249",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gura-chingri-shrimp-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103458&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gura_Chingri_Shrimp_15_gm_250_gm.jpg"
+  },
+  {
+    "name": "PQS Chapila Fish Processed 250 gm",
+    "price": "165",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-chapila-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125603&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Chapila_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "319 Mix Fish (Deshi) ± 30 gm 500 gm",
+    "price": "269",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mix-fish-deshi-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183819&q=best&v=1&m=400&webp=1",
+    "image_location": "images/319_Mix_Fish_Deshi__30_gm_500_gm.jpg"
+  },
+  {
+    "name": "Mola Fish Deshi ±15 gm 250 gm",
+    "price": "169",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mola-fish-deshi-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121898&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mola_Fish_Deshi_15_gm_250_gm.jpg"
+  },
+  {
+    "name": "499 Magur Fish Processed ±30 gm 500 gm",
+    "price": "399",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/magur-fish-processed-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175812&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/499_Magur_Fish_Processed_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "329 Silver Carp Fish After Cutting ±50 gm 1 kg",
+    "price": "289",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/silver-carp-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126107&q=best&v=1&m=400&webp=1",
+    "image_location": "images/329_Silver_Carp_Fish_After_Cutting_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Puti Fish ±15 gm 250 gm",
+    "price": "149",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/puti-fish-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103471&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Puti_Fish_15_gm_250_gm.jpg"
+  },
+  {
+    "name": "299 Tatkini Fish ±30 gm 500 gm",
+    "price": "159",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tatkini-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103463&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/299_Tatkini_Fish_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "Catla Fish After Cutting ±70 gm 1.5 kg",
+    "price": "789",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/catla-fish-after-cutting-70-gm-15-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175813&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Catla_Fish_After_Cutting_70_gm_15_kg.jpg"
+  },
+  {
+    "name": "Globe Pangus Fish Sliced ± 50 gm 1 kg",
+    "price": "370",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/globe-pangus-fish-sliced-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173557&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Globe_Pangus_Fish_Sliced__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Globe Koi Fish Processed ± 50 gm 1 kg",
+    "price": "520",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/globe-koi-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173556&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Globe_Koi_Fish_Processed__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Globe Telapia Fish Processed ± 50 gm 1 kg",
+    "price": "375",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/globe-telapia-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173555&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Globe_Telapia_Fish_Processed__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "419 Mrigel Fish After Cutting ± 50 gm 1 kg",
+    "price": "369",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mrigel-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168064&q=best&v=1&m=400&webp=1",
+    "image_location": "images/419_Mrigel_Fish_After_Cutting__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Globe Pabda Fish Whole ±30 gm 500 gm",
+    "price": "370",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/globe-pabda-fish-whole-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167562&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Globe_Pabda_Fish_Whole_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "Globe Deshi Mola Fish Processed (Headless) ±15 gm 250 gm",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/globe-deshi-mola-fish-processed-headless-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167561&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Globe_Deshi_Mola_Fish_Processed_Headless_15_gm_250_gm.jpg"
+  },
+  {
+    "name": "Globe Deshi Puti Fish Processed ±15 gm 250 gm",
+    "price": "145",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/globe-deshi-puti-fish-processed-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167560&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Globe_Deshi_Puti_Fish_Processed_15_gm_250_gm.jpg"
+  },
+  {
+    "name": "Globe White Fish Fillet (3-4 pcs) ±50 gm 1 kg",
+    "price": "585",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/globe-white-fish-fillet-3-4-pcs-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167558&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Globe_White_Fish_Fillet_3-4_pcs_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "PQS Halda Hawor Puti Block Fish Processed 250 gm",
+    "price": "195",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-halda-hawor-puti-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135972&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Halda_Hawor_Puti_Block_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Halda Hawor Pabda Block Fish Processed 250 gm",
+    "price": "260",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-halda-hawor-pabda-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167963&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Halda_Hawor_Pabda_Block_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Halda Hawor Shing Block Fish Processed 250 gm",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-halda-hawor-shing-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135971&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Halda_Hawor_Shing_Block_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Halda Hawor Mola Block Fish Processed 250 gm",
+    "price": "285",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-halda-hawor-mola-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135970&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Halda_Hawor_Mola_Block_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Halda Hawor Kaski Block Fish Processed 250 gm",
+    "price": "238",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-halda-hawor-kaski-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167964&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Halda_Hawor_Kaski_Block_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "390 Grass Carp Fish After Cutting ±50 gm 1 kg",
+    "price": "369",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/grass-carp-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126098&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/390_Grass_Carp_Fish_After_Cutting_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "PQS Chikra Baim Fish Processed 250 gm",
+    "price": "285",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-chikra-baim-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125602&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Chikra_Baim_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Chela Pata Fish Processed 250 gm",
+    "price": "350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-chela-pata-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140749&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Chela_Pata_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Bata Fish Processed 250 gm",
+    "price": "190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-bata-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125598&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Bata_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Rohu Fish Processed 250 gm",
+    "price": "235",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-rohu-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125597&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Rohu_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Rani Fish Processed 250 gm",
+    "price": "405",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-rani-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125593&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Rani_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Mix Fish Processed 250 gm",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-mix-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173559&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Mix_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Baila Fish Processed 250 gm",
+    "price": "190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-baila-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167965&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Baila_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Taposhi Fish Processed 250 gm",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-taposhi-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125585&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Taposhi_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "PQS Tengra Fish Processed 250 gm",
+    "price": "275",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pqs-tengra-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167962&q=best&v=1&m=400&webp=1",
+    "image_location": "images/PQS_Tengra_Fish_Processed_250_gm.jpg"
+  },
+  {
+    "name": "389 Gulsha Fish Medium ±30 gm 500 gm",
+    "price": "379",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gulsha-fish-medium-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103532&q=best&v=1&m=400&webp=1",
+    "image_location": "images/389_Gulsha_Fish_Medium_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "Rupchanda Fish Medium ±30 gm 500 gm",
+    "price": "729",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rupchanda-fish-medium-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116868&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Rupchanda_Fish_Medium_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "Koral Fish After Cutting ± 50 gm 1 kg",
+    "price": "1059",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/koral-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175500&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Koral_Fish_After_Cutting__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "540 Carfu Fish After Cutting ±50 gm 1 kg",
+    "price": "479",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/carfu-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175611&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/540_Carfu_Fish_After_Cutting_50_gm_1_kg.jpg"
+  },
+  {
+    "name": "519 Ayer Fish After Cutting ±30 gm 500 gm",
+    "price": "479",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ayer-fish-after-cutting-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175814&q=best&v=1&m=400&webp=1",
+    "image_location": "images/519_Ayer_Fish_After_Cutting_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "419 Baila Fish Medium ±30 gm 500 gm",
+    "price": "359",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/baila-fish-medium-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120748&q=best&v=1&m=400&webp=1",
+    "image_location": "images/419_Baila_Fish_Medium_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "Whole Hilsha Fish (Asto Ilish) ±50 gm 1.1 kg",
+    "price": "3199",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/whole-hilsha-fish-asto-ilish-50-gm-11-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164154&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Whole_Hilsha_Fish_Asto_Ilish_50_gm_11_kg.jpg"
+  },
+  {
+    "name": "Whole Hilsha Fish (Asto Ilish) ±50 gm 1.2 kg",
+    "price": "3399",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/whole-hilsha-fish-asto-ilish-50-gm-12-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164153&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Whole_Hilsha_Fish_Asto_Ilish_50_gm_12_kg.jpg"
+  },
+  {
+    "name": "Whole Hilsha Fish (Asto Ilish) ± 50 gm 900 gm",
+    "price": "2469",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/whole-hilsha-fish-asto-ilish-50-gm-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164156&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Whole_Hilsha_Fish_Asto_Ilish__50_gm_900_gm.jpg"
+  },
+  {
+    "name": "300 Poa Fish ± 30 gm 500 gm",
+    "price": "259",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/poa-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103477&q=best&v=1&m=400&webp=1",
+    "image_location": "images/300_Poa_Fish__30_gm_500_gm.jpg"
+  },
+  {
+    "name": "399 Tengra Fish Deshi ±20 gm 400 gm",
+    "price": "279",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tengra-fish-deshi-20-gm-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103472&q=best&v=1&m=400&webp=1",
+    "image_location": "images/399_Tengra_Fish_Deshi_20_gm_400_gm.jpg"
+  },
+  {
+    "name": "259 Horina Chingri (Shrimp) 90-100 pcs ±15 gm 250 gm",
+    "price": "219",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/horina-chingri-shrimp-90-100-pcs-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103440&q=best&v=1&m=400&webp=1",
+    "image_location": "images/259_Horina_Chingri_Shrimp_90-100_pcs_15_gm_250_gm.jpg"
+  },
+  {
+    "name": "499 Bagda Chingri (Shrimp) 25-30 pcs ±30 gm 500 gm",
+    "price": "399",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bagda-chingri-shrimp-25-30-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103452&q=best&v=1&m=400&webp=1",
+    "image_location": "images/499_Bagda_Chingri_Shrimp_25-30_pcs_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "Golda Chingri (Shrimp) 18-22 pcs ±30 gm 500 gm",
+    "price": "679",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golda-chingri-shrimp-18-22-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103451&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Golda_Chingri_Shrimp_18-22_pcs_30_gm_500_gm.jpg"
+  },
+  {
+    "name": "999 Whole Hilsha Fish (Asto Ilish) ±40 gm 500 gm",
+    "price": "869",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/whole-hilsha-fish-asto-ilish-40-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164160&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/999_Whole_Hilsha_Fish_Asto_Ilish_40_gm_500_gm.jpg"
+  },
+  {
+    "name": "1819 Whole Hilsha Fish (Asto Ilish) ±50 gm 700 gm",
+    "price": "1699",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/whole-hilsha-fish-asto-ilish-50-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164158&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/1819_Whole_Hilsha_Fish_Asto_Ilish_50_gm_700_gm.jpg"
+  }
+]

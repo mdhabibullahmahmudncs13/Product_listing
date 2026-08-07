@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Chicken Eggs (Layer) 12 pcs",
+    "price": "145",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chicken-eggs-layer-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79219&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Chicken_Eggs_Layer_12_pcs.jpg"
+  },
+  {
+    "name": "Chicken Eggs Layer (White) 12 pcs",
+    "price": "135",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chicken-eggs-layer-white-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165811&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Chicken_Eggs_Layer_White_12_pcs.jpg"
+  },
+  {
+    "name": "125 Chicken Eggs (Deshi) 6 pcs",
+    "price": "119",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chicken-eggs-deshi-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79976&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/125_Chicken_Eggs_Deshi_6_pcs.jpg"
+  },
+  {
+    "name": "Chicken Eggs (Layer) 6 pcs",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chicken-eggs-layer-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182905&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Chicken_Eggs_Layer_6_pcs.jpg"
+  },
+  {
+    "name": "Duck Eggs (Hasher Dim) 6 pcs",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/duck-eggs-hasher-dim-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79970&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Duck_Eggs_Hasher_Dim_6_pcs.jpg"
+  },
+  {
+    "name": "95 Quail Eggs 20 pcs",
+    "price": "89",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/quail-eggs-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79220&q=best&v=1&m=400&webp=1",
+    "image_location": "images/95_Quail_Eggs_20_pcs.jpg"
+  },
+  {
+    "name": "Chicken Eggs Layer (White) 6 pcs",
+    "price": "69",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chicken-eggs-layer-white-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165810&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Chicken_Eggs_Layer_White_6_pcs.jpg"
+  },
+  {
+    "name": "Paragon Omega 3+ Eggs 12 pcs",
+    "price": "265",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/paragon-omega-3-eggs-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131999&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Paragon_Omega_3_Eggs_12_pcs.jpg"
+  }
+]

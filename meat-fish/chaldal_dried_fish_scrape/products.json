@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Achari Shrimp Balachao 400 gm",
+    "price": "670",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/achari-shrimp-balachao-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185567&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Achari_Shrimp_Balachao_400_gm.jpg"
+  },
+  {
+    "name": "Kazi Farms Kitchen Shrimp Small Dried Fish 125 gm",
+    "price": "260",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-farms-kitchen-shrimp-small-dried-fish-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108260&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kazi_Farms_Kitchen_Shrimp_Small_Dried_Fish_125_gm.jpg"
+  },
+  {
+    "name": "Kazi Farms Kitchen Kechki Dried Fish 125 gm",
+    "price": "280",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-farms-kitchen-kechki-dried-fish-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108255&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kazi_Farms_Kitchen_Kechki_Dried_Fish_125_gm.jpg"
+  },
+  {
+    "name": "Kazi Farms Kitchen Churi Dried Fish 125 gm",
+    "price": "340",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-farms-kitchen-churi-dried-fish-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108241&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kazi_Farms_Kitchen_Churi_Dried_Fish_125_gm.jpg"
+  },
+  {
+    "name": "Balachaw (Dry Prawn Chutney) 250 gm",
+    "price": "330",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/balachaw-dry-prawn-chutney-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125348&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Balachaw_Dry_Prawn_Chutney_250_gm.jpg"
+  }
+]

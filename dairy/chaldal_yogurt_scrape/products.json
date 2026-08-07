@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Aarong Dairy Sour Curd 500 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-sour-curd-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77433&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Sour_Curd_500_gm.jpg"
+  },
+  {
+    "name": "Aarong Dairy Low Fat Yogurt (Sour) 500 gm",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-low-fat-yogurt-sour-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70197&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Low_Fat_Yogurt_Sour_500_gm.jpg"
+  },
+  {
+    "name": "Aarong Dairy Sweetened Yogurt 500 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-sweetened-yogurt-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122759&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Sweetened_Yogurt_500_gm.jpg"
+  },
+  {
+    "name": "Pran Sour Curd 500 ml",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-sour-curd-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132328&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Sour_Curd_500_ml.jpg"
+  },
+  {
+    "name": "Shokti+ Mishti Doi 75 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shokti-mishti-doi-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133646&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shokti_Mishti_Doi_75_gm.jpg"
+  },
+  {
+    "name": "Pran Drinking Yogurt 200 ml",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-drinking-yogurt-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D118710&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Drinking_Yogurt_200_ml.jpg"
+  },
+  {
+    "name": "Pran Sweetened Yogurt 100 gm",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-sweetened-yogurt-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108654&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Sweetened_Yogurt_100_gm.jpg"
+  },
+  {
+    "name": "Aarong Dairy Pantoa 600 gm",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-pantoa-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122752&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Pantoa_600_gm.jpg"
+  },
+  {
+    "name": "Aarong Dairy Roshogolla 600 gm",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-roshogolla-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122754&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Roshogolla_600_gm.jpg"
+  },
+  {
+    "name": "Aarong Dairy Roshogolla (20±2 pcs) 1 kg",
+    "price": "350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-roshogolla-202-pcs-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122755&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Roshogolla_202_pcs_1_kg.jpg"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Starship Condensed Milk 400 gm",
+    "price": "105",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/starship-condensed-milk-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135316&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Starship_Condensed_Milk_400_gm.jpg"
+  },
+  {
+    "name": "No 1. Condensed Milk 400 gm",
+    "price": "105",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/no-1-condensed-milk-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131446&q=best&v=1&m=400&webp=1",
+    "image_location": "images/No_1_Condensed_Milk_400_gm.jpg"
+  },
+  {
+    "name": "Goalini Plus Condensed Milk 400 gm",
+    "price": "105",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/goalini-plus-condensed-milk-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114901&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Goalini_Plus_Condensed_Milk_400_gm.jpg"
+  },
+  {
+    "name": "Danish Condensed Filled Milk 397 gm",
+    "price": "105",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/danish-condensed-filled-milk-397-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127453&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Danish_Condensed_Filled_Milk_397_gm.jpg"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer Box 450 gm",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-coffee-mate-coffee-creamer-box-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123151&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Coffee_Mate_Coffee_Creamer_Box_450_gm.jpg"
+  },
+  {
+    "name": "Vivo Ambient Whip Topping with Vegetable Fat 1100 gm",
+    "price": "736",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/vivo-ambient-whip-topping-with-vegetable-fat-1100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137073&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Vivo_Ambient_Whip_Topping_with_Vegetable_Fat_1100_gm.jpg"
+  },
+  {
+    "name": "Grand'Or UHT Cooking Cream 1000 gm",
+    "price": "1550",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/grandor-uht-cooking-cream-1000-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128959&q=best&v=1&m=400&webp=1",
+    "image_location": "images/GrandOr_UHT_Cooking_Cream_1000_gm.jpg"
+  },
+  {
+    "name": "Nestle Coffee Mate Creamer 1 kg",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-coffee-mate-creamer-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45914&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Coffee_Mate_Creamer_1_kg.jpg"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer Jar 400 gm",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-coffee-mate-coffee-creamer-jar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123152&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Coffee_Mate_Coffee_Creamer_Jar_400_gm.jpg"
+  }
+]
