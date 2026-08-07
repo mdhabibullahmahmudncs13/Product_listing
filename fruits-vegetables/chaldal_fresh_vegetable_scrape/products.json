@@ -1,0 +1,541 @@
+[
+  {
+    "name": "Potato Regular (± 50 gm) 1 kg",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/potato-regular-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164304&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Potato_Regular__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Red Tomato ± 25 gm 500 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/red-tomato-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64361&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Red_Tomato__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "109 Roshun (Garlic Imported) ± 25 gm 500 gm",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/roshun-garlic-imported-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D89993&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/109_Roshun_Garlic_Imported__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Coriander Leaves (Dhonia Pata) ± 10 gm 100 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coriander-leaves-dhonia-pata-10-gm-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28562&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Coriander_Leaves_Dhonia_Pata__10_gm_100_gm.jpg"
+  },
+  {
+    "name": "Kacha Morich (Green Chilli) ±12 gm 250 gm",
+    "price": "89",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kacha-morich-green-chilli-12-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28576&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kacha_Morich_Green_Chilli_12_gm_250_gm.jpg"
+  },
+  {
+    "name": "Lal Alu (Red Potato Cardinal) ± 50 gm 1 kg",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lal-alu-red-potato-cardinal-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76922&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Lal_Alu_Red_Potato_Cardinal__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Lal Shak (Red Spinach) 1 bundle",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lal-shak-red-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7226&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Lal_Shak_Red_Spinach_1_bundle.jpg"
+  },
+  {
+    "name": "Deshi Shosha (Local Cucumber) ± 25 gm 500 gm",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-shosha-local-cucumber-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64359&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Deshi_Shosha_Local_Cucumber__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "119 Ada (Imported Ginger) ± 25 gm 500 gm",
+    "price": "89",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ada-imported-ginger-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163275&q=low&v=1&m=400&webp=1",
+    "image_location": "images/119_Ada_Imported_Ginger__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "39 Lomba Lebu (Long Lemon) 4 pcs",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lomba-lebu-long-lemon-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64362&q=low&v=1&m=400&webp=1",
+    "image_location": "images/39_Lomba_Lebu_Long_Lemon_4_pcs.jpg"
+  },
+  {
+    "name": "65 Misti Kumra Fali (Sweet Pumpkin Slice) ± 40 gm 1 kg",
+    "price": "59",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/misti-kumra-fali-sweet-pumpkin-slice-40-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28900&q=low&v=1&m=400&webp=1",
+    "image_location": "images/65_Misti_Kumra_Fali_Sweet_Pumpkin_Slice__40_gm_1_kg.jpg"
+  },
+  {
+    "name": "Misti Alu (Sweet Potato) ± 25 gm 500 gm",
+    "price": "59",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/misti-alu-sweet-potato-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54835&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Misti_Alu_Sweet_Potato__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Kacha Morich (Green Chilli) ± 12 gm 100 gm",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kacha-morich-green-chilli-12-gm-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183023&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kacha_Morich_Green_Chilli__12_gm_100_gm.jpg"
+  },
+  {
+    "name": "85 Kacha Pepe (Green Papaya) ± 70 gm 1.4 kg",
+    "price": "59",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kacha-pepe-green-papaya-70-gm-14-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69930&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/85_Kacha_Pepe_Green_Papaya__70_gm_14_kg.jpg"
+  },
+  {
+    "name": "Kolmi Shak (Water Spinach) 1 bundle",
+    "price": "19",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kolmi-shak-water-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28561&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Kolmi_Shak_Water_Spinach_1_bundle.jpg"
+  },
+  {
+    "name": "59 Deshi Roshun (Garlic Local) ±25 gm 500 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-roshun-garlic-local-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D89990&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/59_Deshi_Roshun_Garlic_Local_25_gm_500_gm.jpg"
+  },
+  {
+    "name": "109 Deshi Ada (Local Ginger) ± 25 gm 500 gm",
+    "price": "85",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-ada-local-ginger-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163274&q=best&v=1&m=400&webp=1",
+    "image_location": "images/109_Deshi_Ada_Local_Ginger__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Palong Shak (Palong Spinach) 1 bundle",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/palong-shak-palong-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28579&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Palong_Shak_Palong_Spinach_1_bundle.jpg"
+  },
+  {
+    "name": "45 Shosha (Cucumber) ± 25 gm 500 gm",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shosha-cucumber-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64357&q=best&v=1&m=400&webp=1",
+    "image_location": "images/45_Shosha_Cucumber__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Chichinga (Snake Gourd) ± 25 gm 500 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chichinga-snake-gourd-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28583&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Chichinga_Snake_Gourd__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "70 Badhakopi (Cabbage) each",
+    "price": "65",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/badhakopi-cabbage-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5740&q=best&v=1&m=400&webp=1",
+    "image_location": "images/70_Badhakopi_Cabbage_each.jpg"
+  },
+  {
+    "name": "49 Gol Lebu (Round Lemon) 4 pcs",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gol-lebu-round-lemon-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54834&q=low&v=1&m=400&webp=1",
+    "image_location": "images/49_Gol_Lebu_Round_Lemon_4_pcs.jpg"
+  },
+  {
+    "name": "Lau (Bottle Gourd) each",
+    "price": "89",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lau-bottle-gourd-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28573&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Lau_Bottle_Gourd_each.jpg"
+  },
+  {
+    "name": "55 Beetroot ±25 gm 500 gm",
+    "price": "49",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/beetroot-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35682&q=low&v=1&m=400&webp=1",
+    "image_location": "images/55_Beetroot_25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Green Capsicum ± 15 gm 300 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/green-capsicum-15-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28574&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Green_Capsicum__15_gm_300_gm.jpg"
+  },
+  {
+    "name": "45 Pui Shak (Pui Spinach) 1 bundle",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pui-shak-pui-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7071&q=low&v=1&m=400&webp=1",
+    "image_location": "images/45_Pui_Shak_Pui_Spinach_1_bundle.jpg"
+  },
+  {
+    "name": "Korola (Bitter Gourd) ± 25 gm 500 gm",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/korola-bitter-gourd-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22416&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Korola_Bitter_Gourd__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Uchche (Local Bitter Gourd) ± 25 gm 500 gm",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/uchche-local-bitter-gourd-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15396&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Uchche_Local_Bitter_Gourd__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "80 Fulkopi (Cauliflower) each",
+    "price": "69",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fulkopi-cauliflower-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46971&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/80_Fulkopi_Cauliflower_each.jpg"
+  },
+  {
+    "name": "Kochur Mukhi (Taro Roots) ± 25 gm 500 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kochur-mukhi-taro-roots-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28965&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Kochur_Mukhi_Taro_Roots__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Lomba Kalo Begun (Long Brinjal Black) ± 25 gm 500 gm",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lomba-kalo-begun-long-brinjal-black-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43558&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Lomba_Kalo_Begun_Long_Brinjal_Black__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "65 Kacha Kola (Banana Green) 4 pcs",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kacha-kola-banana-green-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183804&q=low&v=1&m=400&webp=1",
+    "image_location": "images/65_Kacha_Kola_Banana_Green_4_pcs.jpg"
+  },
+  {
+    "name": "90 Jali Kumra (Water Pumpkin) each",
+    "price": "85",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jali-kumra-water-pumpkin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69932&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/90_Jali_Kumra_Water_Pumpkin_each.jpg"
+  },
+  {
+    "name": "15 Thankuni Pata (Pennywort Leaves) 1 bundle",
+    "price": "9",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/thankuni-pata-pennywort-leaves-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28578&q=low&v=1&m=400&webp=1",
+    "image_location": "images/15_Thankuni_Pata_Pennywort_Leaves_1_bundle.jpg"
+  },
+  {
+    "name": "Sobuj Gol Begun (Round Brinjals Green) ±35 gm 700 gm",
+    "price": "119",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sobuj-gol-begun-round-brinjals-green-35-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28795&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Sobuj_Gol_Begun_Round_Brinjals_Green_35_gm_700_gm.jpg"
+  },
+  {
+    "name": "Lal Alu (Red Potato) ± 25 gm 500 gm",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lal-alu-red-potato-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93643&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lal_Alu_Red_Potato__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Dhundhul (Sponge Gourd) ±20 gm 500 gm",
+    "price": "59",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dhundhul-sponge-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77228&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Dhundhul_Sponge_Gourd_20_gm_500_gm.jpg"
+  },
+  {
+    "name": "35 Data Shak (Data Spinach) 1 bundle",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/data-shak-data-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D30176&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/35_Data_Shak_Data_Spinach_1_bundle.jpg"
+  },
+  {
+    "name": "45 Pudina Pata (Mint Leaves) ± 10 gm 100 gm",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pudina-pata-mint-leaves-10-gm-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7827&q=low&v=1&m=400&webp=1",
+    "image_location": "images/45_Pudina_Pata_Mint_Leaves__10_gm_100_gm.jpg"
+  },
+  {
+    "name": "Kochur Loti (Stolon Of Taro) ± 25 gm 500 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kochur-loti-stolon-of-taro-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64498&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kochur_Loti_Stolon_Of_Taro__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "40 Mula (Radish) ± 25 gm 500 gm",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mula-radish-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120817&q=best&v=1&m=400&webp=1",
+    "image_location": "images/40_Mula_Radish__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Kalo Gol Begun (Round Brinjals Black) ±35 gm 800 gm",
+    "price": "119",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kalo-gol-begun-round-brinjals-black-35-gm-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7893&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kalo_Gol_Begun_Round_Brinjals_Black_35_gm_800_gm.jpg"
+  },
+  {
+    "name": "50 Lau Shak (Sweet Bitter Melon Leaves) 1 bundle",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lau-shak-sweet-bitter-melon-leaves-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64499&q=low&v=1&m=400&webp=1",
+    "image_location": "images/50_Lau_Shak_Sweet_Bitter_Melon_Leaves_1_bundle.jpg"
+  },
+  {
+    "name": "55 Lettuce Leaves ± 10 gm 100 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lettuce-leaves-10-gm-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28797&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/55_Lettuce_Leaves__10_gm_100_gm.jpg"
+  },
+  {
+    "name": "55 Roshun (Garlic Imported) ± 25 gm 250 gm",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/roshun-garlic-imported-25-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163966&q=best&v=1&m=400&webp=1",
+    "image_location": "images/55_Roshun_Garlic_Imported__25_gm_250_gm.jpg"
+  },
+  {
+    "name": "65 Ada (Imported Ginger) ± 25 gm 250 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ada-imported-ginger-25-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163146&q=best&v=1&m=400&webp=1",
+    "image_location": "images/65_Ada_Imported_Ginger__25_gm_250_gm.jpg"
+  },
+  {
+    "name": "45 Bombay Chilli 5 pcs",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bombay-chilli-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120812&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/45_Bombay_Chilli_5_pcs.jpg"
+  },
+  {
+    "name": "Paan (Betel Leaf) 20 pcs",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/paan-betel-leaf-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40757&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Paan_Betel_Leaf_20_pcs.jpg"
+  },
+  {
+    "name": "55 Kacha Holud (Raw Turmeric) ± 12 gm 250 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kacha-holud-raw-turmeric-12-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7662&q=low&v=1&m=400&webp=1",
+    "image_location": "images/55_Kacha_Holud_Raw_Turmeric__12_gm_250_gm.jpg"
+  },
+  {
+    "name": "20 Potato Regular (± 25 gm) 600 gm",
+    "price": "15",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/potato-regular-25-gm-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164303&q=best&v=1&m=400&webp=1",
+    "image_location": "images/20_Potato_Regular__25_gm_600_gm.jpg"
+  },
+  {
+    "name": "50 Aloe Vera each",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aloe-vera-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35684&q=best&v=1&m=400&webp=1",
+    "image_location": "images/50_Aloe_Vera_each.jpg"
+  },
+  {
+    "name": "35 Deshi Roshun (Garlic Local) ±25 gm 250 gm",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-roshun-garlic-local-25-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163983&q=best&v=1&m=400&webp=1",
+    "image_location": "images/35_Deshi_Roshun_Garlic_Local_25_gm_250_gm.jpg"
+  },
+  {
+    "name": "55 Deshi Ada (Local Ginger) ± 25 gm 250 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-ada-local-ginger-25-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163145&q=best&v=1&m=400&webp=1",
+    "image_location": "images/55_Deshi_Ada_Local_Ginger__25_gm_250_gm.jpg"
+  },
+  {
+    "name": "Mehendi Pata (Henna Leaves) 3 bundles",
+    "price": "59",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mehendi-pata-henna-leaves-3-bundles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7669&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mehendi_Pata_Henna_Leaves_3_bundles.jpg"
+  },
+  {
+    "name": "Red Capsicum ±12 gm 300 gm",
+    "price": "189",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/red-capsicum-12-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54850&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Red_Capsicum_12_gm_300_gm.jpg"
+  },
+  {
+    "name": "Mula Shak (Radish Spinach) 1 bundle",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mula-shak-radish-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D88134&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Mula_Shak_Radish_Spinach_1_bundle.jpg"
+  },
+  {
+    "name": "65 Banana Flower (Kolar Mocha) each",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/banana-flower-kolar-mocha-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D89272&q=best&v=1&m=400&webp=1",
+    "image_location": "images/65_Banana_Flower_Kolar_Mocha_each.jpg"
+  },
+  {
+    "name": "Yellow Capsicum ±15 gm 300 gm",
+    "price": "189",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/yellow-capsicum-15-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D16552&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Yellow_Capsicum_15_gm_300_gm.jpg"
+  },
+  {
+    "name": "Banana Stem (Kolar Thor) each",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/banana-stem-kolar-thor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D89314&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Banana_Stem_Kolar_Thor_each.jpg"
+  },
+  {
+    "name": "49 Badhakopi Pata (Chinese Cabbage Leaves) 150 gm+ each",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/badhakopi-pata-chinese-cabbage-leaves-150-gm-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7070&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/49_Badhakopi_Pata_Chinese_Cabbage_Leaves_150_gm_each.jpg"
+  },
+  {
+    "name": "Watteh Greens Red Amaranth Microgreen 25 gm",
+    "price": "399",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/watteh-greens-red-amaranth-microgreen-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183805&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Watteh_Greens_Red_Amaranth_Microgreen_25_gm.jpg"
+  },
+  {
+    "name": "Watteh Greens Radish Microgreen 25 gm",
+    "price": "149",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/watteh-greens-radish-microgreen-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183806&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Watteh_Greens_Radish_Microgreen_25_gm.jpg"
+  },
+  {
+    "name": "Watteh Greens Mustard Microgreen 25 gm",
+    "price": "149",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/watteh-greens-mustard-microgreen-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183807&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Watteh_Greens_Mustard_Microgreen_25_gm.jpg"
+  },
+  {
+    "name": "129 Lemon Grass Stalk ± 12 gm 250 gm",
+    "price": "85",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lemon-grass-stalk-12-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140775&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/129_Lemon_Grass_Stalk__12_gm_250_gm.jpg"
+  },
+  {
+    "name": "50 Deshi Peyaj (Local Onion) ± 50 gm 1 kg",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-peyaj-local-onion-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52358&q=low&v=1&m=400&webp=1",
+    "image_location": "images/50_Deshi_Peyaj_Local_Onion__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Potol (Pointed Gourd) ± 25 gm 500 gm",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/potol-pointed-gourd-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35666&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Potol_Pointed_Gourd__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "39 Dheros (Ladies Finger) ± 25 gm 500 gm",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dheros-ladies-finger-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28563&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/39_Dheros_Ladies_Finger__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "60 Deshi Gajor (Local Carrot) ± 25 gm 500 gm",
+    "price": "49",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-gajor-local-carrot-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64363&q=best&v=1&m=400&webp=1",
+    "image_location": "images/60_Deshi_Gajor_Local_Carrot__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Boro Alu (Big Diamond Potato) ± 50 gm 1 kg",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/boro-alu-big-diamond-potato-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79694&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Boro_Alu_Big_Diamond_Potato__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "59 Kacha Aam (Green Mango) ± 50 gm 1 kg",
+    "price": "49",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kacha-aam-green-mango-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35636&q=best&v=1&m=400&webp=1",
+    "image_location": "images/59_Kacha_Aam_Green_Mango__50_gm_1_kg.jpg"
+  },
+  {
+    "name": "Borboti (Long Bean) ± 25 gm 500 gm",
+    "price": "65",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/borboti-long-bean-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22410&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Borboti_Long_Bean__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Deshi Peyaj (Local Onion) ± 25 gm 500 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deshi-peyaj-local-onion-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163942&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Deshi_Peyaj_Local_Onion__25_gm_500_gm.jpg"
+  },
+  {
+    "name": "Misti Kumra (Sweet Pumpkin) each",
+    "price": "119",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/misti-kumra-sweet-pumpkin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35681&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Misti_Kumra_Sweet_Pumpkin_each.jpg"
+  },
+  {
+    "name": "120 Gajor (Imported Carrot) ± 30 gm 600 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gajor-imported-carrot-30-gm-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78085&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/120_Gajor_Imported_Carrot__30_gm_600_gm.jpg"
+  },
+  {
+    "name": "50 Misti Kumra Shak (Sweet Pumpkin Leaves) 1 bundle",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/misti-kumra-shak-sweet-pumpkin-leaves-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124244&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/50_Misti_Kumra_Shak_Sweet_Pumpkin_Leaves_1_bundle.jpg"
+  },
+  {
+    "name": "39 Corn ( Vutta ) each",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/corn-vutta1pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73778&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/39_Corn__Vutta_each.jpg"
+  },
+  {
+    "name": "99 Lomba Kochu each",
+    "price": "89",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lomba-kochu-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130323&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/99_Lomba_Kochu_each.jpg"
+  }
+]
