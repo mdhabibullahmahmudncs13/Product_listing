@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Golden Grain Cumin (Jira) 100 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-cumin-jira-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187910&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Cumin_Jira_100_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Poppy Seed (Posto Dana) 50 gm",
+    "price": "195",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-poppy-seed-posto-dana-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187931&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Poppy_Seed_Posto_Dana_50_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Dried Chillies (Shukna Morich) 100 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-dried-chillies-shukna-morich-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187911&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Dried_Chillies_Shukna_Morich_100_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Black Pepper (Gol Morich) Whole 100 gm",
+    "price": "195",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-black-pepper-gol-morich-whole-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187921&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Black_Pepper_Gol_Morich_Whole_100_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Black Cumin (Kalo Jira) 100 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-black-cumin-kalo-jira-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187928&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Black_Cumin_Kalo_Jira_100_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Coriander (Dhonia) 100 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-coriander-dhonia-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187914&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Coriander_Dhonia_100_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Cardamom (Elachi) Whole 50 gm",
+    "price": "350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-cardamom-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187930&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Cardamom_Elachi_Whole_50_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Bay Leaf (Tejpata) 100 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-bay-leaf-tejpata-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187913&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Bay_Leaf_Tejpata_100_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Clove (Lobongo) 50 gm",
+    "price": "145",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-clove-lobongo-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187898&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Clove_Lobongo_50_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Mix Spice (Pach Foron) 100 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-mix-spice-pach-foron-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187922&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Mix_Spice_Pach_Foron_100_gm.jpg"
+  },
+  {
+    "name": "Golden Grain Mustard Seed (Red) 100 gm",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-grain-mustard-seed-red-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187925&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Grain_Mustard_Seed_Red_100_gm.jpg"
+  },
+  {
+    "name": "Cinnamon (Daruchini) Whole 100 gm",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cinnamon-daruchini-whole-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48355&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Cinnamon_Daruchini_Whole_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chilli (Morich) Powder 100 gm",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chilli-morich-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132509&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chilli_Morich_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Cumin (Jira) Powder 100 gm",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-cumin-jira-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132521&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Cumin_Jira_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Coriander (Dhonia) Powder 100 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-coriander-dhonia-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132516&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Coriander_Dhonia_Powder_100_gm.jpg"
+  },
+  {
+    "name": "35 Fenugreek (Methi) Seed 100 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fenugreek-methi-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48366&q=best&v=1&m=400&webp=1",
+    "image_location": "images/35_Fenugreek_Methi_Seed_100_gm.jpg"
+  },
+  {
+    "name": "30 Mustard Seed (Yellow) 100 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mustard-seed-yellow-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130992&q=best&v=1&m=400&webp=1",
+    "image_location": "images/30_Mustard_Seed_Yellow_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Garam Masala 15 gm",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-garam-masala-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132528&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Garam_Masala_15_gm.jpg"
+  },
+  {
+    "name": "Radhuni Turmeric (Holud) Powder 50 gm",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-turmeric-holud-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132555&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Turmeric_Holud_Powder_50_gm.jpg"
+  },
+  {
+    "name": "Ramisa Tokma 100 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ramisa-tokma-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185387&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ramisa_Tokma_100_gm.jpg"
+  },
+  {
+    "name": "199 Betel Nut (Shupari) 250 gm",
+    "price": "169",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/betel-nut-shupari-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46972&q=best&v=1&m=400&webp=1",
+    "image_location": "images/199_Betel_Nut_Shupari_250_gm.jpg"
+  },
+  {
+    "name": "Fresh Chilli Powder 200 gm",
+    "price": "125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-chilli-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135105&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Chilli_Powder_200_gm.jpg"
+  },
+  {
+    "name": "35 Mustard Seed (Red) 100 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mustard-seed-red-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115243&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/35_Mustard_Seed_Red_100_gm.jpg"
+  },
+  {
+    "name": "199 Walnuts (Akhrot) 100 gm",
+    "price": "179",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/walnuts-akhrot-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184610&q=best&v=1&m=400&webp=1",
+    "image_location": "images/199_Walnuts_Akhrot_100_gm.jpg"
+  },
+  {
+    "name": "95 Cumin (Jira) 100 gm",
+    "price": "85",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cumin-jira-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183697&q=best&v=1&m=400&webp=1",
+    "image_location": "images/95_Cumin_Jira_100_gm.jpg"
+  },
+  {
+    "name": "149 Cardamom (Elachi) Whole 25 gm",
+    "price": "139",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cardamom-elachi-whole-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183665&q=best&v=1&m=400&webp=1",
+    "image_location": "images/149_Cardamom_Elachi_Whole_25_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chilli (Morich) Powder 200 gm",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chilli-morich-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132510&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chilli_Morich_Powder_200_gm.jpg"
+  },
+  {
+    "name": "55 Dried Chillies (Shukna Morich) 100 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dried-chillies-shukna-morich-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48364&q=best&v=1&m=400&webp=1",
+    "image_location": "images/55_Dried_Chillies_Shukna_Morich_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Turmeric (Holud) Powder 200 gm",
+    "price": "145",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-turmeric-holud-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132553&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Turmeric_Holud_Powder_200_gm.jpg"
+  },
+  {
+    "name": "Radhuni Turmeric (Holud) Powder 100 gm",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-turmeric-holud-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132554&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Turmeric_Holud_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Garam Masala 40 gm",
+    "price": "95",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-garam-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132527&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Garam_Masala_40_gm.jpg"
+  },
+  {
+    "name": "119 Clove (Lobongo) 50 gm",
+    "price": "89",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clove-lobongo-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184759&q=best&v=1&m=400&webp=1",
+    "image_location": "images/119_Clove_Lobongo_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Coriander (Dhonia) Powder 200 gm",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-coriander-dhonia-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132897&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Coriander_Dhonia_Powder_200_gm.jpg"
+  },
+  {
+    "name": "35 Bay Leaf (Tejpata) 100 gm",
+    "price": "29",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bay-leaf-tejpata-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48347&q=best&v=1&m=400&webp=1",
+    "image_location": "images/35_Bay_Leaf_Tejpata_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Cumin (Jira) Powder 50 gm",
+    "price": "85",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-cumin-jira-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132522&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Cumin_Jira_Powder_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Cumin (Jira) Powder 200 gm",
+    "price": "310",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-cumin-jira-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132896&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Cumin_Jira_Powder_200_gm.jpg"
+  },
+  {
+    "name": "299 Cardamom (Elachi) Whole 50 gm",
+    "price": "269",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cardamom-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183666&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/299_Cardamom_Elachi_Whole_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chilli (Morich) Powder 500 gm",
+    "price": "345",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chilli-morich-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132511&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chilli_Morich_Powder_500_gm.jpg"
+  },
+  {
+    "name": "Radhuni Panch Phoran 50 gm",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-panch-phoran-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132545&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Panch_Phoran_50_gm.jpg"
+  },
+  {
+    "name": "89 Chia Seed 100 gm",
+    "price": "59",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chia-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78545&q=best&v=1&m=400&webp=1",
+    "image_location": "images/89_Chia_Seed_100_gm.jpg"
+  },
+  {
+    "name": "Black Cumin (Kalo Jira) 100 gm",
+    "price": "69",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/black-cumin-kalo-jira-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67826&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Black_Cumin_Kalo_Jira_100_gm.jpg"
+  },
+  {
+    "name": "85 Black Pepper (Gol Morich) Whole 50 gm",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/black-pepper-gol-morich-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184755&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/85_Black_Pepper_Gol_Morich_Whole_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Turmeric (Holud) Powder 500 gm",
+    "price": "335",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-turmeric-holud-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132552&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Turmeric_Holud_Powder_500_gm.jpg"
+  },
+  {
+    "name": "55 Fennel (Mouri) 100 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fennel-mouri-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48365&q=best&v=1&m=400&webp=1",
+    "image_location": "images/55_Fennel_Mouri_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chilli (Morich) Powder 50 gm",
+    "price": "38",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chilli-morich-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132508&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chilli_Morich_Powder_50_gm.jpg"
+  },
+  {
+    "name": "149 Alu Bukhara 100 gm",
+    "price": "119",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/alu-bukhara-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48343&q=best&v=1&m=400&webp=1",
+    "image_location": "images/149_Alu_Bukhara_100_gm.jpg"
+  },
+  {
+    "name": "219 Black Cardamom (Kalo Elachi) Whole 50 gm",
+    "price": "199",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/black-cardamom-kalo-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50292&q=best&v=1&m=400&webp=1",
+    "image_location": "images/219_Black_Cardamom_Kalo_Elachi_Whole_50_gm.jpg"
+  },
+  {
+    "name": "Coriander (Dhonia) 100 gm",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coriander-dhonia-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48363&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Coriander_Dhonia_100_gm.jpg"
+  },
+  {
+    "name": "45 Mix Spice (Pach Foron) 100 gm",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mix-spice-pach-foron-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130790&q=best&v=1&m=400&webp=1",
+    "image_location": "images/45_Mix_Spice_Pach_Foron_100_gm.jpg"
+  },
+  {
+    "name": "319 Green Cardamom (Sobuj Elachi) Whole 50 gm",
+    "price": "299",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/green-cardamom-sobuj-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184770&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/319_Green_Cardamom_Sobuj_Elachi_Whole_50_gm.jpg"
+  },
+  {
+    "name": "Nutmeg (Jayfal) Whole 5 pcs",
+    "price": "49",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nutmeg-jayfal-whole-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103098&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nutmeg_Jayfal_Whole_5_pcs.jpg"
+  },
+  {
+    "name": "165 Black Pepper (Gol Morich) Whole 100 gm",
+    "price": "159",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/black-pepper-gol-morich-whole-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184756&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/165_Black_Pepper_Gol_Morich_Whole_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Coriander (Dhonia) Powder 50 gm",
+    "price": "32",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-coriander-dhonia-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132517&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Coriander_Dhonia_Powder_50_gm.jpg"
+  },
+  {
+    "name": "Imperial Eats Red Chilli Powder 200 gm",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/imperial-eats-red-chilli-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167804&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Imperial_Eats_Red_Chilli_Powder_200_gm.jpg"
+  },
+  {
+    "name": "Imperial Eats Healthy Gut Mix 250 gm",
+    "price": "550",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/imperial-eats-healthy-gut-mix-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167800&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Imperial_Eats_Healthy_Gut_Mix_250_gm.jpg"
+  },
+  {
+    "name": "Rongdhonu Arjun Powder 100 gm",
+    "price": "95",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rongdhonu-arjun-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149207&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Rongdhonu_Arjun_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Bangla Cut Tastebud Meat Masala 75 gm",
+    "price": "290",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bangla-cut-tastebud-meat-masala-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125896&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bangla_Cut_Tastebud_Meat_Masala_75_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chilli Flakes 40 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chilli-flakes-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132513&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chilli_Flakes_40_gm.jpg"
+  },
+  {
+    "name": "Farmer's Gold Kabab Spice Powder 100 gm",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-kabab-spice-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128395&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Kabab_Spice_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Farmer's Gold Black Seed (Kalo Jira) Powder 100 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-black-seed-kalo-jira-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131655&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Black_Seed_Kalo_Jira_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Fresh Cumin (Jira) Powder 100 gm",
+    "price": "180",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-cumin-jira-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131206&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Cumin_Jira_Powder_100_gm.jpg"
+  },
+  {
+    "name": "My Organic BD Black Pepper (Gol Morich) Whole 100 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/my-organic-bd-black-pepper-gol-morich-whole-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131003&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/My_Organic_BD_Black_Pepper_Gol_Morich_Whole_100_gm.jpg"
+  },
+  {
+    "name": "ACI Pure Cumin (Jira) Powder 100 gm",
+    "price": "82",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-pure-cumin-jira-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122826&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Pure_Cumin_Jira_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Seeds 100 gm",
+    "price": "59",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-seeds-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80140&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Seeds_100_gm.jpg"
+  },
+  {
+    "name": "199 Kabab Chini 50 gm",
+    "price": "149",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kabab-chini-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184964&q=best&v=1&m=400&webp=1",
+    "image_location": "images/199_Kabab_Chini_50_gm.jpg"
+  },
+  {
+    "name": "Ahmed Roast Masala 35 gm",
+    "price": "65",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ahmed-roast-masala-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108171&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ahmed_Roast_Masala_35_gm.jpg"
+  },
+  {
+    "name": "Ahmed Biryani Masala 40 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ahmed-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D87868&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ahmed_Biryani_Masala_40_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chilli (Morich) Powder Jar 200 gm",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chilli-morich-powder-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132512&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chilli_Morich_Powder_Jar_200_gm.jpg"
+  },
+  {
+    "name": "Radhuni Turmeric (Holud) Powder Jar 200 gm",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-turmeric-holud-powder-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132556&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Turmeric_Holud_Powder_Jar_200_gm.jpg"
+  },
+  {
+    "name": "150 White Pepper Whole 50 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/white-pepper-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184757&q=best&v=1&m=400&webp=1",
+    "image_location": "images/150_White_Pepper_Whole_50_gm.jpg"
+  },
+  {
+    "name": "159 Star Flower 50 gm",
+    "price": "139",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/star-flower-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185008&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/159_Star_Flower_50_gm.jpg"
+  },
+  {
+    "name": "119 Imperial Cumin (Shahi Jira) 50 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/imperial-cumin-shahi-jira-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129472&q=best&v=1&m=400&webp=1",
+    "image_location": "images/119_Imperial_Cumin_Shahi_Jira_50_gm.jpg"
+  },
+  {
+    "name": "Mace Whole 50 gm",
+    "price": "199",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mace-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130484&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Mace_Whole_50_gm.jpg"
+  },
+  {
+    "name": "199 Poppy Seed (Posto Dana) 50 gm",
+    "price": "179",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/poppy-seed-posto-dana-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132211&q=best&v=1&m=400&webp=1",
+    "image_location": "images/199_Poppy_Seed_Posto_Dana_50_gm.jpg"
+  },
+  {
+    "name": "Fresh Turmeric Powder 200 gm",
+    "price": "135",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-turmeric-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135109&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Turmeric_Powder_200_gm.jpg"
+  },
+  {
+    "name": "Pran Meat Masala 100 gm",
+    "price": "95",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-meat-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108353&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Meat_Masala_100_gm.jpg"
+  },
+  {
+    "name": "Pran Chilli Powder Jar 200 gm",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-chilli-powder-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D111321&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Chilli_Powder_Jar_200_gm.jpg"
+  },
+  {
+    "name": "119 Ekanghi 100 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ekanghi-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64817&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/119_Ekanghi_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Cumin (Jira) Powder 500 gm",
+    "price": "750",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-cumin-jira-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132519&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Cumin_Jira_Powder_500_gm.jpg"
+  },
+  {
+    "name": "Shan Biryani Masala 50 gm",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-biryani-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168600&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Shan_Biryani_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Globe Thyme 10 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/globe-thyme-10-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48425&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Globe_Thyme_10_gm.jpg"
+  },
+  {
+    "name": "589 Cardamom (Elachi) Whole 100 gm",
+    "price": "539",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cardamom-elachi-whole-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183664&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/589_Cardamom_Elachi_Whole_100_gm.jpg"
+  },
+  {
+    "name": "Tokma Seed 100 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tokma-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48426&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tokma_Seed_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Coriander (Dhonia) Powder 500 gm",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-coriander-dhonia-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132514&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Coriander_Dhonia_Powder_500_gm.jpg"
+  },
+  {
+    "name": "Arrowroot 100 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/arrowroot-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175875&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Arrowroot_100_gm.jpg"
+  },
+  {
+    "name": "49 Ajwain 100 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ajwain-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48342&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/49_Ajwain_100_gm.jpg"
+  },
+  {
+    "name": "Pran Turmeric (Holud) Powder Jar 200 gm",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-turmeric-holud-powder-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132337&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Turmeric_Holud_Powder_Jar_200_gm.jpg"
+  },
+  {
+    "name": "Pran Cumin (Jira) Powder Jar 200 gm",
+    "price": "330",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-cumin-jira-powder-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113291&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Cumin_Jira_Powder_Jar_200_gm.jpg"
+  },
+  {
+    "name": "Paprika Bottle 15 gm",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/paprika-bottle-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177913&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Paprika_Bottle_15_gm.jpg"
+  },
+  {
+    "name": "Mace Whole 100 gm",
+    "price": "369",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mace-whole-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48378&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Mace_Whole_100_gm.jpg"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "89 Chia Seed 100 gm",
+    "price": "59",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chia-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78545&q=best&v=1&m=400&webp=1",
+    "image_location": "images/89_Chia_Seed_100_gm.jpg"
+  },
+  {
+    "name": "Farmer's Gold Raw Turmeric powder 100 gm",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-raw-turmeric-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131651&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Raw_Turmeric_powder_100_gm.jpg"
+  },
+  {
+    "name": "Farmer's Gold Protein Powder 200 gm",
+    "price": "450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-protein-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131671&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Protein_Powder_200_gm.jpg"
+  },
+  {
+    "name": "Ligion Black Seed With Sesame Seed 100 gm",
+    "price": "130",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ligion-black-seed-with-sesame-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138645&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Ligion_Black_Seed_With_Sesame_Seed_100_gm.jpg"
+  },
+  {
+    "name": "Saffron (Jafran) 1 gm",
+    "price": "299",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/saffron-jafran-1-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18137&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Saffron_Jafran_1_gm.jpg"
+  }
+]

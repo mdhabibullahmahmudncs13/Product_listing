@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Foodela Ghee 400 gm",
+    "price": "785",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foodela-ghee-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178445&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Foodela_Ghee_400_gm.jpg"
+  },
+  {
+    "name": "Foodela Ghee 200 gm",
+    "price": "390",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foodela-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178444&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Foodela_Ghee_200_gm.jpg"
+  },
+  {
+    "name": "Foodela Ghee 100 gm",
+    "price": "215",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foodela-ghee-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178443&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Foodela_Ghee_100_gm.jpg"
+  },
+  {
+    "name": "Aarong Dairy Pure Ghee 200 gm",
+    "price": "390",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-pure-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26926&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Pure_Ghee_200_gm.jpg"
+  },
+  {
+    "name": "Aarong Dairy Pure Ghee 450 gm",
+    "price": "825",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-pure-ghee-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179716&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Pure_Ghee_450_gm.jpg"
+  },
+  {
+    "name": "Radhuni Premium Ghee 200 gm",
+    "price": "415",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-premium-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158275&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Premium_Ghee_200_gm.jpg"
+  },
+  {
+    "name": "Radhuni Premium Ghee 100 gm",
+    "price": "230",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-premium-ghee-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158274&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Premium_Ghee_100_gm.jpg"
+  },
+  {
+    "name": "Ultra Ghee 900 gm",
+    "price": "1450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ultra-ghee-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124774&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Ultra_Ghee_900_gm.jpg"
+  },
+  {
+    "name": "Meena sweets Ghee 500 gm",
+    "price": "1075",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/meena-sweets-ghee-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D100652&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Meena_sweets_Ghee_500_gm.jpg"
+  },
+  {
+    "name": "Pran Premium Ghee 200 gm",
+    "price": "350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-premium-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137122&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Premium_Ghee_200_gm.jpg"
+  },
+  {
+    "name": "Pran Premium Ghee 100 gm",
+    "price": "190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-premium-ghee-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137121&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Premium_Ghee_100_gm.jpg"
+  },
+  {
+    "name": "Pran Premium Ghee 400 gm",
+    "price": "760",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-premium-ghee-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137123&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Pran_Premium_Ghee_400_gm.jpg"
+  },
+  {
+    "name": "Aarong Dairy Pure Ghee 900 gm",
+    "price": "1735",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aarong-dairy-pure-ghee-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179309&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Aarong_Dairy_Pure_Ghee_900_gm.jpg"
+  }
+]

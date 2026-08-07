@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Oil",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/oil?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181824&q=best&v=1&m=700&webp=1",
+    "image_location": "images/Oil.jpg"
+  },
+  {
+    "name": "Rahul Pure Mustard Oil 1 ltr",
+    "price": "355",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rahul-pure-mustard-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185269&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Rahul_Pure_Mustard_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Farmer's Gold Flaxseed Oil 100 ml",
+    "price": "165",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-flaxseed-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160664&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Flaxseed_Oil_100_ml.jpg"
+  },
+  {
+    "name": "La Espanola Extra Virgin Olive Oil 500 ml",
+    "price": "1350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/la-espanola-extra-virgin-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129928&q=best&v=1&m=400&webp=1",
+    "image_location": "images/La_Espanola_Extra_Virgin_Olive_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Fresh Fortified Soyabean Oil 5 ltr",
+    "price": "975",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-fortified-soyabean-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135116&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Fortified_Soyabean_Oil_5_ltr.jpg"
+  },
+  {
+    "name": "Teer Fortified Soyabean Oil 1 ltr",
+    "price": "199",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/teer-fortified-soyabean-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136109&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Teer_Fortified_Soyabean_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Fresh Fortified Soyabean Oil 2 ltr",
+    "price": "398",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-fortified-soyabean-oil-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135115&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Fortified_Soyabean_Oil_2_ltr.jpg"
+  },
+  {
+    "name": "Teer Fortified Soyabean Oil 2 ltr",
+    "price": "398",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/teer-fortified-soyabean-oil-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136108&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Teer_Fortified_Soyabean_Oil_2_ltr.jpg"
+  },
+  {
+    "name": "Radhuni Pure Mustard Oil 500 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-pure-mustard-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132550&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Pure_Mustard_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Radhuni Pure Mustard Oil 1 ltr",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-pure-mustard-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132549&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Pure_Mustard_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Pusti Fortified Soyabean Oil 1 ltr",
+    "price": "199",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pusti-fortified-soyabean-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132433&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pusti_Fortified_Soyabean_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Fresh Mustard Oil 1 ltr",
+    "price": "330",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-mustard-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168903&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Mustard_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "ACI Nutrilife Rice Bran Oil 5 ltr",
+    "price": "1160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-nutrilife-rice-bran-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177941&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Nutrilife_Rice_Bran_Oil_5_ltr.jpg"
+  },
+  {
+    "name": "Fresh Rice Bran Oil 5 ltr",
+    "price": "1080",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-rice-bran-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178229&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Rice_Bran_Oil_5_ltr.jpg"
+  },
+  {
+    "name": "Fresh Mustard Oil 500 ml",
+    "price": "180",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-mustard-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168881&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Mustard_Oil_500_ml.jpg"
+  },
+  {
+    "name": "10 King's Sunflower Oil Pet 5 ltr",
+    "price": "2100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kings-sunflower-oil-pet-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182967&q=best&v=1&m=400&webp=1",
+    "image_location": "images/10_Kings_Sunflower_Oil_Pet_5_ltr.jpg"
+  },
+  {
+    "name": "Fortune Fortified Rice Bran Oil 5 ltr",
+    "price": "1210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fortune-fortified-rice-bran-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182968&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fortune_Fortified_Rice_Bran_Oil_5_ltr.jpg"
+  },
+  {
+    "name": "10 Orkide Sunflower Oil 5 ltr",
+    "price": "2100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/orkide-sunflower-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131611&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/10_Orkide_Sunflower_Oil_5_ltr.jpg"
+  },
+  {
+    "name": "Ecorganic Fortified Sunflower Oil Pet 5 ltr",
+    "price": "2125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ecorganic-fortified-sunflower-oil-pet-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163383&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ecorganic_Fortified_Sunflower_Oil_Pet_5_ltr.jpg"
+  },
+  {
+    "name": "Foodela Mustard Oil 1 ltr",
+    "price": "360",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foodela-mustard-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178464&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Foodela_Mustard_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Foodela Mustard Oil 500 ml",
+    "price": "180",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foodela-mustard-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178462&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Foodela_Mustard_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Radhuni Pure Mustard Oil 2 ltr",
+    "price": "750",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-pure-mustard-oil-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176933&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Pure_Mustard_Oil_2_ltr.jpg"
+  },
+  {
+    "name": "Starship Fortified Soyabean Oil 2 ltr",
+    "price": "398",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/starship-fortified-soyabean-oil-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174123&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Starship_Fortified_Soyabean_Oil_2_ltr.jpg"
+  },
+  {
+    "name": "Farmer's Gold Peanut oil 100 ml",
+    "price": "345",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-peanut-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160653&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Peanut_oil_100_ml.jpg"
+  },
+  {
+    "name": "Olio Orolio Olive Oil 3 ltr",
+    "price": "4100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olio-orolio-olive-oil-3-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125610&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olio_Orolio_Olive_Oil_3_ltr.jpg"
+  },
+  {
+    "name": "Olio Orolio Extra Virgin Olive Oil 5 ltr",
+    "price": "10800",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olio-orolio-extra-virgin-olive-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D148786&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olio_Orolio_Extra_Virgin_Olive_Oil_5_ltr.jpg"
+  },
+  {
+    "name": "Olitalia Italian Pomace Olive Oil 250 ml",
+    "price": "750",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olitalia-italian-pomace-olive-oil-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125053&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olitalia_Italian_Pomace_Olive_Oil_250_ml.jpg"
+  },
+  {
+    "name": "Sunshine Mustard Oil 1 ltr",
+    "price": "360",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sunshine-mustard-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122932&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sunshine_Mustard_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Olio Orolio Olive Oil 1 ltr",
+    "price": "1565",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olio-orolio-olive-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122142&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olio_Orolio_Olive_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Olio Orolio Olive Oil 750 ml",
+    "price": "1190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olio-orolio-olive-oil-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122139&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olio_Orolio_Olive_Oil_750_ml.jpg"
+  },
+  {
+    "name": "Olio Orolio Olive Oil 500 ml",
+    "price": "900",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olio-orolio-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122137&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olio_Orolio_Olive_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Olio Orolio Extra Virgin Olive Oil 1 ltr",
+    "price": "2300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olio-orolio-extra-virgin-olive-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D148784&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olio_Orolio_Extra_Virgin_Olive_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Olio Orolio Extra Virgin Olive Oil 500 ml",
+    "price": "1195",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olio-orolio-extra-virgin-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122133&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olio_Orolio_Extra_Virgin_Olive_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Clariss Olive Oil Pomace Glass Bottle 250 ml",
+    "price": "495",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clariss-olive-oil-pomace-glass-bottle-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93952&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Clariss_Olive_Oil_Pomace_Glass_Bottle_250_ml.jpg"
+  },
+  {
+    "name": "Ceylon Organic Extra Virgin Coconut Oil 200 ml",
+    "price": "600",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ceylon-organic-extra-virgin-coconut-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126645&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ceylon_Organic_Extra_Virgin_Coconut_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Luglio Extra Virgin Olive Oil 1 ltr",
+    "price": "1950",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/luglio-extra-virgin-olive-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74239&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Luglio_Extra_Virgin_Olive_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "10 Golden Drop Sunflower Oil 5 ltr",
+    "price": "2150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-drop-sunflower-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128923&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/10_Golden_Drop_Sunflower_Oil_5_ltr.jpg"
+  },
+  {
+    "name": "Ceylon Organic Extra Virgin Coconut Oil 500 ml",
+    "price": "1590",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ceylon-organic-extra-virgin-coconut-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126647&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ceylon_Organic_Extra_Virgin_Coconut_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Naturel Organic Extra Virgin Coconut Oil 500 ml",
+    "price": "1525",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/naturel-organic-extra-virgin-coconut-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101800&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Naturel_Organic_Extra_Virgin_Coconut_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Orkide Extra Virgin Olive Oil 500 ml",
+    "price": "675",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/orkide-extra-virgin-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131610&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Orkide_Extra_Virgin_Olive_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Pran Mustard Oil 1 ltr",
+    "price": "340",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-mustard-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108370&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Mustard_Oil_1_ltr.jpg"
+  },
+  {
+    "name": "Saffola Active Plus Edible Oil 5 ltr",
+    "price": "2000",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/saffola-active-plus-edible-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133099&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Saffola_Active_Plus_Edible_Oil_5_ltr.jpg"
+  },
+  {
+    "name": "YO WE Fragrance Sesame Oil 630 ml",
+    "price": "1045",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/yo-we-fragrance-sesame-oil-630-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182292&q=best&v=1&m=400&webp=1",
+    "image_location": "images/YO_WE_Fragrance_Sesame_Oil_630_ml.jpg"
+  },
+  {
+    "name": "Pran Mustard Oil 500 ml",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-mustard-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132319&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Mustard_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Ambassador Spanish Olive Oil Can 150 ml",
+    "price": "550",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ambassador-spanish-olive-oil-can-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123301&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ambassador_Spanish_Olive_Oil_Can_150_ml.jpg"
+  }
+]

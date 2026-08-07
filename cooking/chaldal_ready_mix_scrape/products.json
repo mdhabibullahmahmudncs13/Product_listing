@@ -1,0 +1,380 @@
+[
+  {
+    "name": "95 Ahmed Chicken Masala 100 gm",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ahmed-chicken-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122976&q=best&v=1&m=400&webp=1",
+    "image_location": "images/95_Ahmed_Chicken_Masala_100_gm.jpg"
+  },
+  {
+    "name": "Nestle Maggi Shaad-e Magic Seasoning Mix Sachet 4 gm",
+    "price": "5",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-maggi-shaad-e-magic-seasoning-mix-sachet-4-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131313&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Maggi_Shaad-e_Magic_Seasoning_Mix_Sachet_4_gm.jpg"
+  },
+  {
+    "name": "Radhuni Biryani Masala 40 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109980&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Biryani_Masala_40_gm.jpg"
+  },
+  {
+    "name": "Radhuni Roast Masala 35 gm",
+    "price": "65",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-roast-masala-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110797&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Roast_Masala_35_gm.jpg"
+  },
+  {
+    "name": "Radhuni Tehari Masala 40 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-tehari-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110807&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Tehari_Masala_40_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chicken Masala 20 gm",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chicken-masala-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132481&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chicken_Masala_20_gm.jpg"
+  },
+  {
+    "name": "Fresh Biryani Masala 40 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96331&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Biryani_Masala_40_gm.jpg"
+  },
+  {
+    "name": "Ahmed Chotpoti Masala 50 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ahmed-chotpoti-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59374&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ahmed_Chotpoti_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Fresh Firni Mix 150 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113113&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Firni_Mix_150_gm.jpg"
+  },
+  {
+    "name": "Fresh Haleem Mix 200 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113118&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Haleem_Mix_200_gm.jpg"
+  },
+  {
+    "name": "Radhuni Kachchi Biryani Masala 40 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-kachchi-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110485&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Kachchi_Biryani_Masala_40_gm.jpg"
+  },
+  {
+    "name": "Shan Chicken Tikka Masala Mix 50 gm",
+    "price": "117",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-chicken-tikka-masala-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133613&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Chicken_Tikka_Masala_Mix_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Beef Masala 25 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-beef-masala-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132447&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Beef_Masala_25_gm.jpg"
+  },
+  {
+    "name": "Radhuni Kabab Masala 50 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-kabab-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110483&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Kabab_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Ahmed Meat Masala 100 gm",
+    "price": "95",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ahmed-meat-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123001&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ahmed_Meat_Masala_100_gm.jpg"
+  },
+  {
+    "name": "Nestle Maggi Shaad-e Magic Seasoning Mix 4 gm 12 pcs",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-maggi-shaad-e-magic-seasoning-mix-4-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178321&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Maggi_Shaad-e_Magic_Seasoning_Mix_4_gm_12_pcs.jpg"
+  },
+  {
+    "name": "Radhuni Chotpoti Masala 50 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chotpoti-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138436&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chotpoti_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Haleem Mix 200 gm",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132529&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Haleem_Mix_200_gm.jpg"
+  },
+  {
+    "name": "Radhuni Falooda Mix (Mango Flavor) 250 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-falooda-mix-mango-flavor-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132524&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Falooda_Mix_Mango_Flavor_250_gm.jpg"
+  },
+  {
+    "name": "Radhuni Falooda Mix (Vanilla Flavor) 250 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-falooda-mix-vanilla-flavor-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138437&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Falooda_Mix_Vanilla_Flavor_250_gm.jpg"
+  },
+  {
+    "name": "Radhuni Kala Bhuna Masala 80 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-kala-bhuna-masala-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110486&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Kala_Bhuna_Masala_80_gm.jpg"
+  },
+  {
+    "name": "ACI Pure Kabab Masala 50 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-pure-kabab-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177466&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Pure_Kabab_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Farmer's Gold Khichuri Mix 500 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-khichuri-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149026&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Khichuri_Mix_500_gm.jpg"
+  },
+  {
+    "name": "Teer Haleem Mix 200 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/teer-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D100991&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Teer_Haleem_Mix_200_gm.jpg"
+  },
+  {
+    "name": "Fresh Roast Masala 35 gm",
+    "price": "65",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-roast-masala-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96335&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Roast_Masala_35_gm.jpg"
+  },
+  {
+    "name": "Nestle Maggi Shaad-e Magic Seasoning Mix Sachet 25 gm",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-maggi-shaad-e-magic-seasoning-mix-sachet-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131312&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Maggi_Shaad-e_Magic_Seasoning_Mix_Sachet_25_gm.jpg"
+  },
+  {
+    "name": "Radhuni Bbq Masala 50 gm",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-bbq-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109973&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Bbq_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chicken Masala 100 gm",
+    "price": "95",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chicken-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109989&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chicken_Masala_100_gm.jpg"
+  },
+  {
+    "name": "Ahmed Firni Mix 150 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ahmed-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108014&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ahmed_Firni_Mix_150_gm.jpg"
+  },
+  {
+    "name": "Ahmed Haleem Mix 200 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ahmed-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95818&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ahmed_Haleem_Mix_200_gm.jpg"
+  },
+  {
+    "name": "Radhuni Beef Curry Masala 100 gm",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-beef-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109975&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Beef_Curry_Masala_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Chicken Tandoori Masala 50 gm",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-chicken-tandoori-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109997&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Chicken_Tandoori_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Hyderabadi Biryani Masala 45 gm",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-hyderabadi-biryani-masala-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110479&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Hyderabadi_Biryani_Masala_45_gm.jpg"
+  },
+  {
+    "name": "Pran Firni Mix 150 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108144&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Firni_Mix_150_gm.jpg"
+  },
+  {
+    "name": "Pran Haleem Mix 200 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D154706&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Haleem_Mix_200_gm.jpg"
+  },
+  {
+    "name": "Pran Tehari Masala 40 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-tehari-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186430&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Tehari_Masala_40_gm.jpg"
+  },
+  {
+    "name": "Shan Pilau Biryani 50 gm",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-pilau-biryani-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133623&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Pilau_Biryani_50_gm.jpg"
+  },
+  {
+    "name": "Pran Chotpoti Masala 45 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-chotpoti-masala-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175132&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Chotpoti_Masala_45_gm.jpg"
+  },
+  {
+    "name": "Shan Shami Kabab 50 gm",
+    "price": "117",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-shami-kabab-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133625&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Shan_Shami_Kabab_50_gm.jpg"
+  },
+  {
+    "name": "Sajeeb Ready Mix Pancake 500 gm",
+    "price": "225",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sajeeb-ready-mix-pancake-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94968&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sajeeb_Ready_Mix_Pancake_500_gm.jpg"
+  },
+  {
+    "name": "Shan Chicken Masala 50 gm",
+    "price": "122",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-chicken-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133612&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Chicken_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Shan Chaat Masala 100 gm",
+    "price": "138",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-chaat-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133601&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Chaat_Masala_100_gm.jpg"
+  },
+  {
+    "name": "Shan Karachi Beef Biryani 60 gm",
+    "price": "125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-karachi-beef-biryani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48317&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Karachi_Beef_Biryani_60_gm.jpg"
+  },
+  {
+    "name": "Shan Malay Spice Mix for Memoni Mutton Biryani 60 gm",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-malay-spice-mix-for-memoni-mutton-biryani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127108&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Malay_Spice_Mix_for_Memoni_Mutton_Biryani_60_gm.jpg"
+  },
+  {
+    "name": "Shan Tikka Bbq 50 gm",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-tikka-bbq-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48330&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Tikka_Bbq_50_gm.jpg"
+  },
+  {
+    "name": "Shan Korma Curry Mix 50 gm",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-korma-curry-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133619&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Shan_Korma_Curry_Mix_50_gm.jpg"
+  },
+  {
+    "name": "Sajeeb Ready Mix Bhuna Khichuri 500 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sajeeb-ready-mix-bhuna-khichuri-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122637&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sajeeb_Ready_Mix_Bhuna_Khichuri_500_gm.jpg"
+  },
+  {
+    "name": "Radhuni Khichuri Mix 500 gm",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-khichuri-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110489&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Khichuri_Mix_500_gm.jpg"
+  },
+  {
+    "name": "Radhuni Fish Curry Masala 100 gm",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-fish-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132526&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Fish_Curry_Masala_100_gm.jpg"
+  },
+  {
+    "name": "Shan Spice Mix For Malay Chicken Biryani 60 gm",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-spice-mix-for-malay-chicken-biryani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180889&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Spice_Mix_For_Malay_Chicken_Biryani_60_gm.jpg"
+  },
+  {
+    "name": "Shan Tandoori Masala 50 gm",
+    "price": "122",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/shan-tandoori-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133628&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Shan_Tandoori_Masala_50_gm.jpg"
+  },
+  {
+    "name": "Radhuni Meat Curry Masala 100 gm",
+    "price": "95",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-meat-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110495&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Meat_Curry_Masala_100_gm.jpg"
+  },
+  {
+    "name": "Radhuni Firni Mix 150 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110469&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Firni_Mix_150_gm.jpg"
+  },
+  {
+    "name": "Radhuni Borhani Masala 50 gm",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/radhuni-borhani-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132448&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Radhuni_Borhani_Masala_50_gm.jpg"
+  }
+]
