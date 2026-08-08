@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Roja Crumbly Crumbly Shrimp Tempura 224 gm",
+    "price": "495",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/roja-crumbly-crumbly-shrimp-tempura-224-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114536&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Roja_Crumbly_Crumbly_Shrimp_Tempura_224_gm.jpg"
+  },
+  {
+    "name": "OceanRia Lobster Ball 500 gm",
+    "price": "830",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/oceanria-lobster-ball-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109704&q=best&v=1&m=400&webp=1",
+    "image_location": "images/OceanRia_Lobster_Ball_500_gm.jpg"
+  },
+  {
+    "name": "OceanRia Imitation Crab Stick 500 gm",
+    "price": "800",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/oceanria-imitation-crab-stick-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168085&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/OceanRia_Imitation_Crab_Stick_500_gm.jpg"
+  },
+  {
+    "name": "OceanRia Fish Sandwich 500 gm",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/oceanria-fish-sandwich-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131491&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/OceanRia_Fish_Sandwich_500_gm.jpg"
+  },
+  {
+    "name": "OceanRia Crab Nugget 500 gm",
+    "price": "800",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/oceanria-crab-nugget-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109695&q=best&v=1&m=400&webp=1",
+    "image_location": "images/OceanRia_Crab_Nugget_500_gm.jpg"
+  },
+  {
+    "name": "OceanRia Vegie Fish Ball 500 gm",
+    "price": "800",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/oceanria-vegie-fish-ball-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168088&q=best&v=1&m=400&webp=1",
+    "image_location": "images/OceanRia_Vegie_Fish_Ball_500_gm.jpg"
+  },
+  {
+    "name": "OceanRia Fried Fish Ball 500 gm",
+    "price": "499",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/oceanria-fried-fish-ball-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109687&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/OceanRia_Fried_Fish_Ball_500_gm.jpg"
+  },
+  {
+    "name": "Roja Shrimp Samosa 19-21 pcs 240 gm",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/roja-shrimp-samosa-19-21-pcs-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114658&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Roja_Shrimp_Samosa_19-21_pcs_240_gm.jpg"
+  },
+  {
+    "name": "Roja Cheezy Cheezy Fish Kieves 240 gm",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/roja-cheezy-cheezy-fish-kieves-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114533&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Roja_Cheezy_Cheezy_Fish_Kieves_240_gm.jpg"
+  },
+  {
+    "name": "Roja Peri Peri Fish Nugget 240 gm",
+    "price": "235",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/roja-peri-peri-fish-nugget-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114546&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Roja_Peri_Peri_Fish_Nugget_240_gm.jpg"
+  },
+  {
+    "name": "Roja Peri Peri Fish Stick 240 gm",
+    "price": "265",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/roja-peri-peri-fish-stick-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114548&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Roja_Peri_Peri_Fish_Stick_240_gm.jpg"
+  },
+  {
+    "name": "Roja Kids Shrimp Nuggets 240 gm",
+    "price": "245",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/roja-kids-shrimp-nuggets-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114544&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Roja_Kids_Shrimp_Nuggets_240_gm.jpg"
+  }
+]

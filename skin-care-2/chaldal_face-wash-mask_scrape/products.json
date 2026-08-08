@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Neutrogena Deep Clean Gel Wash 200 ml",
+    "price": "1000",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/neutrogena-deep-clean-gel-wash-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115180&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Neutrogena_Deep_Clean_Gel_Wash_200_ml.jpg"
+  },
+  {
+    "name": "Himalaya Purifying Neem Face Wash 150 ml",
+    "price": "275",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/himalaya-purifying-neem-face-wash-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D170331&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Himalaya_Purifying_Neem_Face_Wash_150_ml.jpg"
+  },
+  {
+    "name": "Parachute SkinPure Aloe Vera Gel 100 ml",
+    "price": "205",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-skinpure-aloe-vera-gel-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131962&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Parachute_SkinPure_Aloe_Vera_Gel_100_ml.jpg"
+  },
+  {
+    "name": "Parachute SkinPure Aloe Vera Gel 200 ml",
+    "price": "355",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-skinpure-aloe-vera-gel-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131961&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Parachute_SkinPure_Aloe_Vera_Gel_200_ml.jpg"
+  },
+  {
+    "name": "Parachute SkinPure Aloe Vera Gel 50 ml",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-skinpure-aloe-vera-gel-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131963&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_SkinPure_Aloe_Vera_Gel_50_ml.jpg"
+  },
+  {
+    "name": "Garnier Skin Naturals Light Complete Serum Mask each",
+    "price": "135",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/garnier-skin-naturals-light-complete-serum-mask-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60891&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Garnier_Skin_Naturals_Light_Complete_Serum_Mask_each.jpg"
+  },
+  {
+    "name": "Biore Mild Smooth Face Wash 100 gm",
+    "price": "700",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/biore-mild-smooth-face-wash-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125825&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Biore_Mild_Smooth_Face_Wash_100_gm.jpg"
+  },
+  {
+    "name": "Himalaya Fresh Start Oil Clear Face Wash Lemon 100 ml",
+    "price": "199",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/himalaya-fresh-start-oil-clear-face-wash-lemon-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153616&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Himalaya_Fresh_Start_Oil_Clear_Face_Wash_Lemon_100_ml.jpg"
+  },
+  {
+    "name": "YC Peel Off Black Mask With Bamboo Charcoal 100 ml",
+    "price": "650",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/yc-peel-off-black-mask-with-bamboo-charcoal-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138393&q=best&v=1&m=400&webp=1",
+    "image_location": "images/YC_Peel_Off_Black_Mask_With_Bamboo_Charcoal_100_ml.jpg"
+  },
+  {
+    "name": "Himalaya Purifying Neem Face Wash 100 ml",
+    "price": "230",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/himalaya-purifying-neem-face-wash-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149841&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Himalaya_Purifying_Neem_Face_Wash_100_ml.jpg"
+  },
+  {
+    "name": "Pond's Face Wash Bright Beauty 100 gm",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ponds-face-wash-bright-beauty-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174855&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ponds_Face_Wash_Bright_Beauty_100_gm.jpg"
+  },
+  {
+    "name": "Pond's Face Wash Daily 100 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ponds-face-wash-daily-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101438&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ponds_Face_Wash_Daily_100_gm.jpg"
+  }
+]

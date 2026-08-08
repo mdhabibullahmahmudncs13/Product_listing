@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Chocolates",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chocolates?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D119182&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Chocolates.jpg"
+  },
+  {
+    "name": "Wafers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wafers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116636&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Wafers.jpg"
+  },
+  {
+    "name": "Candies",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/candies?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116591&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Candies.jpg"
+  },
+  {
+    "name": "Gums Mints Mouth Fresheners",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gums-mints-mouth-fresheners?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116617&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Gums_Mints_Mouth_Fresheners.jpg"
+  },
+  {
+    "name": "Jellies Marshmallows",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jellies-marshmallows?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116607&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Jellies_Marshmallows.jpg"
+  }
+]

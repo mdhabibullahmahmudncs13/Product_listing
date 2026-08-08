@@ -1,0 +1,142 @@
+[
+  {
+    "name": "170 Victoria Red Kidney Beans 400 gm",
+    "price": "159",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/victoria-red-kidney-beans-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137005&q=best&v=1&m=400&webp=1",
+    "image_location": "images/170_Victoria_Red_Kidney_Beans_400_gm.jpg"
+  },
+  {
+    "name": "Clariss Canned Baby Corn 425 gm",
+    "price": "185",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clariss-canned-baby-corn-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126765&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Clariss_Canned_Baby_Corn_425_gm.jpg"
+  },
+  {
+    "name": "Nana Green Peas 400 gm",
+    "price": "125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nana-green-peas-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115022&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nana_Green_Peas_400_gm.jpg"
+  },
+  {
+    "name": "Nana Baby Corn 425 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nana-baby-corn-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115021&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Nana_Baby_Corn_425_gm.jpg"
+  },
+  {
+    "name": "Nana Sweet Corn 425 gm",
+    "price": "125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nana-sweet-corn-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115024&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nana_Sweet_Corn_425_gm.jpg"
+  },
+  {
+    "name": "Blossoms Red Kidney Beans 420 gm",
+    "price": "239",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/blossoms-red-kidney-beans-420-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92557&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Blossoms_Red_Kidney_Beans_420_gm.jpg"
+  },
+  {
+    "name": "Welcome Tomato Puree 425 gm",
+    "price": "190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/welcome-tomato-puree-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92565&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Welcome_Tomato_Puree_425_gm.jpg"
+  },
+  {
+    "name": "Hosen Asparagus 430 gm",
+    "price": "399",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hosen-asparagus-430-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92575&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Hosen_Asparagus_430_gm.jpg"
+  },
+  {
+    "name": "Hibiscus Premium Whole Baby Corn In Brine 425 gm",
+    "price": "360",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hibiscus-premium-whole-baby-corn-in-brine-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103095&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hibiscus_Premium_Whole_Baby_Corn_In_Brine_425_gm.jpg"
+  },
+  {
+    "name": "Saporito Whole Peeled Tomatos Can 800 gm",
+    "price": "520",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/saporito-whole-peeled-tomatos-can-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D104918&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Saporito_Whole_Peeled_Tomatos_Can_800_gm.jpg"
+  },
+  {
+    "name": "Highway Corned Beef 340 gm",
+    "price": "370",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/highway-corned-beef-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103119&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Highway_Corned_Beef_340_gm.jpg"
+  },
+  {
+    "name": "Hosen Baked Beans In Tomato Sauce Can 425 gm",
+    "price": "249",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hosen-baked-beans-in-tomato-sauce-can-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129330&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hosen_Baked_Beans_In_Tomato_Sauce_Can_425_gm.jpg"
+  },
+  {
+    "name": "Hosen Red Kidney Beans Can 425 gm",
+    "price": "329",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hosen-red-kidney-beans-can-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D104876&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hosen_Red_Kidney_Beans_Can_425_gm.jpg"
+  },
+  {
+    "name": "Hosen Baby Corn Young Spear Can 425 gm",
+    "price": "289",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hosen-baby-corn-young-spear-can-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129329&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hosen_Baby_Corn_Young_Spear_Can_425_gm.jpg"
+  },
+  {
+    "name": "Hosen Baby Corn Young Cut Can 400 gm",
+    "price": "219",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hosen-baby-corn-young-cut-can-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103807&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Hosen_Baby_Corn_Young_Cut_Can_400_gm.jpg"
+  },
+  {
+    "name": "275 Hosen Green Peas Choice Whole Can 397 gm",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hosen-green-peas-choice-whole-can-397-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129337&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/275_Hosen_Green_Peas_Choice_Whole_Can_397_gm.jpg"
+  },
+  {
+    "name": "Hosen Gherkins Original Flavour Jar 680 gm",
+    "price": "529",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hosen-gherkins-original-flavour-jar-680-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D104889&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hosen_Gherkins_Original_Flavour_Jar_680_gm.jpg"
+  },
+  {
+    "name": "King Bell Whole Baby Corn Tin 425 gm",
+    "price": "180",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/king-bell-whole-baby-corn-tin-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109810&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/King_Bell_Whole_Baby_Corn_Tin_425_gm.jpg"
+  },
+  {
+    "name": "Best's Baby Corn Tin 425 gm",
+    "price": "171",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bests-baby-corn-tin-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92594&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Bests_Baby_Corn_Tin_425_gm.jpg"
+  },
+  {
+    "name": "Best's Green Peas Tin 400 gm",
+    "price": "127",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bests-green-peas-tin-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125749&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Bests_Green_Peas_Tin_400_gm.jpg"
+  }
+]

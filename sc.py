@@ -95,6 +95,22 @@ def extract_img_tags(soup):
     return candidates
 
 
+def wait_for_products(driver, timeout=20, poll=1.0):
+    """Wait until at least one product image has rendered in the DOM.
+
+    Chaldal's grid is injected asynchronously; if we start scrolling before
+    it loads, the page height is still small and the scroll loop "stabilises"
+    and exits before any product is captured. Return True if products were
+    seen, False if we timed out."""
+    deadline = time.time() + timeout
+    while time.time() < deadline:
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        if extract_img_tags(soup):
+            return True
+        time.sleep(poll)
+    return False
+
+
 def scroll_and_collect(driver, url):
     """Load the page and scroll down step by step, extracting products
     from the DOM at EACH step (not just at the end).
@@ -106,7 +122,12 @@ def scroll_and_collect(driver, url):
     the static top banner). Capturing incrementally avoids losing items.
     """
     driver.get(url)
-    time.sleep(3)  # initial render time
+    if not wait_for_products(driver):
+        # give it one more chance: reload once, then wait again
+        time.sleep(2)
+        driver.get(url)
+        wait_for_products(driver, timeout=25)
+    time.sleep(1)  # settle after grid appears
 
     collected = {}  # image_url -> (name, price)
     stable_rounds = 0
@@ -137,7 +158,7 @@ def scroll_and_collect(driver, url):
             stable_rounds = 0
         last_height = new_height
 
-        if stable_rounds >= 3:
+        if stable_rounds >= 3 and collected:
             break
 
     # one final pass in case the last scroll revealed new items
@@ -320,3 +341,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    

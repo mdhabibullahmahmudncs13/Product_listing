@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Colgate Plax Peppermint Mouth Wash 750 ml",
+    "price": "1160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-peppermint-mouth-wash-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127132&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Peppermint_Mouth_Wash_750_ml.jpg"
+  },
+  {
+    "name": "Colgate Plax Peppermint Mouth Wash 500 ml",
+    "price": "585",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-peppermint-mouth-wash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127133&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Peppermint_Mouth_Wash_500_ml.jpg"
+  },
+  {
+    "name": "Colgate Plax Herbal Salt Mouth Wash 500 ml",
+    "price": "1260",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-herbal-salt-mouth-wash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135607&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Herbal_Salt_Mouth_Wash_500_ml.jpg"
+  },
+  {
+    "name": "Colgate Plax Freshmint Mouth Wash 750 ml",
+    "price": "815",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-freshmint-mouth-wash-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127087&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Freshmint_Mouth_Wash_750_ml.jpg"
+  },
+  {
+    "name": "Colgate Plax Freshmint Mouth Wash 250 ml",
+    "price": "540",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-freshmint-mouth-wash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127085&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Freshmint_Mouth_Wash_250_ml.jpg"
+  },
+  {
+    "name": "Zandu Balm Ultra Power 8 ml",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/zandu-balm-ultra-power-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138554&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Zandu_Balm_Ultra_Power_8_ml.jpg"
+  },
+  {
+    "name": "Ring Guard Fast Relief Balm 12 gm",
+    "price": "180",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ring-guard-fast-relief-balm-12-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19684&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Ring_Guard_Fast_Relief_Balm_12_gm.jpg"
+  }
+]

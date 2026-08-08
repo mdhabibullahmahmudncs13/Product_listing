@@ -1,0 +1,72 @@
+[
+  {
+    "name": "University khata 300 Pages each",
+    "price": "169",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/university-khata-300-pages-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114550&q=best&v=1&m=400&webp=1",
+    "image_location": "images/University_khata_300_Pages_each.jpg"
+  },
+  {
+    "name": "Pencil Bag (Yellow) each",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pencil-bag-yellow-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109717&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pencil_Bag_Yellow_each.jpg"
+  },
+  {
+    "name": "Pencil Box (Red) each",
+    "price": "114",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pencil-box-red-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97818&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pencil_Box_Red_each.jpg"
+  },
+  {
+    "name": "Pencil Box (Pink) each",
+    "price": "114",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pencil-box-pink-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97789&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pencil_Box_Pink_each.jpg"
+  },
+  {
+    "name": "Pencil Box (Purple) each",
+    "price": "114",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pencil-box-purple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97788&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pencil_Box_Purple_each.jpg"
+  },
+  {
+    "name": "Pencil Box (Blue) each",
+    "price": "114",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pencil-box-blue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97787&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pencil_Box_Blue_each.jpg"
+  },
+  {
+    "name": "Matador i-teen Aroma Ball Pen Black Ink 6 pcs",
+    "price": "73",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/matador-i-teen-aroma-ball-pen-black-ink-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D88577&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Matador_i-teen_Aroma_Ball_Pen_Black_Ink_6_pcs.jpg"
+  },
+  {
+    "name": "Deli Compass Set each",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-compass-set-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103648&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Deli_Compass_Set_each.jpg"
+  },
+  {
+    "name": "Casio Scientific Calculator (FX 991ES Plus) each",
+    "price": "1339",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/casio-scientific-calculator-fx-991es-plus-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54071&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Casio_Scientific_Calculator_FX_991ES_Plus_each.jpg"
+  },
+  {
+    "name": "330 Faber Castell HB pencil (with Eraser) 12 pcs",
+    "price": "249",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-hb-pencil-with-eraser-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128271&q=best&v=1&m=400&webp=1",
+    "image_location": "images/330_Faber_Castell_HB_pencil_with_Eraser_12_pcs.jpg"
+  }
+]

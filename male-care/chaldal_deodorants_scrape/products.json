@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Fogg Body spray Royal 120 ml",
+    "price": "520",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-royal-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109952&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fogg_Body_spray_Royal_120_ml.jpg"
+  },
+  {
+    "name": "Nivea Fresh Natural Body Spray 150 ml & Energy Fresh Roll On 50 ml (Combo Pack)",
+    "price": "604",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nivea-fresh-natural-body-spray-150-ml-energy-fresh-roll-on-50-ml-combo-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141386&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Nivea_Fresh_Natural_Body_Spray_150_ml__Energy_Fresh_Roll_On_50_ml_Combo_Pack.jpg"
+  },
+  {
+    "name": "Kool Deodorant Body Spray (Storm) 150 ml",
+    "price": "325",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kool-deodorant-body-spray-storm-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138949&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kool_Deodorant_Body_Spray_Storm_150_ml.jpg"
+  },
+  {
+    "name": "Layer'r Wottagirl Secret Crush Body Spray 135 ml",
+    "price": "595",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/layerr-wottagirl-secret-crush-body-spray-135-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94025&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Layerr_Wottagirl_Secret_Crush_Body_Spray_135_ml.jpg"
+  },
+  {
+    "name": "Layer'r Shot Red Stallion Body Spray 135 ml",
+    "price": "595",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/layerr-shot-red-stallion-body-spray-135-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94024&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Layerr_Shot_Red_Stallion_Body_Spray_135_ml.jpg"
+  },
+  {
+    "name": "Layer'r Shot Power Play Body Spray 135 ml",
+    "price": "595",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/layerr-shot-power-play-body-spray-135-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93993&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Layerr_Shot_Power_Play_Body_Spray_135_ml.jpg"
+  },
+  {
+    "name": "Yardley London Gentleman Roll On Body Spray 50 ml",
+    "price": "279",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/yardley-london-gentleman-roll-on-body-spray-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91419&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Yardley_London_Gentleman_Roll_On_Body_Spray_50_ml.jpg"
+  },
+  {
+    "name": "Denim Musk Deodorant Body Spray 150 ml",
+    "price": "625",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/denim-musk-deodorant-body-spray-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127620&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Denim_Musk_Deodorant_Body_Spray_150_ml.jpg"
+  },
+  {
+    "name": "Rasasi Relation Men Body Spray 200 ml",
+    "price": "530",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rasasi-relation-men-body-spray-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132572&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Rasasi_Relation_Men_Body_Spray_200_ml.jpg"
+  },
+  {
+    "name": "Lafz Kaveh Body Spray 100 ml",
+    "price": "350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lafz-kaveh-body-spray-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74543&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Lafz_Kaveh_Body_Spray_100_ml.jpg"
+  },
+  {
+    "name": "Beverly Hills Polo Club Eight Men's Body Spray 175 ml",
+    "price": "750",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/beverly-hills-polo-club-eight-mens-body-spray-175-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125753&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Beverly_Hills_Polo_Club_Eight_Mens_Body_Spray_175_ml.jpg"
+  },
+  {
+    "name": "Layer'r Shot Royal Jade Men's Body Spray 135 ml",
+    "price": "595",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/layerr-shot-royal-jade-mens-body-spray-135-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73736&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Layerr_Shot_Royal_Jade_Mens_Body_Spray_135_ml.jpg"
+  },
+  {
+    "name": "Layer'r Shot Deep Desire Men's Body Spray 135 ml",
+    "price": "595",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/layerr-shot-deep-desire-mens-body-spray-135-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130004&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Layerr_Shot_Deep_Desire_Mens_Body_Spray_135_ml.jpg"
+  },
+  {
+    "name": "Wild Stone Pocket Perfume (Charge) 18 ml",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-pocket-perfume-charge-18-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72008&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wild_Stone_Pocket_Perfume_Charge_18_ml.jpg"
+  },
+  {
+    "name": "Wild Stone Pocket Perfume (Blast) 18 ml",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-pocket-perfume-blast-18-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72006&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Wild_Stone_Pocket_Perfume_Blast_18_ml.jpg"
+  },
+  {
+    "name": "Wild Stone Pocket Perfume (Fresh) 18 ml",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-pocket-perfume-fresh-18-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72001&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wild_Stone_Pocket_Perfume_Fresh_18_ml.jpg"
+  },
+  {
+    "name": "Fogg Scent Czar 30 ml",
+    "price": "680",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-scent-czar-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71844&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Fogg_Scent_Czar_30_ml.jpg"
+  },
+  {
+    "name": "Fogg Body Spray Absolute 120 ml",
+    "price": "530",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-absolute-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71843&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Fogg_Body_Spray_Absolute_120_ml.jpg"
+  },
+  {
+    "name": "Fogg Body Spray Fresh Fougere 120 ml",
+    "price": "555",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-fresh-fougere-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71842&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Fogg_Body_Spray_Fresh_Fougere_120_ml.jpg"
+  },
+  {
+    "name": "Clariss Note Men Perfume 120 ml",
+    "price": "295",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clariss-note-men-perfume-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126783&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Clariss_Note_Men_Perfume_120_ml.jpg"
+  },
+  {
+    "name": "Nivea Men Whitening Roll On Deodorant 50 ml",
+    "price": "260",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nivea-men-whitening-roll-on-deodorant-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D105011&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Nivea_Men_Whitening_Roll_On_Deodorant_50_ml.jpg"
+  },
+  {
+    "name": "Nivea Men Fresh Active Deodorant Roll On 50 ml",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nivea-men-fresh-active-deodorant-roll-on-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178907&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nivea_Men_Fresh_Active_Deodorant_Roll_On_50_ml.jpg"
+  },
+  {
+    "name": "Axe Signature Intense Body Perfume Ticket 17 ml",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/axe-signature-intense-body-perfume-ticket-17-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125311&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Axe_Signature_Intense_Body_Perfume_Ticket_17_ml.jpg"
+  },
+  {
+    "name": "Axe Signature Champion Body Perfume Ticket 17 ml",
+    "price": "211",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/axe-signature-champion-body-perfume-ticket-17-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61449&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Axe_Signature_Champion_Body_Perfume_Ticket_17_ml.jpg"
+  },
+  {
+    "name": "Eternal Love Xlouis Men Body Spray 200 ml",
+    "price": "453",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/eternal-love-xlouis-men-body-spray-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108697&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Eternal_Love_Xlouis_Men_Body_Spray_200_ml.jpg"
+  },
+  {
+    "name": "Eternal Love Men Body Spray For Men 200 ml",
+    "price": "750",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/eternal-love-men-body-spray-for-men-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108695&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Eternal_Love_Men_Body_Spray_For_Men_200_ml.jpg"
+  },
+  {
+    "name": "Nivea Fresh Natural Body Spray 150 ml",
+    "price": "525",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nivea-fresh-natural-body-spray-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103636&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nivea_Fresh_Natural_Body_Spray_150_ml.jpg"
+  },
+  {
+    "name": "Wild Stone P.B.S Iron Perfume 120 ml",
+    "price": "710",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-pbs-iron-perfume-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138331&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wild_Stone_PBS_Iron_Perfume_120_ml.jpg"
+  },
+  {
+    "name": "Wild Stone P.B.S Bronze Perfume 120 ml",
+    "price": "710",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-pbs-bronze-perfume-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59144&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Wild_Stone_PBS_Bronze_Perfume_120_ml.jpg"
+  },
+  {
+    "name": "Wild Stone P.B.S Chrome Perfume 120 ml",
+    "price": "660",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-pbs-chrome-perfume-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59143&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wild_Stone_PBS_Chrome_Perfume_120_ml.jpg"
+  },
+  {
+    "name": "Red Hunt Savage Storm Body Spray 125 ml",
+    "price": "500",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/red-hunt-savage-storm-body-spray-125-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115655&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Red_Hunt_Savage_Storm_Body_Spray_125_ml.jpg"
+  },
+  {
+    "name": "Red Hunt Rain Forest Body Spray 125 ml",
+    "price": "490",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/red-hunt-rain-forest-body-spray-125-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115654&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Red_Hunt_Rain_Forest_Body_Spray_125_ml.jpg"
+  },
+  {
+    "name": "Red Hunt Wild Chase Body Spray 125 ml",
+    "price": "402",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/red-hunt-wild-chase-body-spray-125-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132635&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Red_Hunt_Wild_Chase_Body_Spray_125_ml.jpg"
+  },
+  {
+    "name": "Red Hunt Premium Alpha Tribe Body Spray 125 ml",
+    "price": "490",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/red-hunt-premium-alpha-tribe-body-spray-125-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132632&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Red_Hunt_Premium_Alpha_Tribe_Body_Spray_125_ml.jpg"
+  },
+  {
+    "name": "Romano Roll On Attitude 50 ml",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/romano-roll-on-attitude-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169089&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Romano_Roll_On_Attitude_50_ml.jpg"
+  },
+  {
+    "name": "Colour Me Black Man Deo Spray 150 ml",
+    "price": "590",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colour-me-black-man-deo-spray-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127143&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colour_Me_Black_Man_Deo_Spray_150_ml.jpg"
+  },
+  {
+    "name": "HE Advanced Grooming Power Body Perfume 120 ml",
+    "price": "500",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/he-advanced-grooming-power-body-perfume-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101663&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/HE_Advanced_Grooming_Power_Body_Perfume_120_ml.jpg"
+  },
+  {
+    "name": "Engage On Man Pocket Perfume (Classic Woody) 18 ml",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/engage-on-man-pocket-perfume-classic-woody-18-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108635&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Engage_On_Man_Pocket_Perfume_Classic_Woody_18_ml.jpg"
+  },
+  {
+    "name": "Fogg Scent Men Impressio 100 ml",
+    "price": "1450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-scent-men-impressio-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109964&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fogg_Scent_Men_Impressio_100_ml.jpg"
+  },
+  {
+    "name": "Fogg Body spray Victor 120 ml",
+    "price": "520",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-victor-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109955&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Fogg_Body_spray_Victor_120_ml.jpg"
+  },
+  {
+    "name": "HE Advanced Grooming Innovator Perfumed Body Spray 150 ml",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/he-advanced-grooming-innovator-perfumed-body-spray-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101656&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/HE_Advanced_Grooming_Innovator_Perfumed_Body_Spray_150_ml.jpg"
+  },
+  {
+    "name": "Wild Stone Body Perfume Steel 120 ml",
+    "price": "699",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-body-perfume-steel-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D41573&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wild_Stone_Body_Perfume_Steel_120_ml.jpg"
+  },
+  {
+    "name": "Wild Stone Body Perfume Titanium 120 ml",
+    "price": "650",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-body-perfume-titanium-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138328&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wild_Stone_Body_Perfume_Titanium_120_ml.jpg"
+  },
+  {
+    "name": "Denim Original Body Spray 150 ml",
+    "price": "625",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/denim-original-body-spray-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D104928&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Denim_Original_Body_Spray_150_ml.jpg"
+  },
+  {
+    "name": "Wild Stone Legend Body Deodorant 150 ml",
+    "price": "450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-legend-body-deodorant-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31635&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wild_Stone_Legend_Body_Deodorant_150_ml.jpg"
+  },
+  {
+    "name": "Wild Stone Forest Spice Deodorant 150 ml",
+    "price": "650",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-forest-spice-deodorant-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138329&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Wild_Stone_Forest_Spice_Deodorant_150_ml.jpg"
+  },
+  {
+    "name": "Fogg Body Spray Fresh Spicy 120 ml",
+    "price": "555",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-fresh-spicy-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109961&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fogg_Body_Spray_Fresh_Spicy_120_ml.jpg"
+  },
+  {
+    "name": "Fogg Body Spray Fresh Aqua 120 ml",
+    "price": "555",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-fresh-aqua-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109958&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fogg_Body_Spray_Fresh_Aqua_120_ml.jpg"
+  },
+  {
+    "name": "Wild Stone Red Body Deodorant 150 ml",
+    "price": "530",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wild-stone-red-body-deodorant-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138332&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wild_Stone_Red_Body_Deodorant_150_ml.jpg"
+  },
+  {
+    "name": "Kool Deodorant Body Spray (Blue) 150 ml",
+    "price": "325",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kool-deodorant-body-spray-blue-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D152119&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kool_Deodorant_Body_Spray_Blue_150_ml.jpg"
+  },
+  {
+    "name": "Kool Classic Deodorant Body Spray 150 ml",
+    "price": "325",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kool-classic-deodorant-body-spray-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113316&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kool_Classic_Deodorant_Body_Spray_150_ml.jpg"
+  },
+  {
+    "name": "Nivea Men Body Spray Cool Kick Extra Dry 150 ml",
+    "price": "450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nivea-men-body-spray-cool-kick-extra-dry-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137183&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nivea_Men_Body_Spray_Cool_Kick_Extra_Dry_150_ml.jpg"
+  },
+  {
+    "name": "Nivea Men Body Spray Fresh Active 150 ml",
+    "price": "530",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nivea-men-body-spray-fresh-active-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103662&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nivea_Men_Body_Spray_Fresh_Active_150_ml.jpg"
+  },
+  {
+    "name": "Fogg Body Spray Blue Forest 120 ml",
+    "price": "575",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-blue-forest-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109890&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fogg_Body_Spray_Blue_Forest_120_ml.jpg"
+  },
+  {
+    "name": "Denim Original Roll On Deodorant 50 ml",
+    "price": "710",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/denim-original-roll-on-deodorant-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127623&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Denim_Original_Roll_On_Deodorant_50_ml.jpg"
+  },
+  {
+    "name": "Fogg Body Spray Marco 120 ml",
+    "price": "530",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-marco-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109947&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fogg_Body_Spray_Marco_120_ml.jpg"
+  },
+  {
+    "name": "Fogg Body Spray Napoleon 120 ml",
+    "price": "520",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fogg-body-spray-napoleon-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109949&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fogg_Body_Spray_Napoleon_120_ml.jpg"
+  },
+  {
+    "name": "Do It! Deodorant Spray 200 ml",
+    "price": "630",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/do-it-deodorant-spray-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D106827&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Do_It_Deodorant_Spray_200_ml.jpg"
+  },
+  {
+    "name": "Adidas Pure Game Deo Roll On 50 ml",
+    "price": "249",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/adidas-pure-game-deo-roll-on-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122898&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Adidas_Pure_Game_Deo_Roll_On_50_ml.jpg"
+  }
+]

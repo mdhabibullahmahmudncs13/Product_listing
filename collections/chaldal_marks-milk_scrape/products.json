@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Marks Full Cream Milk Powder Poly 500 gm",
+    "price": "480",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/marks-full-cream-milk-powder-poly-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130615&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Marks_Full_Cream_Milk_Powder_Poly_500_gm.jpg"
+  },
+  {
+    "name": "Marks Full Cream Milk Powder Poly 1 kg",
+    "price": "950",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/marks-full-cream-milk-powder-poly-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59268&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Marks_Full_Cream_Milk_Powder_Poly_1_kg.jpg"
+  },
+  {
+    "name": "Marks Active School Belgian Chocolate Flavour Milk Shake 200 ml",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/marks-active-school-belgian-chocolate-flavour-milk-shake-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120533&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Marks_Active_School_Belgian_Chocolate_Flavour_Milk_Shake_200_ml.jpg"
+  },
+  {
+    "name": "Marks Milk Powder Tin 1 kg",
+    "price": "1300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/marks-milk-powder-tin-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130616&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Marks_Milk_Powder_Tin_1_kg.jpg"
+  },
+  {
+    "name": "Marks Young Star (16-40 years) 400 gm",
+    "price": "425",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/marks-young-star-16-40-years-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130618&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Marks_Young_Star_16-40_years_400_gm.jpg"
+  }
+]

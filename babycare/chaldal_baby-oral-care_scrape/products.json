@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Pepsodent Toothpaste Kids Strawbery 45 gm",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pepsodent-toothpaste-kids-strawbery-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132053&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pepsodent_Toothpaste_Kids_Strawbery_45_gm.jpg"
+  },
+  {
+    "name": "90 Pepsodent Awesome Orange Toothpaste 45 gm",
+    "price": "85",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pepsodent-awesome-orange-toothpaste-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128294&q=best&v=1&m=400&webp=1",
+    "image_location": "images/90_Pepsodent_Awesome_Orange_Toothpaste_45_gm.jpg"
+  },
+  {
+    "name": "Aquafresh Baby Paste (6-8 years) 50 ml",
+    "price": "325",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aquafresh-baby-paste-6-8-years-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123472&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Aquafresh_Baby_Paste_6-8_years_50_ml.jpg"
+  },
+  {
+    "name": "Parachute Just For Baby Toothpaste (Mix Fruit) 45 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-just-for-baby-toothpaste-mix-fruit-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110366&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Parachute_Just_For_Baby_Toothpaste_Mix_Fruit_45_gm.jpg"
+  },
+  {
+    "name": "Farlin Baby Floss Toothpick 50 pcs",
+    "price": "229",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farlin-baby-floss-toothpick-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109138&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farlin_Baby_Floss_Toothpick_50_pcs.jpg"
+  },
+  {
+    "name": "Colgate Baby Strawberry Toothpaste (0-2 years) 50 ml",
+    "price": "368",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-baby-strawberry-toothpaste-0-2-years-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127080&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Baby_Strawberry_Toothpaste_0-2_years_50_ml.jpg"
+  },
+  {
+    "name": "Meril Baby Toothbrush each",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/meril-baby-toothbrush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130758&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Meril_Baby_Toothbrush_each.jpg"
+  },
+  {
+    "name": "Meril Baby Gel Strawberry Toothpaste 45 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/meril-baby-gel-strawberry-toothpaste-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136651&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Meril_Baby_Gel_Strawberry_Toothpaste_45_gm.jpg"
+  },
+  {
+    "name": "Meril Baby Gel Orange Toothpaste 45 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/meril-baby-gel-orange-toothpaste-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136574&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Meril_Baby_Gel_Orange_Toothpaste_45_gm.jpg"
+  },
+  {
+    "name": "Aquafresh Little Teeth Toothpaste (3-5 Years) 50 ml",
+    "price": "440",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aquafresh-little-teeth-toothpaste-3-5-years-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65746&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Aquafresh_Little_Teeth_Toothpaste_3-5_Years_50_ml.jpg"
+  },
+  {
+    "name": "Kodomo Baby Toothpaste Strawberry Flavor 40 gm",
+    "price": "133",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kodomo-baby-toothpaste-strawberry-flavor-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129839&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kodomo_Baby_Toothpaste_Strawberry_Flavor_40_gm.jpg"
+  }
+]

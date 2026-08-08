@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Cocola Chocolate Wafer Roll Jar 170 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cocola-chocolate-wafer-roll-jar-170-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153402&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Cocola_Chocolate_Wafer_Roll_Jar_170_gm.jpg"
+  },
+  {
+    "name": "Nestle KitKat 2 Finger Chocolate Covered Wafer Bar (Dubai) 17.7 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-kitkat-2-finger-chocolate-covered-wafer-bar-dubai-177-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109917&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_KitKat_2_Finger_Chocolate_Covered_Wafer_Bar_Dubai_177_gm.jpg"
+  },
+  {
+    "name": "Nestle KitKat Chunky Milk Chocolate Wafer Bar 40 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-kitkat-chunky-milk-chocolate-wafer-bar-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120932&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_KitKat_Chunky_Milk_Chocolate_Wafer_Bar_40_gm.jpg"
+  },
+  {
+    "name": "Nestle KitKat 2 Finger Chocolate Wafer (India) 19 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-kitkat-2-finger-chocolate-wafer-india-19-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120408&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_KitKat_2_Finger_Chocolate_Wafer_India_19_gm.jpg"
+  },
+  {
+    "name": "Nestle KitKat 4 Finger Chocolate Wafer (India) 36.5 gm",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-kitkat-4-finger-chocolate-wafer-india-365-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123178&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_KitKat_4_Finger_Chocolate_Wafer_India_365_gm.jpg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Paan (Betel Leaf) 20 pcs",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/paan-betel-leaf-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40757&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Paan_Betel_Leaf_20_pcs.jpg"
+  },
+  {
+    "name": "199 Betel Nut (Shupari) 250 gm",
+    "price": "169",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/betel-nut-shupari-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46972&q=best&v=1&m=400&webp=1",
+    "image_location": "images/199_Betel_Nut_Shupari_250_gm.jpg"
+  },
+  {
+    "name": "Pran Mango Bar 10 pcs",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-mango-bar-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108330&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Mango_Bar_10_pcs.jpg"
+  },
+  {
+    "name": "Match Box 12 pcs",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/match-box-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130632&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Match_Box_12_pcs.jpg"
+  },
+  {
+    "name": "Tic Tac Mint Mouth Freshener 13 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tic-tac-mint-mouth-freshener-13-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177540&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tic_Tac_Mint_Mouth_Freshener_13_gm.jpg"
+  },
+  {
+    "name": "Pran Mango Bar 30 pcs",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-mango-bar-30-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140880&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Mango_Bar_30_pcs.jpg"
+  }
+]

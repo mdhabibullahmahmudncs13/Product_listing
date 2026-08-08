@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Transtec Ceiling Rose each",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/transtec-ceiling-rose-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58631&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Transtec_Ceiling_Rose_each.jpg"
+  },
+  {
+    "name": "Transtec 3 Pin Travel Adapter (13 AMP) each",
+    "price": "130",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/transtec-3-pin-travel-adapter-13-amp-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58630&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Transtec_3_Pin_Travel_Adapter_13_AMP_each.jpg"
+  },
+  {
+    "name": "Transtec 3 Pin Plug (16 AMP) each",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/transtec-3-pin-plug-16-amp-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58628&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Transtec_3_Pin_Plug_16_AMP_each.jpg"
+  },
+  {
+    "name": "Transtec 3 Pin Plug (13 AMP) each",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/transtec-3-pin-plug-13-amp-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61706&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Transtec_3_Pin_Plug_13_AMP_each.jpg"
+  },
+  {
+    "name": "Transtec E27 Batten (Screw) Holder each",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/transtec-e27-batten-screw-holder-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58626&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Transtec_E27_Batten_Screw_Holder_each.jpg"
+  },
+  {
+    "name": "Many 3 Socket Power Converter Multi Plug (3 Pin) each",
+    "price": "489",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/many-3-socket-power-converter-multi-plug-3-pin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44530&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Many_3_Socket_Power_Converter_Multi_Plug_3_Pin_each.jpg"
+  },
+  {
+    "name": "RFL Click 3 Socket Multiplug (2 Pin) each",
+    "price": "660",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-click-3-socket-multiplug-2-pin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113100&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/RFL_Click_3_Socket_Multiplug_2_Pin_each.jpg"
+  },
+  {
+    "name": "RFL Click 4 Socket Multiplug (2 Pin) each",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-click-4-socket-multiplug-2-pin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113101&q=best&v=1&m=400&webp=1",
+    "image_location": "images/RFL_Click_4_Socket_Multiplug_2_Pin_each.jpg"
+  }
+]

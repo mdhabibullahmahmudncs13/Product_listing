@@ -1,0 +1,212 @@
+
+===== RUN START 2026-08-08 03:22:58 (1 jobs, 1 workers) =====
+OK(0) allergy (13s) -> /home/xenon/Docs/Product_listing/allergy-asthma/chaldal_allergy_scrape
+===== RUN END 2026-08-08 03:23:10 ok=1 fail=0 skip=0 =====
+
+===== RUN START 2026-08-08 03:23:10 (1 jobs, 1 workers) =====
+OK(0) wafers (12s) -> /home/xenon/Docs/Product_listing/candy-chocolate/chaldal_wafers_scrape
+===== RUN END 2026-08-08 03:23:22 ok=1 fail=0 skip=0 =====
+
+===== RUN START 2026-08-08 03:26:47 (1 jobs, 1 workers) =====
+OK(5) wafers (11s) -> /home/xenon/Docs/Product_listing/candy-chocolate/chaldal_wafers_scrape
+===== RUN END 2026-08-08 03:26:58 ok=1 empty=0 skip=0 =====
+
+===== RUN START 2026-08-08 03:30:59 (169 jobs, 4 workers) =====
+OK(17) feeders (12s) -> /home/xenon/Docs/Product_listing/babycare/chaldal_feeders_scrape
+OK(29) baby-accessories (12s) -> /home/xenon/Docs/Product_listing/babycare/chaldal_baby-accessories_scrape
+OK(68) bath-skincare (15s) -> /home/xenon/Docs/Product_listing/babycare/chaldal_bath-skincare_scrape
+OK(3) fooding (11s) -> /home/xenon/Docs/Product_listing/babycare/chaldal_fooding_scrape
+OK(5) diapers (11s) -> /home/xenon/Docs/Product_listing/babycare/chaldal_diapers_scrape
+OK(11) baby-oral-care (35s) -> /home/xenon/Docs/Product_listing/babycare/chaldal_baby-oral-care_scrape
+OK(14) baking-tools (12s) -> /home/xenon/Docs/Product_listing/baking-needs/chaldal_baking-tools_scrape
+OK(21) flour (12s) -> /home/xenon/Docs/Product_listing/baking-needs/chaldal_flour_scrape
+OK(20) wipes (11s) -> /home/xenon/Docs/Product_listing/babycare/chaldal_wipes_scrape
+OK(8) color-pencil (34s) -> /home/xenon/Docs/Product_listing/arts-crafts/chaldal_color-pencil_scrape
+OK(9) newborn-essentials (11s) -> /home/xenon/Docs/Product_listing/babycare/chaldal_newborn-essentials_scrape
+OK(40) nuts-dried-fruits (13s) -> /home/xenon/Docs/Product_listing/baking-needs/chaldal_nuts-dried-fruits_scrape
+OK(19) baking-ingredients (12s) -> /home/xenon/Docs/Product_listing/baking-needs/chaldal_baking-ingredients_scrape
+OK(15) water (12s) -> /home/xenon/Docs/Product_listing/beverages/chaldal_water_scrape
+OK(75) beverages-tea (38s) -> /home/xenon/Docs/Product_listing/beverages/chaldal_beverages-tea_scrape
+OK(44) powder-mixes (14s) -> /home/xenon/Docs/Product_listing/beverages/chaldal_powder-mixes_scrape
+OK(4) baking-mixes (35s) -> /home/xenon/Docs/Product_listing/baking-needs/chaldal_baking-mixes_scrape
+OK(31) chocolates (12s) -> /home/xenon/Docs/Product_listing/candy-chocolate/chaldal_chocolates_scrape
+OK(21) coffees (12s) -> /home/xenon/Docs/Product_listing/beverages/chaldal_coffees_scrape
+OK(53) juice (12s) -> /home/xenon/Docs/Product_listing/beverages/chaldal_juice_scrape
+OK(57) soft-drinks (12s) -> /home/xenon/Docs/Product_listing/beverages/chaldal_soft-drinks_scrape
+OK(8) eggs-2 (11s) -> /home/xenon/Docs/Product_listing/breakfast/chaldal_eggs-2_scrape
+OK(5) halal-marshmallows (10s) -> /home/xenon/Docs/Product_listing/candy-chocolate/chaldal_halal-marshmallows_scrape
+OK(19) dish-wash (11s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_dish-wash_scrape
+OK(5) mints-mouth-fresheners (10s) -> /home/xenon/Docs/Product_listing/candy-chocolate/chaldal_mints-mouth-fresheners_scrape
+OK(47) air-freshners (12s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_air-freshners_scrape
+OK(19) paper-products (11s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_paper-products_scrape
+OK(34) cleaning-accessories (12s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_cleaning-accessories_scrape
+OK(8) shoe-care (10s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_shoe-care_scrape
+OK(55) laundry (13s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_laundry_scrape
+OK(40) floor-glass-cleaners (12s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_floor-glass-cleaners_scrape
+OK(9) trash-bags (11s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_trash-bags_scrape
+OK(31) pest-control (11s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_pest-control_scrape
+OK(10) trash-bin-basket (13s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_trash-bin-basket_scrape
+OK(10) beauty (11s) -> /home/xenon/Docs/Product_listing/collections/chaldal_beauty_scrape
+OK(10) hygiene (10s) -> /home/xenon/Docs/Product_listing/collections/chaldal_hygiene_scrape
+OK(34) toilet-cleaning (12s) -> /home/xenon/Docs/Product_listing/cleaning/chaldal_toilet-cleaning_scrape
+OK(8) babycare (11s) -> /home/xenon/Docs/Product_listing/collections/chaldal_babycare_scrape
+OK(8) fashion-lifestyle (34s) -> /home/xenon/Docs/Product_listing/collections/chaldal_fashion-lifestyle_scrape
+OK(17) flash-sales (11s) -> /home/xenon/Docs/Product_listing/collections/chaldal_flash-sales_scrape
+OK(8) toys-sports (11s) -> /home/xenon/Docs/Product_listing/collections/chaldal_toys-sports_scrape
+WARN candies attempt 1 exit=0 count=0 stdout='/products.json and /home/xenon/Docs/Product_listing/candy-chocolate/chaldal_candies_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/candy-chocolate/chaldal_candies_scrape/images/\n'
+OK(5) marks-milk (34s) -> /home/xenon/Docs/Product_listing/collections/chaldal_marks-milk_scrape
+OK(1) popular (12s) -> /home/xenon/Docs/Product_listing/collections/chaldal_popular_scrape
+OK(20) candies (11s) -> /home/xenon/Docs/Product_listing/candy-chocolate/chaldal_candies_scrape
+OK(12) new-arrival (34s) -> /home/xenon/Docs/Product_listing/collections/chaldal_new-arrival_scrape
+OK(6) tong (11s) -> /home/xenon/Docs/Product_listing/collections/chaldal_tong_scrape
+OK(17) extra-large-15-kg-diapers (11s) -> /home/xenon/Docs/Product_listing/diapers/chaldal_extra-large-15-kg-diapers_scrape
+OK(6) newborn-2 (10s) -> /home/xenon/Docs/Product_listing/diapers/chaldal_newborn-2_scrape
+OK(3) nutri-plus (34s) -> /home/xenon/Docs/Product_listing/collections/chaldal_nutri-plus_scrape
+OK(18) large-2 (12s) -> /home/xenon/Docs/Product_listing/diapers/chaldal_large-2_scrape
+OK(13) small-2 (11s) -> /home/xenon/Docs/Product_listing/diapers/chaldal_small-2_scrape
+OK(35) female-deo (13s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_female-deo_scrape
+OK(25) medium-2 (35s) -> /home/xenon/Docs/Product_listing/diapers/chaldal_medium-2_scrape
+OK(9) serum-oil-toners (11s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_serum-oil-toners_scrape
+OK(46) female-shampoo (12s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_female-shampoo_scrape
+WARN vehicle-essentials attempt 1 exit=0 count=0 stdout=' and /home/xenon/Docs/Product_listing/collections/chaldal_vehicle-essentials_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/collections/chaldal_vehicle-essentials_scrape/images/\n'
+OK(22) womens-shower-gel (35s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_womens-shower-gel_scrape
+OK(6) vehicle-essentials (11s) -> /home/xenon/Docs/Product_listing/collections/chaldal_vehicle-essentials_scrape
+OK(32) feminine-care (13s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_feminine-care_scrape
+WARN face-wash-scrub attempt 1 exit=0 count=0 stdout='s.json and /home/xenon/Docs/Product_listing/female-care/chaldal_face-wash-scrub_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/female-care/chaldal_face-wash-scrub_scrape/images/\n'
+OK(39) face-wash-scrub (14s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_face-wash-scrub_scrape
+OK(39) womens-perfume (35s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_womens-perfume_scrape
+WARN female-moisturizer attempt 1 exit=0 count=0 stdout=' and /home/xenon/Docs/Product_listing/female-care/chaldal_female-moisturizer_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/female-care/chaldal_female-moisturizer_scrape/images/\n'
+OK(27) diabetic-food (12s) -> /home/xenon/Docs/Product_listing/food/chaldal_diabetic-food_scrape
+OK(9) masks-cleansers (11s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_masks-cleansers_scrape
+OK(33) female-moisturizer (12s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_female-moisturizer_scrape
+OK(87) hair-care (16s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_hair-care_scrape
+OK(5) candy-chocolate (10s) -> /home/xenon/Docs/Product_listing/food/chaldal_candy-chocolate_scrape
+OK(22) formula (11s) -> /home/xenon/Docs/Product_listing/fooding/chaldal_formula_scrape
+OK(19) toddler-food (11s) -> /home/xenon/Docs/Product_listing/fooding/chaldal_toddler-food_scrape
+OK(9) frozen-parathas-roti (11s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_frozen-parathas-roti_scrape
+OK(6) fish-cans (15s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_fish-cans_scrape
+OK(13) milk-juice-drinks (12s) -> /home/xenon/Docs/Product_listing/fooding/chaldal_milk-juice-drinks_scrape
+OK(5) beef-snacks (12s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_beef-snacks_scrape
+WARN womens-soaps attempt 1 exit=0 count=0 stdout='roducts.json and /home/xenon/Docs/Product_listing/female-care/chaldal_womens-soaps_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/female-care/chaldal_womens-soaps_scrape/images/\n'
+OK(12) fish-snacks (11s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_fish-snacks_scrape
+OK(26) chicken-snacks (11s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_chicken-snacks_scrape
+OK(67) womens-soaps (14s) -> /home/xenon/Docs/Product_listing/female-care/chaldal_womens-soaps_scrape
+OK(5) mushroom-cans (10s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_mushroom-cans_scrape
+OK(11) canned-fruits (12s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_canned-fruits_scrape
+OK(7) hand-sanitizer (10s) -> /home/xenon/Docs/Product_listing/handwash/chaldal_hand-sanitizer_scrape
+WARN ice-cream attempt 1 exit=0 count=0 stdout='l_ice-cream_scrape/products.json and /home/xenon/Docs/Product_listing/food/chaldal_ice-cream_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/food/chaldal_ice-cream_scrape/images/\n'
+OK(20) baskets-buckets (37s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_baskets-buckets_scrape
+OK(7) vegetable-snacks (54s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_vegetable-snacks_scrape
+WARN vegetable-cans attempt 1 exit=0 count=0 stdout='s.json and /home/xenon/Docs/Product_listing/frozen-foods/chaldal_vegetable-cans_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/frozen-foods/chaldal_vegetable-cans_scrape/images/\n'
+OK(56) liquid-handwash (12s) -> /home/xenon/Docs/Product_listing/handwash/chaldal_liquid-handwash_scrape
+OK(20) vegetable-cans (12s) -> /home/xenon/Docs/Product_listing/frozen-foods/chaldal_vegetable-cans_scrape
+OK(7) box-container (11s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_box-container_scrape
+OK(106) kitchen-accessories (42s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_kitchen-accessories_scrape
+OK(30) kitchen-appliances (12s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_kitchen-appliances_scrape
+OK(4) lights-electrical (10s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_lights-electrical_scrape
+OK(8) disposables (34s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_disposables_scrape
+OK(20) gardening (11s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_gardening_scrape
+OK(11) tools-hardware (11s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_tools-hardware_scrape
+OK(12) antiseptics (11s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_antiseptics_scrape
+WARN ice-cream attempt 2 exit=0 count=0 stdout='l_ice-cream_scrape/products.json and /home/xenon/Docs/Product_listing/food/chaldal_ice-cream_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/food/chaldal_ice-cream_scrape/images/\n'
+OK(7) face-masks-safety (10s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_face-masks-safety_scrape
+OK(20) handwash-handrub (11s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_handwash-handrub_scrape
+OK(11) food-supplements (11s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_food-supplements_scrape
+OK(23) family-planning (12s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_family-planning_scrape
+OK(46) keto-food (12s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_keto-food_scrape
+OK(11) herbal-products (11s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_herbal-products_scrape
+WARN rack-organizer attempt 1 exit=0 count=0 stdout='s.json and /home/xenon/Docs/Product_listing/home-kitchen/chaldal_rack-organizer_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/home-kitchen/chaldal_rack-organizer_scrape/images/\n'
+WARN adult-diapers attempt 1 exit=0 count=0 stdout='rape/products.json and /home/xenon/Docs/Product_listing/hygiene/chaldal_adult-diapers_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/hygiene/chaldal_adult-diapers_scrape/images/\n'
+OK(8) medical-devices (34s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_medical-devices_scrape
+OK(5) adult-diapers (11s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_adult-diapers_scrape
+OK(11) rack-organizer (11s) -> /home/xenon/Docs/Product_listing/home-kitchen/chaldal_rack-organizer_scrape
+OK(7) mouthwashes (10s) -> /home/xenon/Docs/Product_listing/hygiene/chaldal_mouthwashes_scrape
+OK(3) mosquito-swatter (11s) -> /home/xenon/Docs/Product_listing/lights-electrical/chaldal_mosquito-swatter_scrape
+OK(8) electric-multiplug (11s) -> /home/xenon/Docs/Product_listing/lights-electrical/chaldal_electric-multiplug_scrape
+OK(12) beard-grooming (11s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_beard-grooming_scrape
+OK(8) electronics (11s) -> /home/xenon/Docs/Product_listing/lights-electrical/chaldal_electronics_scrape
+WARN ice-cream attempt 3 exit=0 count=0 stdout='l_ice-cream_scrape/products.json and /home/xenon/Docs/Product_listing/food/chaldal_ice-cream_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/food/chaldal_ice-cream_scrape/images/\n'
+EMPTY/FAIL ice-cream -> /home/xenon/Docs/Product_listing/food/chaldal_ice-cream_scrape
+OK(12) mens-facewash (12s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_mens-facewash_scrape
+OK(14) mens-hair-care (12s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_mens-hair-care_scrape
+OK(9) lotion-cream (10s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_lotion-cream_scrape
+OK(12) lights (34s) -> /home/xenon/Docs/Product_listing/lights-electrical/chaldal_lights_scrape
+OK(19) mens-shower-gels (11s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_mens-shower-gels_scrape
+OK(6) razors-blades (10s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_razors-blades_scrape
+OK(23) shampoo (12s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_shampoo_scrape
+OK(14) shaving-needs (34s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_shaving-needs_scrape
+OK(23) mouthwash-others (12s) -> /home/xenon/Docs/Product_listing/oral-care-2/chaldal_mouthwash-others_scrape
+OK(56) mens-perfume (41s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_mens-perfume_scrape
+OK(60) mens-soaps (33s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_mens-soaps_scrape
+WARN deodorants attempt 1 exit=0 count=0 stdout='scrape/products.json and /home/xenon/Docs/Product_listing/male-care/chaldal_deodorants_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/male-care/chaldal_deodorants_scrape/images/\n'
+WARN toothbrushes attempt 1 exit=1 count=None stdout='Launching headless browser and loading https://chaldal.com/toothbrushes ...\n'
+WARN desk-organizers attempt 1 exit=1 count=None stdout='Launching headless browser and loading https://chaldal.com/desk-organizers ...\n'
+OK(27) toothbrushes (11s) -> /home/xenon/Docs/Product_listing/oral-care-2/chaldal_toothbrushes_scrape
+OK(7) desk-organizers (11s) -> /home/xenon/Docs/Product_listing/organizers/chaldal_desk-organizers_scrape
+WARN glue-tapes attempt 1 exit=1 count=None stdout='Launching headless browser and loading https://chaldal.com/glue-tapes ...\n'
+OK(45) toothpastes (12s) -> /home/xenon/Docs/Product_listing/oral-care-2/chaldal_toothpastes_scrape
+OK(11) file-folder (51s) -> /home/xenon/Docs/Product_listing/organizers/chaldal_file-folder_scrape
+OK(8) measuring (10s) -> /home/xenon/Docs/Product_listing/organizers/chaldal_measuring_scrape
+WARN deodorants attempt 2 exit=1 count=0 stdout='Launching headless browser and loading https://chaldal.com/deodorants ...\n'
+OK(10) glue-tapes (74s) -> /home/xenon/Docs/Product_listing/organizers/chaldal_glue-tapes_scrape
+OK(59) deodorants (53s) -> /home/xenon/Docs/Product_listing/male-care/chaldal_deodorants_scrape
+WARN stapler-punch attempt 1 exit=0 count=0 stdout='roducts.json and /home/xenon/Docs/Product_listing/organizers/chaldal_stapler-punch_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/organizers/chaldal_stapler-punch_scrape/images/\n'
+WARN hair-color attempt 1 exit=1 count=None stdout='Launching headless browser and loading https://chaldal.com/hair-color ...\n'
+WARN cutting-2 attempt 1 exit=1 count=None stdout='Launching headless browser and loading https://chaldal.com/cutting-2 ...\n'
+WARN stapler-punch attempt 2 exit=1 count=0 stdout='Launching headless browser and loading https://chaldal.com/stapler-punch ...\n'
+WARN printing-paper attempt 1 exit=1 count=None stdout='Launching headless browser and loading https://chaldal.com/printing-paper ...\n'
+OK(12) stapler-punch (34s) -> /home/xenon/Docs/Product_listing/organizers/chaldal_stapler-punch_scrape
+OK(8) printing-paper (11s) -> /home/xenon/Docs/Product_listing/paper-supplies/chaldal_printing-paper_scrape
+WARN hair-color attempt 2 exit=1 count=None stdout='Launching headless browser and loading https://chaldal.com/hair-color ...\n'
+OK(4) notebook-diary (46s) -> /home/xenon/Docs/Product_listing/paper-supplies/chaldal_notebook-diary_scrape
+OK(6) hair-color (11s) -> /home/xenon/Docs/Product_listing/personal-care/chaldal_hair-color_scrape
+OK(2) handwash (10s) -> /home/xenon/Docs/Product_listing/personal-care/chaldal_handwash_scrape
+WARN cutting-2 attempt 2 exit=1 count=None stdout='Launching headless browser and loading https://chaldal.com/cutting-2 ...\n'
+OK(3) oral-care-2 (10s) -> /home/xenon/Docs/Product_listing/personal-care/chaldal_oral-care-2_scrape
+OK(18) organizing-accessories (70s) -> /home/xenon/Docs/Product_listing/organizers/chaldal_organizing-accessories_scrape
+OK(7) skin-care-2 (10s) -> /home/xenon/Docs/Product_listing/personal-care/chaldal_skin-care-2_scrape
+OK(11) female-care (11s) -> /home/xenon/Docs/Product_listing/personal-care/chaldal_female-care_scrape
+OK(13) tissue-wipes (13s) -> /home/xenon/Docs/Product_listing/personal-care/chaldal_tissue-wipes_scrape
+OK(8) cutting-2 (34s) -> /home/xenon/Docs/Product_listing/organizers/chaldal_cutting-2_scrape
+OK(7) calculators (35s) -> /home/xenon/Docs/Product_listing/office-electronics/chaldal_calculators_scrape
+OK(6) bird-food (10s) -> /home/xenon/Docs/Product_listing/pet-care/chaldal_bird-food_scrape
+OK(13) cat-food (11s) -> /home/xenon/Docs/Product_listing/pet-care/chaldal_cat-food_scrape
+OK(9) talcom-powder (34s) -> /home/xenon/Docs/Product_listing/personal-care/chaldal_talcom-powder_scrape
+OK(6) cat-litters (34s) -> /home/xenon/Docs/Product_listing/pet-care/chaldal_cat-litters_scrape
+OK(7) pet-grooming-cleaning (11s) -> /home/xenon/Docs/Product_listing/pet-care/chaldal_pet-grooming-cleaning_scrape
+OK(7) kitten-food (35s) -> /home/xenon/Docs/Product_listing/pet-care/chaldal_kitten-food_scrape
+OK(19) body-hair-oil (12s) -> /home/xenon/Docs/Product_listing/skin-care-2/chaldal_body-hair-oil_scrape
+OK(13) lipsticks-lip-balm (11s) -> /home/xenon/Docs/Product_listing/skin-care-2/chaldal_lipsticks-lip-balm_scrape
+WARN batteries attempt 1 exit=0 count=0 stdout='json and /home/xenon/Docs/Product_listing/office-electronics/chaldal_batteries_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/office-electronics/chaldal_batteries_scrape/images/\n'
+OK(20) creams (11s) -> /home/xenon/Docs/Product_listing/skin-care-2/chaldal_creams_scrape
+OK(12) batteries (12s) -> /home/xenon/Docs/Product_listing/office-electronics/chaldal_batteries_scrape
+OK(27) lotions (36s) -> /home/xenon/Docs/Product_listing/skin-care-2/chaldal_lotions_scrape
+OK(17) petroleum-jelly (12s) -> /home/xenon/Docs/Product_listing/skin-care-2/chaldal_petroleum-jelly_scrape
+OK(14) soaps (11s) -> /home/xenon/Docs/Product_listing/skin-care-2/chaldal_soaps_scrape
+OK(12) face-wash-mask (34s) -> /home/xenon/Docs/Product_listing/skin-care-2/chaldal_face-wash-mask_scrape
+OK(32) local-snacks (12s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_local-snacks_scrape
+WARN dog-food attempt 1 exit=0 count=0 stdout='-food_scrape/products.json and /home/xenon/Docs/Product_listing/pet-care/chaldal_dog-food_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/pet-care/chaldal_dog-food_scrape/images/\n'
+OK(5) dog-food (12s) -> /home/xenon/Docs/Product_listing/pet-care/chaldal_dog-food_scrape
+OK(12) cakes (34s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_cakes_scrape
+OK(16) cream-biscuits (11s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_cream-biscuits_scrape
+OK(25) pasta-macaroni (11s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_pasta-macaroni_scrape
+OK(29) popcorn-nuts (13s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_popcorn-nuts_scrape
+OK(13) salad-dressing (11s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_salad-dressing_scrape
+WARN chips-pretzels attempt 1 exit=0 count=0 stdout='rape/products.json and /home/xenon/Docs/Product_listing/snacks/chaldal_chips-pretzels_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/snacks/chaldal_chips-pretzels_scrape/images/\n'
+OK(6) salted-biscuits (34s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_salted-biscuits_scrape
+WARN noodles attempt 1 exit=0 count=0 stdout='dal_noodles_scrape/products.json and /home/xenon/Docs/Product_listing/snacks/chaldal_noodles_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/snacks/chaldal_noodles_scrape/images/\n'
+OK(7) organizers (11s) -> /home/xenon/Docs/Product_listing/stationery-office/chaldal_organizers_scrape
+OK(8) toast-biscuits (10s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_toast-biscuits_scrape
+OK(43) noodles (13s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_noodles_scrape
+OK(9) soups (11s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_soups_scrape
+OK(23) chips-pretzels (35s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_chips-pretzels_scrape
+OK(24) plain-biscuits (12s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_plain-biscuits_scrape
+OK(14) highlighters (11s) -> /home/xenon/Docs/Product_listing/writing/chaldal_highlighters_scrape
+OK(5) erasers-correction-fluid (10s) -> /home/xenon/Docs/Product_listing/writing/chaldal_erasers-correction-fluid_scrape
+WARN cookies-2 attempt 1 exit=0 count=0 stdout='okies-2_scrape/products.json and /home/xenon/Docs/Product_listing/snacks/chaldal_cookies-2_scrape/products.csv\nImages saved in /home/xenon/Docs/Product_listing/snacks/chaldal_cookies-2_scrape/images/\n'
+OK(8) printer-ink (10s) -> /home/xenon/Docs/Product_listing/writing/chaldal_printer-ink_scrape
+OK(10) school-supplies (34s) -> /home/xenon/Docs/Product_listing/stationery-office/chaldal_school-supplies_scrape
+OK(34) cookies-2 (12s) -> /home/xenon/Docs/Product_listing/snacks/chaldal_cookies-2_scrape
+OK(6) pens (11s) -> /home/xenon/Docs/Product_listing/writing/chaldal_pens_scrape
+OK(6) pencils (34s) -> /home/xenon/Docs/Product_listing/writing/chaldal_pencils_scrape
+===== RUN END 2026-08-08 04:00:44 ok=168 empty=1 skip=0 =====

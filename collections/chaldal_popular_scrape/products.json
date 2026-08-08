@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Popular",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/popular?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182869&q=best&v=1&m=700&webp=1",
+    "image_location": "images/Popular.jpg"
+  }
+]

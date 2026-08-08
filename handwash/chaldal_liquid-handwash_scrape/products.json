@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Lifebuoy Handwash Total Refill 170 ml",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-total-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181183&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Total_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Dettol Fresh Liquid Handwash Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-fresh-liquid-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121869&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Fresh_Liquid_Handwash_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Dettol Fresh Liquid Handwash Pump 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-fresh-liquid-handwash-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D134132&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Fresh_Liquid_Handwash_Pump_200_ml.jpg"
+  },
+  {
+    "name": "Savlon Handwash Lemon Burst 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/savlon-handwash-lemon-burst-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141412&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Savlon_Handwash_Lemon_Burst_170_ml.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Care Refill 170 ml",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-care-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182243&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Care_Refill_170_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Iris Herbal Liquid Handwash Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-iris-herbal-liquid-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146335&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Iris_Herbal_Liquid_Handwash_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Lemon Fresh Pump 200 ml",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-lemon-fresh-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130116&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Lemon_Fresh_Pump_200_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Herbal Iris Handwash 500 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-herbal-iris-handwash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122855&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Herbal_Iris_Handwash_500_ml.jpg"
+  },
+  {
+    "name": "Dettol Handwash Original Liquid Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-original-liquid-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160588&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Original_Liquid_Refill_170_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Aloe Vera Antiseptic Handwash Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-aloe-vera-antiseptic-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146334&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Aloe_Vera_Antiseptic_Handwash_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Dettol Handwash Original Liquid Pump 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-original-liquid-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146326&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Original_Liquid_Pump_200_ml.jpg"
+  },
+  {
+    "name": "Dettol Handwash Skincare Liquid Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-skincare-liquid-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114827&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Skincare_Liquid_Refill_170_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Ocean Blue Antiseptic Handwash Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-ocean-blue-antiseptic-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146333&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Ocean_Blue_Antiseptic_Handwash_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Sepnil Sanitizing Hand Wash Marigold (Refill) 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sepnil-sanitizing-hand-wash-marigold-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185475&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sepnil_Sanitizing_Hand_Wash_Marigold_Refill_170_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Lavender Handwash Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-lavender-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146336&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Lavender_Handwash_Refill_170_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Ocean Blue Handwash 1 ltr",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-ocean-blue-handwash-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149078&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Ocean_Blue_Handwash_1_ltr.jpg"
+  },
+  {
+    "name": "Dettol Handwash Re-Energize Liquid Refill 750 ml",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-re-energize-liquid-refill-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179243&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Re-Energize_Liquid_Refill_750_ml.jpg"
+  },
+  {
+    "name": "Sepnil Extra Mild Tea Oil Handwash Refill 170 ml",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sepnil-extra-mild-tea-oil-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177869&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sepnil_Extra_Mild_Tea_Oil_Handwash_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Godrej Magic Handwash Refill Lime & Aloevera 9 gm 4 pcs",
+    "price": "124",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/godrej-magic-handwash-refill-lime-aloevera-9-gm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149456&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Godrej_Magic_Handwash_Refill_Lime__Aloevera_9_gm_4_pcs.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Total Bottle 1 ltr",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-total-bottle-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165253&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Total_Bottle_1_ltr.jpg"
+  },
+  {
+    "name": "Sparkbliss Lavender Liquid Handwash 250 ml",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sparkbliss-lavender-liquid-handwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168829&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sparkbliss_Lavender_Liquid_Handwash_250_ml.jpg"
+  },
+  {
+    "name": "Sparkbliss Lemon Green Liquid Handwash 250 ml",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sparkbliss-lemon-green-liquid-handwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168827&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sparkbliss_Lemon_Green_Liquid_Handwash_250_ml.jpg"
+  },
+  {
+    "name": "Sparkbliss Lemon Yellow Liquid Handwash 250 ml",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sparkbliss-lemon-yellow-liquid-handwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168826&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sparkbliss_Lemon_Yellow_Liquid_Handwash_250_ml.jpg"
+  },
+  {
+    "name": "Sparkbliss Moisturizing Antibacterial Aloe Vera Liquid Handwash 250 ml",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sparkbliss-moisturizing-antibacterial-aloe-vera-liquid-handwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168136&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sparkbliss_Moisturizing_Antibacterial_Aloe_Vera_Liquid_Handwash_250_ml.jpg"
+  },
+  {
+    "name": "Sparkbliss Aquriaum Liquid Handwash 250 ml",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sparkbliss-aquriaum-liquid-handwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168120&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sparkbliss_Aquriaum_Liquid_Handwash_250_ml.jpg"
+  },
+  {
+    "name": "Sparkbliss Japanese Cherry Blossom Liquid Handwash 250 ml",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sparkbliss-japanese-cherry-blossom-liquid-handwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168118&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sparkbliss_Japanese_Cherry_Blossom_Liquid_Handwash_250_ml.jpg"
+  },
+  {
+    "name": "Godrej Magic Handwash Refill Lime & Aloevera 9 gm",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/godrej-magic-handwash-refill-lime-aloevera-9-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149460&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Godrej_Magic_Handwash_Refill_Lime__Aloevera_9_gm.jpg"
+  },
+  {
+    "name": "Godrej Magic Handwash Refill Neem & Aloevera 9 gm 4 pcs",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/godrej-magic-handwash-refill-neem-aloevera-9-gm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149458&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Godrej_Magic_Handwash_Refill_Neem__Aloevera_9_gm_4_pcs.jpg"
+  },
+  {
+    "name": "Rok Handwash Apple 175 ml",
+    "price": "84",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rok-handwash-apple-175-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D148109&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Rok_Handwash_Apple_175_ml.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Lemon Fresh Refill Multipack 170 ml 4 pcs",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-lemon-fresh-refill-multipack-170-ml-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92666&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Lemon_Fresh_Refill_Multipack_170_ml_4_pcs.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Care Refill Multipack 170 ml 4 pcs",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-care-refill-multipack-170-ml-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92661&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Care_Refill_Multipack_170_ml_4_pcs.jpg"
+  },
+  {
+    "name": "Original Source Hand Wash Coconut 300 ml",
+    "price": "310",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/original-source-hand-wash-coconut-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75572&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Original_Source_Hand_Wash_Coconut_300_ml.jpg"
+  },
+  {
+    "name": "Dettol Handwash Re-Energize Liquid 5 ltr",
+    "price": "1400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-re-energize-liquid-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186627&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Re-Energize_Liquid_5_ltr.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Lemon Fresh 1 ltr",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-lemon-fresh-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D154934&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Lemon_Fresh_1_ltr.jpg"
+  },
+  {
+    "name": "Dettol Handwash Aloe Vera Bottle With Push-Pull Cap 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-aloe-vera-bottle-with-push-pull-cap-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127649&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Aloe_Vera_Bottle_With_Push-Pull_Cap_200_ml.jpg"
+  },
+  {
+    "name": "Biore Anti Bacterial Guard Hand Soap Bottle 250 ml",
+    "price": "660",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/biore-anti-bacterial-guard-hand-soap-bottle-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125812&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Biore_Anti_Bacterial_Guard_Hand_Soap_Bottle_250_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Herbal Iris Handwash 1 ltr",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-herbal-iris-handwash-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115106&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Herbal_Iris_Handwash_1_ltr.jpg"
+  },
+  {
+    "name": "Dettol Handwash Aloe Vera Liquid Pump 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-aloe-vera-liquid-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184818&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Aloe_Vera_Liquid_Pump_200_ml.jpg"
+  },
+  {
+    "name": "Dettol Handwash Aloe Vera Liquid Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-aloe-vera-liquid-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114828&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Aloe_Vera_Liquid_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Godrej Magic Handwash Refill Pack 9 gm",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/godrej-magic-handwash-refill-pack-9-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149676&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Godrej_Magic_Handwash_Refill_Pack_9_gm.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Lemon Fresh Refill 170 ml",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-lemon-fresh-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182335&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Lemon_Fresh_Refill_170_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Active Antiseptic Handwash 5 ltr",
+    "price": "1400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-active-antiseptic-handwash-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D159864&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Active_Antiseptic_Handwash_5_ltr.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Total 5 ltr",
+    "price": "1400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-total-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181343&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Total_5_ltr.jpg"
+  },
+  {
+    "name": "Dettol Handwash Cool Liquid Refill 170 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-cool-liquid-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114788&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Cool_Liquid_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Dettol Handwash Cool Liquid Pump 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-cool-liquid-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112224&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Cool_Liquid_Pump_200_ml.jpg"
+  },
+  {
+    "name": "Dettol Handwash Skincare Liquid Pump 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-handwash-skincare-liquid-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112103&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Handwash_Skincare_Liquid_Pump_200_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Herbal Marigold Handwash 500 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-herbal-marigold-handwash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122857&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Herbal_Marigold_Handwash_500_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Herbal Lavender Handwash 500 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-herbal-lavender-handwash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122856&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Herbal_Lavender_Handwash_500_ml.jpg"
+  },
+  {
+    "name": "Sepnil Sanitizing Hand Wash Marigold 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sepnil-sanitizing-hand-wash-marigold-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185666&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sepnil_Sanitizing_Hand_Wash_Marigold_200_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Aloe Vera Antiseptic Handwash Bottle 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-aloe-vera-antiseptic-handwash-bottle-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D152699&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Aloe_Vera_Antiseptic_Handwash_Bottle_200_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Aloe Vera Antiseptic Handwash 1000 ml",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-aloe-vera-antiseptic-handwash-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149075&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Aloe_Vera_Antiseptic_Handwash_1000_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Active Antiseptic Handwash 1000 ml",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-active-antiseptic-handwash-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164125&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Active_Antiseptic_Handwash_1000_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Ocean Blue Handwash Bottle 200 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-ocean-blue-handwash-bottle-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D152698&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Ocean_Blue_Handwash_Bottle_200_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Active Antiseptic Handwash Refill 170 ml",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-active-antiseptic-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141413&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Active_Antiseptic_Handwash_Refill_170_ml.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Total Pump 200 ml",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-total-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161166&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Total_Pump_200_ml.jpg"
+  },
+  {
+    "name": "Lifebuoy Handwash Care Pump 200 ml",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lifebuoy-handwash-care-pump-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181178&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lifebuoy_Handwash_Care_Pump_200_ml.jpg"
+  }
+]

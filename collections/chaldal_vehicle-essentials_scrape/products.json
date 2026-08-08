@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Mobil Delvac MX 15W-40 5 ltr",
+    "price": "2900",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mobil-delvac-mx-15w-40-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130794&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mobil_Delvac_MX_15W-40_5_ltr.jpg"
+  },
+  {
+    "name": "Alex Car Wash 500 ml",
+    "price": "345",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/alex-car-wash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110563&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Alex_Car_Wash_500_ml.jpg"
+  },
+  {
+    "name": "Petronas Mach 5 Plus 20w-50 (API SJ) 4 ltr",
+    "price": "1480",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/petronas-mach-5-plus-20w-50-api-sj-4-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132067&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Petronas_Mach_5_Plus_20w-50_API_SJ_4_ltr.jpg"
+  },
+  {
+    "name": "Super V Multi Grade Engine Oil 20W-50 1 ltr",
+    "price": "689",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/super-v-multi-grade-engine-oil-20w-50-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137234&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Super_V_Multi_Grade_Engine_Oil_20W-50_1_ltr.jpg"
+  },
+  {
+    "name": "Godrej Aer Cool Surf Blue Click Gel AC Vent Car Freshener each",
+    "price": "399",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/godrej-aer-cool-surf-blue-click-gel-ac-vent-car-freshener-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114942&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Godrej_Aer_Cool_Surf_Blue_Click_Gel_AC_Vent_Car_Freshener_each.jpg"
+  },
+  {
+    "name": "Alex Car Shampoo & Wax 500 ml",
+    "price": "495",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/alex-car-shampoo-wax-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123213&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Alex_Car_Shampoo__Wax_500_ml.jpg"
+  }
+]

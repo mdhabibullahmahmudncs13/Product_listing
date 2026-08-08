@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Diapers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/diapers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29079&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Diapers.jpg"
+  },
+  {
+    "name": "Baby Food",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/baby-food?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27510&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Baby_Food.jpg"
+  },
+  {
+    "name": "Baby Skincare",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/baby-skincare?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27525&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Baby_Skincare.jpg"
+  },
+  {
+    "name": "Wipes",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wipes?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D166418&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Wipes.jpg"
+  },
+  {
+    "name": "Baby Oral Care",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/baby-oral-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D166416&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Baby_Oral_Care.jpg"
+  },
+  {
+    "name": "Newborn Essentials",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/newborn-essentials?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D166415&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Newborn_Essentials.jpg"
+  },
+  {
+    "name": "Baby Accessories",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/baby-accessories?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31509&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Baby_Accessories.jpg"
+  },
+  {
+    "name": "Feeders",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/feeders?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29082&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Feeders.jpg"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "RFL Super Hero Tiffin Box each",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-super-hero-tiffin-box-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96365&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/RFL_Super_Hero_Tiffin_Box_each.jpg"
+  },
+  {
+    "name": "RFL Winner Tiffin Box Rectangular each",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-winner-tiffin-box-rectangular-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132894&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/RFL_Winner_Tiffin_Box_Rectangular_each.jpg"
+  },
+  {
+    "name": "RFL Cherry Container Trans Set 3 pcs",
+    "price": "310",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-cherry-container-trans-set-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132706&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/RFL_Cherry_Container_Trans_Set_3_pcs.jpg"
+  },
+  {
+    "name": "RFL Classic Round Container Trans Set 5 pcs",
+    "price": "190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-classic-round-container-trans-set-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132708&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/RFL_Classic_Round_Container_Trans_Set_5_pcs.jpg"
+  },
+  {
+    "name": "Npoly Round Food Box 3 pcs",
+    "price": "255",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/npoly-round-food-box-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D148458&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Npoly_Round_Food_Box_3_pcs.jpg"
+  },
+  {
+    "name": "Npoly Printed Container (Tr Pink) 15 ltr each",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/npoly-printed-container-tr-pink-15-ltr-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D151632&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Npoly_Printed_Container_Tr_Pink_15_ltr_each.jpg"
+  },
+  {
+    "name": "Npoly Printed Container (Tr Pink) 10 ltr each",
+    "price": "195",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/npoly-printed-container-tr-pink-10-ltr-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D151631&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Npoly_Printed_Container_Tr_Pink_10_ltr_each.jpg"
+  }
+]

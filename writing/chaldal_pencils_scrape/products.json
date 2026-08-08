@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Faber Castell Pencil 7420 HB 12 pcs",
+    "price": "125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-pencil-7420-hb-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D148934&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Faber_Castell_Pencil_7420_HB_12_pcs.jpg"
+  },
+  {
+    "name": "Faber Castell Pencil HB (Gold Faber) 12 pcs",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-pencil-hb-gold-faber-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127089&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Faber_Castell_Pencil_HB_Gold_Faber_12_pcs.jpg"
+  },
+  {
+    "name": "200 Faber Castell Red Matt Pencil HB 12 pcs",
+    "price": "156",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-red-matt-pencil-hb-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95633&q=best&v=1&m=400&webp=1",
+    "image_location": "images/200_Faber_Castell_Red_Matt_Pencil_HB_12_pcs.jpg"
+  },
+  {
+    "name": "Fresh Campus 4B Pencil 66 gm 12 pcs",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-campus-4b-pencil-66-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113039&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Fresh_Campus_4B_Pencil_66_gm_12_pcs.jpg"
+  },
+  {
+    "name": "Fresh Campus 2B Pencil 68 gm 12 pcs",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-campus-2b-pencil-68-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113037&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Fresh_Campus_2B_Pencil_68_gm_12_pcs.jpg"
+  },
+  {
+    "name": "330 Faber Castell HB pencil (with Eraser) 12 pcs",
+    "price": "249",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-hb-pencil-with-eraser-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128271&q=best&v=1&m=400&webp=1",
+    "image_location": "images/330_Faber_Castell_HB_pencil_with_Eraser_12_pcs.jpg"
+  }
+]

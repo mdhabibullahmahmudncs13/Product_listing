@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Titi Artists Oil pastel 12 Color each",
+    "price": "259",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/titi-artists-oil-pastel-12-color-1-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95896&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Titi_Artists_Oil_pastel_12_Color_each.jpg"
+  },
+  {
+    "name": "Faber Castell Wax Crayons 90 mm 12 Color each",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-wax-crayons-90-mm-12-color-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95674&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Faber_Castell_Wax_Crayons_90_mm_12_Color_each.jpg"
+  },
+  {
+    "name": "Faber Castell Oil Pastel 12 Color each",
+    "price": "115",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-oil-pastel-12-color-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128283&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Faber_Castell_Oil_Pastel_12_Color_each.jpg"
+  },
+  {
+    "name": "130 Deli Color Pencil 12 pcs",
+    "price": "119",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-color-pencil-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103635&q=best&v=1&m=400&webp=1",
+    "image_location": "images/130_Deli_Color_Pencil_12_pcs.jpg"
+  },
+  {
+    "name": "Deli Felt Pen 24 pcs",
+    "price": "125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-felt-pen-24-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127561&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Deli_Felt_Pen_24_pcs.jpg"
+  },
+  {
+    "name": "Deli Color Emotion Color Pencils 12 pcs",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-color-emotion-color-pencils-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127532&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Deli_Color_Emotion_Color_Pencils_12_pcs.jpg"
+  },
+  {
+    "name": "Faber Castell Water Color Pencil 12 pcs",
+    "price": "249",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-water-color-pencil-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128299&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Faber_Castell_Water_Color_Pencil_12_pcs.jpg"
+  },
+  {
+    "name": "Faber Castell Long Color Pencil Round Tin 12 pcs",
+    "price": "369",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/faber-castell-long-color-pencil-round-tin-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128273&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Faber_Castell_Long_Color_Pencil_Round_Tin_12_pcs.jpg"
+  }
+]

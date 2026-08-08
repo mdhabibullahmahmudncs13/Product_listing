@@ -1,0 +1,346 @@
+[
+ {
+  "id": 1723,
+  "name": "Allergy ",
+  "slug": "allergy",
+  "url": "https://chaldal.com/allergy",
+  "folder": "allergy-asthma",
+  "outdir": "/home/xenon/Docs/Product_listing/allergy-asthma/chaldal_allergy_scrape"
+ },
+ {
+  "id": 1724,
+  "name": "Asthma",
+  "slug": "asthma",
+  "url": "https://chaldal.com/asthma",
+  "folder": "allergy-asthma",
+  "outdir": "/home/xenon/Docs/Product_listing/allergy-asthma/chaldal_asthma_scrape"
+ },
+ {
+  "id": 1721,
+  "name": "Blood Pressure",
+  "slug": "blood-pressure",
+  "url": "https://chaldal.com/blood-pressure",
+  "folder": "blood-pressure-heart-disease",
+  "outdir": "/home/xenon/Docs/Product_listing/blood-pressure-heart-disease/chaldal_blood-pressure_scrape"
+ },
+ {
+  "id": 1722,
+  "name": "Heart  Disease",
+  "slug": "heart-disease",
+  "url": "https://chaldal.com/heart-disease",
+  "folder": "blood-pressure-heart-disease",
+  "outdir": "/home/xenon/Docs/Product_listing/blood-pressure-heart-disease/chaldal_heart-disease_scrape"
+ },
+ {
+  "id": 1734,
+  "name": "Ayurvedic",
+  "slug": "ayurvedic",
+  "url": "https://chaldal.com/ayurvedic",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_ayurvedic_scrape"
+ },
+ {
+  "id": 1758,
+  "name": "Baby Needs ",
+  "slug": "baby-needs",
+  "url": "https://chaldal.com/baby-needs",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_baby-needs_scrape"
+ },
+ {
+  "id": 1755,
+  "name": "Daily Care ",
+  "slug": "daily-care",
+  "url": "https://chaldal.com/daily-care",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_daily-care_scrape"
+ },
+ {
+  "id": 1741,
+  "name": "Maternity Care",
+  "slug": "maternity-care",
+  "url": "https://chaldal.com/maternity-care",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_maternity-care_scrape"
+ },
+ {
+  "id": 1573,
+  "name": "Medical Accessories",
+  "slug": "medical-accessories",
+  "url": "https://chaldal.com/medical-accessories",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_medical-accessories_scrape"
+ },
+ {
+  "id": 1571,
+  "name": "Medical Devices",
+  "slug": "medical-devices-2",
+  "url": "https://chaldal.com/medical-devices-2",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_medical-devices-2_scrape"
+ },
+ {
+  "id": 1556,
+  "name": "Common Conditions",
+  "slug": "common-conditions",
+  "url": "https://chaldal.com/common-conditions",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_common-conditions_scrape"
+ },
+ {
+  "id": 1577,
+  "name": "Birth Control Contraceptives",
+  "slug": "birth-control-contraceptives",
+  "url": "https://chaldal.com/birth-control-contraceptives",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_birth-control-contraceptives_scrape"
+ },
+ {
+  "id": 1736,
+  "name": "Herbal ",
+  "slug": "herbal",
+  "url": "https://chaldal.com/herbal",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_herbal_scrape"
+ },
+ {
+  "id": 1756,
+  "name": "Perfume and Body Spray ",
+  "slug": "perfume-and-body-spray",
+  "url": "https://chaldal.com/perfume-and-body-spray",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_perfume-and-body-spray_scrape"
+ },
+ {
+  "id": 1742,
+  "name": "Skin Care and Dermatology",
+  "slug": "skin-care-dermatology",
+  "url": "https://chaldal.com/skin-care-dermatology",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_skin-care-dermatology_scrape"
+ },
+ {
+  "id": 1568,
+  "name": "Vitamins & Supplements",
+  "slug": "vitamins-supplements",
+  "url": "https://chaldal.com/vitamins-supplements",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_vitamins-supplements_scrape"
+ },
+ {
+  "id": 1572,
+  "name": "Sexual Wellness",
+  "slug": "sexual-wellness",
+  "url": "https://chaldal.com/sexual-wellness",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_sexual-wellness_scrape"
+ },
+ {
+  "id": 1562,
+  "name": "Allergy & Asthma",
+  "slug": "allergy-asthma",
+  "url": "https://chaldal.com/allergy-asthma",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_allergy-asthma_scrape"
+ },
+ {
+  "id": 1564,
+  "name": "Blood Pressure & Heart  Disease",
+  "slug": "blood-pressure-heart-disease",
+  "url": "https://chaldal.com/blood-pressure-heart-disease",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_blood-pressure-heart-disease_scrape"
+ },
+ {
+  "id": 1744,
+  "name": "Winter Care",
+  "slug": "winter-care",
+  "url": "https://chaldal.com/winter-care",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_winter-care_scrape"
+ },
+ {
+  "id": 1557,
+  "name": "All Meds",
+  "slug": "all-meds",
+  "url": "https://chaldal.com/all-meds",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_all-meds_scrape"
+ },
+ {
+  "id": 1559,
+  "name": "Diabetes",
+  "slug": "diabetes",
+  "url": "https://chaldal.com/diabetes",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_diabetes_scrape"
+ },
+ {
+  "id": 1563,
+  "name": "Cough, Cold & Flu",
+  "slug": "cough-cold-flu",
+  "url": "https://chaldal.com/cough-cold-flu",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_cough-cold-flu_scrape"
+ },
+ {
+  "id": 1560,
+  "name": "Eye & Ear",
+  "slug": "eye-ear",
+  "url": "https://chaldal.com/eye-ear",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_eye-ear_scrape"
+ },
+ {
+  "id": 1561,
+  "name": "Digestive Health",
+  "slug": "digestive-health",
+  "url": "https://chaldal.com/digestive-health",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_digestive-health_scrape"
+ },
+ {
+  "id": 1558,
+  "name": "Fever & Pain",
+  "slug": "fever-pain",
+  "url": "https://chaldal.com/fever-pain",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_fever-pain_scrape"
+ },
+ {
+  "id": 1567,
+  "name": "Neurological Conditions",
+  "slug": "neurological-conditions",
+  "url": "https://chaldal.com/neurological-conditions",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_neurological-conditions_scrape"
+ },
+ {
+  "id": 1565,
+  "name": "Skin & Hair Condition",
+  "slug": "skin-hair-condition",
+  "url": "https://chaldal.com/skin-hair-condition",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_skin-hair-condition_scrape"
+ },
+ {
+  "id": 1720,
+  "name": "Cold & Flu",
+  "slug": "cold-flu",
+  "url": "https://chaldal.com/cold-flu",
+  "folder": "cough-cold-flu",
+  "outdir": "/home/xenon/Docs/Product_listing/cough-cold-flu/chaldal_cold-flu_scrape"
+ },
+ {
+  "id": 1566,
+  "name": "Infection",
+  "slug": "infection",
+  "url": "https://chaldal.com/infection",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_infection_scrape"
+ },
+ {
+  "id": 1719,
+  "name": "Cough",
+  "slug": "cough",
+  "url": "https://chaldal.com/cough",
+  "folder": "cough-cold-flu",
+  "outdir": "/home/xenon/Docs/Product_listing/cough-cold-flu/chaldal_cough_scrape"
+ },
+ {
+  "id": 1726,
+  "name": "Insulin",
+  "slug": "insulin",
+  "url": "https://chaldal.com/insulin",
+  "folder": "common-conditions",
+  "outdir": "/home/xenon/Docs/Product_listing/common-conditions/chaldal_insulin_scrape"
+ },
+ {
+  "id": 1717,
+  "name": "Eye",
+  "slug": "eye",
+  "url": "https://chaldal.com/eye",
+  "folder": "eye-ear",
+  "outdir": "/home/xenon/Docs/Product_listing/eye-ear/chaldal_eye_scrape"
+ },
+ {
+  "id": 1718,
+  "name": " Ear",
+  "slug": "ear",
+  "url": "https://chaldal.com/ear",
+  "folder": "eye-ear",
+  "outdir": "/home/xenon/Docs/Product_listing/eye-ear/chaldal_ear_scrape"
+ },
+ {
+  "id": 1708,
+  "name": "Fever",
+  "slug": "fever",
+  "url": "https://chaldal.com/fever",
+  "folder": "fever-pain",
+  "outdir": "/home/xenon/Docs/Product_listing/fever-pain/chaldal_fever_scrape"
+ },
+ {
+  "id": 1707,
+  "name": "Pain",
+  "slug": "pain",
+  "url": "https://chaldal.com/pain",
+  "folder": "fever-pain",
+  "outdir": "/home/xenon/Docs/Product_listing/fever-pain/chaldal_pain_scrape"
+ },
+ {
+  "id": 1754,
+  "name": "Cosmetics Hub",
+  "slug": "cosmetics-hub",
+  "url": "https://chaldal.com/cosmetics-hub",
+  "folder": "skin-care-dermatology",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-dermatology/chaldal_cosmetics-hub_scrape"
+ },
+ {
+  "id": 1751,
+  "name": "Korean Cosmetics",
+  "slug": "korean-cosmetics",
+  "url": "https://chaldal.com/korean-cosmetics",
+  "folder": "skin-care-dermatology",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-dermatology/chaldal_korean-cosmetics_scrape"
+ },
+ {
+  "id": 1712,
+  "name": "Hair Care",
+  "slug": "hair-condition",
+  "url": "https://chaldal.com/hair-condition",
+  "folder": "skin-hair-condition",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-hair-condition/chaldal_hair-condition_scrape"
+ },
+ {
+  "id": 1753,
+  "name": "Fixderma ",
+  "slug": "fixderma-care",
+  "url": "https://chaldal.com/fixderma-care",
+  "folder": "skin-care-dermatology",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-dermatology/chaldal_fixderma-care_scrape"
+ },
+ {
+  "id": 1711,
+  "name": "Skin",
+  "slug": "skin",
+  "url": "https://chaldal.com/skin",
+  "folder": "skin-hair-condition",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-hair-condition/chaldal_skin_scrape"
+ },
+ {
+  "id": 1710,
+  "name": "Supplements",
+  "slug": "supplements",
+  "url": "https://chaldal.com/supplements",
+  "folder": "vitamins-supplements",
+  "outdir": "/home/xenon/Docs/Product_listing/vitamins-supplements/chaldal_supplements_scrape"
+ },
+ {
+  "id": 1709,
+  "name": "Vitamins  ",
+  "slug": "vitamins-2",
+  "url": "https://chaldal.com/vitamins-2",
+  "folder": "vitamins-supplements",
+  "outdir": "/home/xenon/Docs/Product_listing/vitamins-supplements/chaldal_vitamins-2_scrape"
+ }
+]

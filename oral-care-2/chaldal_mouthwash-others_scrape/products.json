@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Watson Dental Floss Picks Charcoal 50 pcs",
+    "price": "269",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/watson-dental-floss-picks-charcoal-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137092&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Watson_Dental_Floss_Picks_Charcoal_50_pcs.jpg"
+  },
+  {
+    "name": "Colgate Mouthwash Plax Peppermint 500 ml",
+    "price": "869",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-mouthwash-plax-peppermint-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91383&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Mouthwash_Plax_Peppermint_500_ml.jpg"
+  },
+  {
+    "name": "Listerine Cool Mint Liquid Mouthwash 250 ml",
+    "price": "370",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/listerine-cool-mint-liquid-mouthwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130235&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Listerine_Cool_Mint_Liquid_Mouthwash_250_ml.jpg"
+  },
+  {
+    "name": "Listerine Original Liquid Mouthwash 250 ml",
+    "price": "410",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/listerine-original-liquid-mouthwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130245&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Listerine_Original_Liquid_Mouthwash_250_ml.jpg"
+  },
+  {
+    "name": "Listerine Original Liquid Mouthwash 500 ml",
+    "price": "553",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/listerine-original-liquid-mouthwash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130244&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Listerine_Original_Liquid_Mouthwash_500_ml.jpg"
+  },
+  {
+    "name": "Listerine Cavity Fighter Liquid Mouthwash 500 ml",
+    "price": "541",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/listerine-cavity-fighter-liquid-mouthwash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130233&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Listerine_Cavity_Fighter_Liquid_Mouthwash_500_ml.jpg"
+  },
+  {
+    "name": "Colgate Plax Peppermint Mouth Wash 750 ml",
+    "price": "1160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-peppermint-mouth-wash-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127132&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Peppermint_Mouth_Wash_750_ml.jpg"
+  },
+  {
+    "name": "Colgate Plax Peppermint Mouth Wash 500 ml",
+    "price": "585",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-peppermint-mouth-wash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127133&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Peppermint_Mouth_Wash_500_ml.jpg"
+  },
+  {
+    "name": "Colgate Plax Herbal Salt Mouth Wash 500 ml",
+    "price": "1260",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-herbal-salt-mouth-wash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135607&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Herbal_Salt_Mouth_Wash_500_ml.jpg"
+  },
+  {
+    "name": "Colgate Plax Freshmint Mouth Wash 750 ml",
+    "price": "815",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-freshmint-mouth-wash-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127087&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Freshmint_Mouth_Wash_750_ml.jpg"
+  },
+  {
+    "name": "Listerine Original Mouth Wash (Thai) 250 ml",
+    "price": "750",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/listerine-original-mouth-wash-thai-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130247&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Listerine_Original_Mouth_Wash_Thai_250_ml.jpg"
+  },
+  {
+    "name": "Magic Tooth Powder 100 gm",
+    "price": "58",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/magic-tooth-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130511&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Magic_Tooth_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Colgate Plax Gentle Care Mouth Wash 250 ml",
+    "price": "372",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/colgate-plax-gentle-care-mouth-wash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186272&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Colgate_Plax_Gentle_Care_Mouth_Wash_250_ml.jpg"
+  },
+  {
+    "name": "Oral-B Essential Dental Floss 50 mtr",
+    "price": "600",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/oral-b-essential-dental-floss-50-mtr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138529&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Oral-B_Essential_Dental_Floss_50_mtr.jpg"
+  },
+  {
+    "name": "Listerine Cool Mint Mouth Wash (Thai) 250 ml",
+    "price": "595",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/listerine-cool-mint-mouth-wash-thai-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130237&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Listerine_Cool_Mint_Mouth_Wash_Thai_250_ml.jpg"
+  },
+  {
+    "name": "Toothpick 4 pcs",
+    "price": "189",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/toothpick-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15447&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Toothpick_4_pcs.jpg"
+  },
+  {
+    "name": "Toothpick Local 1 box",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/toothpick-local-1-box?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29589&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Toothpick_Local_1_box.jpg"
+  },
+  {
+    "name": "ProDentalB Tongue Cleaner each",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/prodentalb-tongue-cleaner-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77494&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ProDentalB_Tongue_Cleaner_each.jpg"
+  },
+  {
+    "name": "ProDentalB Dental Stain Remover each",
+    "price": "375",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/prodentalb-dental-stain-remover-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77495&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ProDentalB_Dental_Stain_Remover_each.jpg"
+  },
+  {
+    "name": "ProDentalB Tooth Floss Pick 50 pcs",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/prodentalb-tooth-floss-pick-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140391&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/ProDentalB_Tooth_Floss_Pick_50_pcs.jpg"
+  },
+  {
+    "name": "Listerine Cool Mint Mouth Wash (Thai) 500 ml",
+    "price": "690",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/listerine-cool-mint-mouth-wash-thai-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130238&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Listerine_Cool_Mint_Mouth_Wash_Thai_500_ml.jpg"
+  },
+  {
+    "name": "Pepsodent Tooth Powder 95 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pepsodent-tooth-powder-95-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D157813&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Pepsodent_Tooth_Powder_95_gm.jpg"
+  },
+  {
+    "name": "Magic Tooth Powder 50 gm",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/magic-tooth-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130512&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Magic_Tooth_Powder_50_gm.jpg"
+  }
+]

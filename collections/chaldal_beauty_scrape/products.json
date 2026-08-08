@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Pierre Cardin Natural Look Foundation 30 ml",
+    "price": "1250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pierre-cardin-natural-look-foundation-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D99546&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pierre_Cardin_Natural_Look_Foundation_30_ml.jpg"
+  },
+  {
+    "name": "Lipsilk Lip Balm Strawberry 7 gm",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lipsilk-lip-balm-strawberry-7-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116269&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lipsilk_Lip_Balm_Strawberry_7_gm.jpg"
+  },
+  {
+    "name": "Zayn & Myza Breathable Nail Enamel Strawberry Jelly 6 ml",
+    "price": "390",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/zayn-myza-breathable-nail-enamel-strawberry-jelly-6-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96611&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Zayn__Myza_Breathable_Nail_Enamel_Strawberry_Jelly_6_ml.jpg"
+  },
+  {
+    "name": "Zayn & Myza Breathable Nail Enamel Red Velvet 6 ml",
+    "price": "390",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/zayn-myza-breathable-nail-enamel-red-velvet-6-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96606&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Zayn__Myza_Breathable_Nail_Enamel_Red_Velvet_6_ml.jpg"
+  },
+  {
+    "name": "Zayn & Myza Breathable Nail Enamel Pink Popsicle 6 ml",
+    "price": "390",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/zayn-myza-breathable-nail-enamel-pink-popsicle-6-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96605&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Zayn__Myza_Breathable_Nail_Enamel_Pink_Popsicle_6_ml.jpg"
+  },
+  {
+    "name": "Zayn & Myza Breathable Nail Enamel Mauve Cheesecake 6 ml",
+    "price": "390",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/zayn-myza-breathable-nail-enamel-mauve-cheesecake-6-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96604&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Zayn__Myza_Breathable_Nail_Enamel_Mauve_Cheesecake_6_ml.jpg"
+  },
+  {
+    "name": "Lafz Lip Color Valley Of Roses 5.5 ml",
+    "price": "990",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lafz-lip-color-valley-of-roses-55-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D86998&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Lafz_Lip_Color_Valley_Of_Roses_55_ml.jpg"
+  },
+  {
+    "name": "Ligion Face Magic Gold 50 gm",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ligion-face-magic-gold-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130142&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Ligion_Face_Magic_Gold_50_gm.jpg"
+  },
+  {
+    "name": "Ligion Ladies Uptan 70 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ligion-ladies-uptan-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130148&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Ligion_Ladies_Uptan_70_gm.jpg"
+  },
+  {
+    "name": "Woman's World Uptan 150 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/womans-world-uptan-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138339&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Womans_World_Uptan_150_gm.jpg"
+  }
+]

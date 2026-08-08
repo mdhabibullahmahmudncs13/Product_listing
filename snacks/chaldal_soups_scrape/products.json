@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Nestle Maggi Healthy Soup Corn With Chicken 25 gm 4 pcs",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-maggi-healthy-soup-corn-with-chicken-25-gm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133888&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Maggi_Healthy_Soup_Corn_With_Chicken_25_gm_4_pcs.jpg"
+  },
+  {
+    "name": "Nestle Maggi Healthy Soup Thai Sachet 35 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-maggi-healthy-soup-thai-sachet-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133890&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Maggi_Healthy_Soup_Thai_Sachet_35_gm.jpg"
+  },
+  {
+    "name": "Nestle Maggi Healthy Soup Corn With Chicken 25 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-maggi-healthy-soup-corn-with-chicken-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135319&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Maggi_Healthy_Soup_Corn_With_Chicken_25_gm.jpg"
+  },
+  {
+    "name": "Knorr Soup Chicken Corn 24 gm 5 pcs",
+    "price": "275",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/knorr-soup-chicken-corn-24-gm-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110440&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Knorr_Soup_Chicken_Corn_24_gm_5_pcs.jpg"
+  },
+  {
+    "name": "Knorr Soup Thai 28 gm 5 pcs",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/knorr-soup-thai-28-gm-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77513&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Knorr_Soup_Thai_28_gm_5_pcs.jpg"
+  },
+  {
+    "name": "Knorr Soup Thai 28 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/knorr-soup-thai-28-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128272&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Knorr_Soup_Thai_28_gm.jpg"
+  },
+  {
+    "name": "Knorr Soup Chicken Corn 24 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/knorr-soup-chicken-corn-24-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128269&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Knorr_Soup_Chicken_Corn_24_gm.jpg"
+  },
+  {
+    "name": "Nestle Maggi Healthy Soup Vegetables Sachet 25 gm 4 pcs",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-maggi-healthy-soup-vegetables-sachet-25-gm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133889&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Maggi_Healthy_Soup_Vegetables_Sachet_25_gm_4_pcs.jpg"
+  },
+  {
+    "name": "Nestle Maggi Healthy Soup Thai Sachet 35 gm 4 pcs",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-maggi-healthy-soup-thai-sachet-35-gm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133887&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Maggi_Healthy_Soup_Thai_Sachet_35_gm_4_pcs.jpg"
+  }
+]

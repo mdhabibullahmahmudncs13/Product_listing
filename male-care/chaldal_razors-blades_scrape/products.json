@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Gillette Blue 2 Disposable Razor each",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-blue-2-disposable-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114759&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gillette_Blue_2_Disposable_Razor_each.jpg"
+  },
+  {
+    "name": "Gillette Guard Cartridges Single Cartridge each",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-guard-cartridges-single-cartridge-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128790&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gillette_Guard_Cartridges_Single_Cartridge_each.jpg"
+  },
+  {
+    "name": "Gillette Mach3 Turbo Men's Shaving Razor each",
+    "price": "665",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-mach3-turbo-mens-shaving-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128800&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Gillette_Mach3_Turbo_Mens_Shaving_Razor_each.jpg"
+  },
+  {
+    "name": "Gillette Proglide Men's Grooming Razor With Flexible Technology each",
+    "price": "1090",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-proglide-mens-grooming-razor-with-flexible-technology-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146408&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Gillette_Proglide_Mens_Grooming_Razor_With_Flexible_Technology_each.jpg"
+  },
+  {
+    "name": "Gillette Mach3 New Blade Razor each",
+    "price": "655",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-mach3-new-blade-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181489&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gillette_Mach3_New_Blade_Razor_each.jpg"
+  },
+  {
+    "name": "Gillette Fusion Manual Razor each",
+    "price": "1090",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-fusion-manual-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146407&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gillette_Fusion_Manual_Razor_each.jpg"
+  }
+]

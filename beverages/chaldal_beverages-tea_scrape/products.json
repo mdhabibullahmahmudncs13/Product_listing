@@ -1,0 +1,527 @@
+[
+  {
+    "name": "230 Tata Tea Premium 400 gm",
+    "price": "149",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tata-tea-premium-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161107&q=best&v=1&m=400&webp=1",
+    "image_location": "images/230_Tata_Tea_Premium_400_gm.jpg"
+  },
+  {
+    "name": "650 Dilmah Ceylon Moroccan Mint Green Tea 40 gm",
+    "price": "549",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dilmah-ceylon-moroccan-mint-green-tea-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177291&q=best&v=1&m=400&webp=1",
+    "image_location": "images/650_Dilmah_Ceylon_Moroccan_Mint_Green_Tea_40_gm.jpg"
+  },
+  {
+    "name": "Ispahani Mirzapore Best Leaf Tea 500 gm",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-mirzapore-best-leaf-tea-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124592&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Mirzapore_Best_Leaf_Tea_500_gm.jpg"
+  },
+  {
+    "name": "Seylon Family Blend Black Tea 400 gm",
+    "price": "225",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/seylon-family-blend-black-tea-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131441&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Seylon_Family_Blend_Black_Tea_400_gm.jpg"
+  },
+  {
+    "name": "Dilmah Premium Ceylon Tea 50 gm 25 pcs",
+    "price": "480",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dilmah-premium-ceylon-tea-50-gm-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180154&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Dilmah_Premium_Ceylon_Tea_50_gm_25_pcs.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Moringa Herbal Infusion Tea 25 pcs 37.5 gm",
+    "price": "290",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-moringa-herbal-infusion-tea-25-pcs-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167914&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Moringa_Herbal_Infusion_Tea_25_pcs_375_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Lemongrass Pyramid Herbal Infusion Tea 20 pcs 30 gm",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-lemongrass-pyramid-herbal-infusion-tea-20-pcs-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167910&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Lemongrass_Pyramid_Herbal_Infusion_Tea_20_pcs_30_gm.jpg"
+  },
+  {
+    "name": "Seylon Family Blend Black Tea 200 gm",
+    "price": "120",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/seylon-family-blend-black-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131443&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Seylon_Family_Blend_Black_Tea_200_gm.jpg"
+  },
+  {
+    "name": "Dilmah Ceylon Green Tea With Cardamom 40 gm",
+    "price": "715",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dilmah-ceylon-green-tea-with-cardamom-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177292&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dilmah_Ceylon_Green_Tea_With_Cardamom_40_gm.jpg"
+  },
+  {
+    "name": "Fresh Premium Tea Bag 100 gm",
+    "price": "95",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-premium-tea-bag-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128650&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Premium_Tea_Bag_100_gm.jpg"
+  },
+  {
+    "name": "Lipton Green Tea Bag Honey and Lemon 25 pcs",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lipton-green-tea-bag-honey-and-lemon-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163955&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lipton_Green_Tea_Bag_Honey_and_Lemon_25_pcs.jpg"
+  },
+  {
+    "name": "Tetley Green Tea Bag Pure and Original 25 pcs 32.5 gm",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tetley-green-tea-bag-pure-and-original-25-pcs-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161034&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tetley_Green_Tea_Bag_Pure_and_Original_25_pcs_325_gm.jpg"
+  },
+  {
+    "name": "Seylon Instant Milk Tea 3 in 1 15 gm",
+    "price": "10",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/seylon-instant-milk-tea-3-in-1-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160877&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Seylon_Instant_Milk_Tea_3_in_1_15_gm.jpg"
+  },
+  {
+    "name": "Ispahani Mirzapore Tea Bag 50 pcs",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-mirzapore-tea-bag-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107252&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Mirzapore_Tea_Bag_50_pcs.jpg"
+  },
+  {
+    "name": "Ispahani Mirzapore Best Leaf Tea 400 gm",
+    "price": "230",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-mirzapore-best-leaf-tea-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107236&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Mirzapore_Best_Leaf_Tea_400_gm.jpg"
+  },
+  {
+    "name": "Ispahani Mirzapore Best Leaf Tea 200 gm",
+    "price": "116",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-mirzapore-best-leaf-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129554&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Mirzapore_Best_Leaf_Tea_200_gm.jpg"
+  },
+  {
+    "name": "Brooke Bond Taaza Black Tea 400 gm",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/brooke-bond-taaza-black-tea-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D162455&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Brooke_Bond_Taaza_Black_Tea_400_gm.jpg"
+  },
+  {
+    "name": "Seylon Gold Tea 500 gm",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/seylon-gold-tea-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78089&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Seylon_Gold_Tea_500_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Green Tea 40 pcs 60 gm",
+    "price": "215",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-green-tea-40-pcs-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108206&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Green_Tea_40_pcs_60_gm.jpg"
+  },
+  {
+    "name": "Brooke Bond Taaza Black Tea 200 gm",
+    "price": "130",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/brooke-bond-taaza-black-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D162454&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Brooke_Bond_Taaza_Black_Tea_200_gm.jpg"
+  },
+  {
+    "name": "Dilmah Geen Tea with Jasmine 40 gm 20 pcs",
+    "price": "595",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dilmah-geen-tea-with-jasmine-40-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180151&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dilmah_Geen_Tea_with_Jasmine_40_gm_20_pcs.jpg"
+  },
+  {
+    "name": "Dilmah Green Tea with Camomile 30 gm 20 pcs",
+    "price": "630",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dilmah-green-tea-with-camomile-30-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180150&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dilmah_Green_Tea_with_Camomile_30_gm_20_pcs.jpg"
+  },
+  {
+    "name": "Dilmah Darjeeling Tea 50 gm 25 pcs",
+    "price": "790",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dilmah-darjeeling-tea-50-gm-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180128&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dilmah_Darjeeling_Tea_50_gm_25_pcs.jpg"
+  },
+  {
+    "name": "Seylon Instant Milk Tea 3 in 1 Stick Pouch 25 pcs",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/seylon-instant-milk-tea-3-in-1-stick-pouch-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175818&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Seylon_Instant_Milk_Tea_3_in_1_Stick_Pouch_25_pcs.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Orthodox Pyramid Black Tea 20 pcs 40 gm",
+    "price": "190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-orthodox-pyramid-black-tea-20-pcs-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167925&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Orthodox_Pyramid_Black_Tea_20_pcs_40_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Luxury Black Tea 400 gm",
+    "price": "345",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-luxury-black-tea-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167924&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Luxury_Black_Tea_400_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Luxury Black Tea 200 gm",
+    "price": "180",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-luxury-black-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167921&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Luxury_Black_Tea_200_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Chamomile Herbal Infusion Tea 25 pcs 37.5 gm",
+    "price": "490",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-chamomile-herbal-infusion-tea-25-pcs-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167913&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Chamomile_Herbal_Infusion_Tea_25_pcs_375_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Sleepy Tea 25 pcs 37.5 gm",
+    "price": "490",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-sleepy-tea-25-pcs-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167912&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Sleepy_Tea_25_pcs_375_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Orthodox Pyramid Oolong Tea 20 pcs 40 gm",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-orthodox-pyramid-oolong-tea-20-pcs-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167909&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Orthodox_Pyramid_Oolong_Tea_20_pcs_40_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Orthodox Pyramid Green Tea 20 pcs 30 gm",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-orthodox-pyramid-green-tea-20-pcs-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167908&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Orthodox_Pyramid_Green_Tea_20_pcs_30_gm.jpg"
+  },
+  {
+    "name": "Brooke Bond Taaza Tea 500 gm",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/brooke-bond-taaza-tea-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177075&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Brooke_Bond_Taaza_Tea_500_gm.jpg"
+  },
+  {
+    "name": "Revival Lemon Green Tea 45 gm",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/revival-lemon-green-tea-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136907&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Revival_Lemon_Green_Tea_45_gm.jpg"
+  },
+  {
+    "name": "Yummy Black Tea 500 gm",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/yummy-black-tea-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D134013&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Yummy_Black_Tea_500_gm.jpg"
+  },
+  {
+    "name": "ZealCafe Instant Masala Tea (Red Tea) 1 kg",
+    "price": "360",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/zealcafe-instant-masala-tea-red-tea-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131151&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/ZealCafe_Instant_Masala_Tea_Red_Tea_1_kg.jpg"
+  },
+  {
+    "name": "Kd Herbal Tea 100 gm",
+    "price": "620",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kd-herbal-tea-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124546&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kd_Herbal_Tea_100_gm.jpg"
+  },
+  {
+    "name": "Halda Valley Red Robe Oolong Tea 45 gm",
+    "price": "245",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/halda-valley-red-robe-oolong-tea-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169857&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Halda_Valley_Red_Robe_Oolong_Tea_45_gm.jpg"
+  },
+  {
+    "name": "Revival Karak Masala Tea 200 gm",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/revival-karak-masala-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D100508&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Revival_Karak_Masala_Tea_200_gm.jpg"
+  },
+  {
+    "name": "Dr. H&H Slimming Tea Bags 30 pcs 60 gm",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dr-hh-slimming-tea-bags-30-pcs-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174212&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dr_HH_Slimming_Tea_Bags_30_pcs_60_gm.jpg"
+  },
+  {
+    "name": "Kericho Gold Round Tea Bag 50 pcs 100 gm",
+    "price": "329",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kericho-gold-round-tea-bag-50-pcs-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96121&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kericho_Gold_Round_Tea_Bag_50_pcs_100_gm.jpg"
+  },
+  {
+    "name": "ACME Tea Premium Gold 200 gm",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/acme-tea-premium-gold-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122878&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/ACME_Tea_Premium_Gold_200_gm.jpg"
+  },
+  {
+    "name": "Dilmah Ginger & Honey Black Tea 30 gm",
+    "price": "405",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dilmah-ginger-honey-black-tea-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D106758&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dilmah_Ginger__Honey_Black_Tea_30_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Tea Turmeric Infusion 40 pcs 60 gm",
+    "price": "295",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazikazi-organic-tea-turmeric-infusion-40-pcs-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108235&q=best&v=1&m=400&webp=1",
+    "image_location": "images/KaziKazi_Organic_Tea_Turmeric_Infusion_40_pcs_60_gm.jpg"
+  },
+  {
+    "name": "Halda Valley Golden Eyebrow Black Tea 50 gm",
+    "price": "500",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/halda-valley-golden-eyebrow-black-tea-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128985&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Halda_Valley_Golden_Eyebrow_Black_Tea_50_gm.jpg"
+  },
+  {
+    "name": "Dilmah Ceylon Green Tea With Ceylon Cinnamon 40 gm",
+    "price": "715",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dilmah-ceylon-green-tea-with-ceylon-cinnamon-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177290&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dilmah_Ceylon_Green_Tea_With_Ceylon_Cinnamon_40_gm.jpg"
+  },
+  {
+    "name": "Ispahani Blender's Choice Premium Green Tea Bag 70 gm 50 pcs",
+    "price": "205",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-blenders-choice-premium-green-tea-bag-70-gm-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107163&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Ispahani_Blenders_Choice_Premium_Green_Tea_Bag_70_gm_50_pcs.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Green Mint Tea 25 pcs 37.5 gm",
+    "price": "295",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-green-mint-tea-25-pcs-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158244&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Green_Mint_Tea_25_pcs_375_gm.jpg"
+  },
+  {
+    "name": "Paragon Hajinagar PD Tea 500 gm",
+    "price": "225",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/paragon-hajinagar-pd-tea-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115939&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Paragon_Hajinagar_PD_Tea_500_gm.jpg"
+  },
+  {
+    "name": "Paragon Hajinagar BOP Tea 500 gm",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/paragon-hajinagar-bop-tea-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115938&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Paragon_Hajinagar_BOP_Tea_500_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Green Lemongrass Tea 40 pcs 60 gm",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-green-lemongrass-tea-40-pcs-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108204&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Green_Lemongrass_Tea_40_pcs_60_gm.jpg"
+  },
+  {
+    "name": "Lipton Green Tea Bag Honey and Lemon 50 pcs",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lipton-green-tea-bag-honey-and-lemon-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93326&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Lipton_Green_Tea_Bag_Honey_and_Lemon_50_pcs.jpg"
+  },
+  {
+    "name": "Lipton Green Tea Pure And Light 50 pcs",
+    "price": "280",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lipton-green-tea-pure-and-light-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93650&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lipton_Green_Tea_Pure_And_Light_50_pcs.jpg"
+  },
+  {
+    "name": "Jafflong Green Tea Bag In Bag 100 gm",
+    "price": "230",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jafflong-green-tea-bag-in-bag-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107299&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Jafflong_Green_Tea_Bag_In_Bag_100_gm.jpg"
+  },
+  {
+    "name": "Ispahani Blender's Choice Premium Black Tea 400 gm",
+    "price": "310",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-blenders-choice-premium-black-tea-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160152&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Blenders_Choice_Premium_Black_Tea_400_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Lemongrass Herbal Infusion 50 gm",
+    "price": "195",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-lemongrass-herbal-infusion-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108213&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Lemongrass_Herbal_Infusion_50_gm.jpg"
+  },
+  {
+    "name": "Finlay Natural Green Tea Bags 25 pcs 50 gm",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/finlay-natural-green-tea-bags-25-pcs-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168161&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Finlay_Natural_Green_Tea_Bags_25_pcs_50_gm.jpg"
+  },
+  {
+    "name": "Ispahani Blender's Choice Premium Green Tea 35 gm 25 pcs",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-blenders-choice-premium-green-tea-35-gm-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107156&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Blenders_Choice_Premium_Green_Tea_35_gm_25_pcs.jpg"
+  },
+  {
+    "name": "Ispahani Mirzapore BOP Tea 500 gm",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-mirzapore-bop-tea-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107244&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Mirzapore_BOP_Tea_500_gm.jpg"
+  },
+  {
+    "name": "Tata Tea Premium 200 gm",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tata-tea-premium-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161029&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tata_Tea_Premium_200_gm.jpg"
+  },
+  {
+    "name": "Twinings Green Tea & Lemon 25 Tea bags each",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/twinings-green-tea-lemon-25-tea-bags-1-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136601&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Twinings_Green_Tea__Lemon_25_Tea_bags_each.jpg"
+  },
+  {
+    "name": "Twinings Earl Grey Green 25 Tea bags each",
+    "price": "975",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/twinings-earl-grey-green-25-tea-bags-1-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D119267&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Twinings_Earl_Grey_Green_25_Tea_bags_each.jpg"
+  },
+  {
+    "name": "Finlay Gold Tea 200 gm",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/finlay-gold-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129548&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Finlay_Gold_Tea_200_gm.jpg"
+  },
+  {
+    "name": "Finlay Premium Tea 200 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/finlay-premium-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168987&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Finlay_Premium_Tea_200_gm.jpg"
+  },
+  {
+    "name": "Ispahani Mirzapore Red Dust (RD) Tea 400 gm",
+    "price": "185",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-mirzapore-red-dust-rd-tea-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107248&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Ispahani_Mirzapore_Red_Dust_RD_Tea_400_gm.jpg"
+  },
+  {
+    "name": "Ispahani Blender's Choice Black Tea 400 gm",
+    "price": "310",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-blenders-choice-black-tea-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107144&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Blenders_Choice_Black_Tea_400_gm.jpg"
+  },
+  {
+    "name": "Seylon Family Blend Tea Poly 400 gm",
+    "price": "225",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/seylon-family-blend-tea-poly-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78088&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Seylon_Family_Blend_Tea_Poly_400_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Orthodox Green Tea 100 gm",
+    "price": "215",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-orthodox-green-tea-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108231&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Orthodox_Green_Tea_100_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Orthodox Black Tea 100 gm",
+    "price": "190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-orthodox-black-tea-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108230&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Orthodox_Black_Tea_100_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Pristine Black Tea 200 gm",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-pristine-black-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108233&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Pristine_Black_Tea_200_gm.jpg"
+  },
+  {
+    "name": "Ispahani Blender's Choice Premium Black Tea 200 gm",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-blenders-choice-premium-black-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95167&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Blenders_Choice_Premium_Black_Tea_200_gm.jpg"
+  },
+  {
+    "name": "215 Kazi & Kazi Organic Tulsi Tea 40 pcs 60 gm",
+    "price": "195",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-tulsi-tea-40-pcs-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108234&q=best&v=1&m=400&webp=1",
+    "image_location": "images/215_Kazi__Kazi_Organic_Tulsi_Tea_40_pcs_60_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Jasmine Green Tea 40 pcs 60 gm",
+    "price": "215",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-jasmine-green-tea-40-pcs-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108207&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Jasmine_Green_Tea_40_pcs_60_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Ginger Tea 40 pcs 60 gm",
+    "price": "215",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-ginger-tea-40-pcs-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108203&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Ginger_Tea_40_pcs_60_gm.jpg"
+  },
+  {
+    "name": "Kazi & Kazi Organic Black Tea 40 pcs 80 gm",
+    "price": "125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-kazi-organic-black-tea-40-pcs-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129668&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kazi__Kazi_Organic_Black_Tea_40_pcs_80_gm.jpg"
+  },
+  {
+    "name": "Brooke Bond Taaza Tea Bag 50 pcs 95 gm",
+    "price": "95",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/brooke-bond-taaza-tea-bag-50-pcs-95-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D162456&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Brooke_Bond_Taaza_Tea_Bag_50_pcs_95_gm.jpg"
+  }
+]

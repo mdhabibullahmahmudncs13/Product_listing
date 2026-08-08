@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Goalini Plus Condensed Milk 400 gm",
+    "price": "105",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/goalini-plus-condensed-milk-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114901&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Goalini_Plus_Condensed_Milk_400_gm.jpg"
+  },
+  {
+    "name": "Foster Clark's Corn Flour 400 gm",
+    "price": "360",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foster-clarks-corn-flour-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173671&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Foster_Clarks_Corn_Flour_400_gm.jpg"
+  },
+  {
+    "name": "Hershey's Chocolate Syrup 623 gm",
+    "price": "1029",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hersheys-chocolate-syrup-623-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103086&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hersheys_Chocolate_Syrup_623_gm.jpg"
+  },
+  {
+    "name": "Baking Soda 100 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/baking-soda-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47984&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Baking_Soda_100_gm.jpg"
+  },
+  {
+    "name": "Anchor Yeast 35 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/anchor-yeast-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176952&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Anchor_Yeast_35_gm.jpg"
+  },
+  {
+    "name": "55 Sugar Candy (Tal Misri) 200 gm",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sugar-candy-tal-misri-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48011&q=best&v=1&m=400&webp=1",
+    "image_location": "images/55_Sugar_Candy_Tal_Misri_200_gm.jpg"
+  },
+  {
+    "name": "Chocolate Chips Dark 250 gm",
+    "price": "439",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chocolate-chips-dark-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98037&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Chocolate_Chips_Dark_250_gm.jpg"
+  },
+  {
+    "name": "Chocolate Chips White 250 gm",
+    "price": "429",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/chocolate-chips-white-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98036&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Chocolate_Chips_White_250_gm.jpg"
+  },
+  {
+    "name": "Silver Edible Paper (Tobok) 25 gm",
+    "price": "549",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/silver-edible-paper-tobok-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73694&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Silver_Edible_Paper_Tobok_25_gm.jpg"
+  },
+  {
+    "name": "Golden Edible Paper (Tobok) 25 gm",
+    "price": "549",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-edible-paper-tobok-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128924&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Edible_Paper_Tobok_25_gm.jpg"
+  },
+  {
+    "name": "Sweet Ball Golden 150 gm",
+    "price": "520",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sweet-ball-golden-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131363&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sweet_Ball_Golden_150_gm.jpg"
+  },
+  {
+    "name": "Sweet Ball White 150 gm",
+    "price": "375",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sweet-ball-white-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131362&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sweet_Ball_White_150_gm.jpg"
+  },
+  {
+    "name": "Saad Monosodium Glutamate 50 gm",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/saad-monosodium-glutamate-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72067&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Saad_Monosodium_Glutamate_50_gm.jpg"
+  },
+  {
+    "name": "Vivo Ambient Whip Topping with Vegetable Fat 1100 gm",
+    "price": "736",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/vivo-ambient-whip-topping-with-vegetable-fat-1100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137073&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Vivo_Ambient_Whip_Topping_with_Vegetable_Fat_1100_gm.jpg"
+  },
+  {
+    "name": "Foster Clark's Culinary Essence Rose 28 ml",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foster-clarks-culinary-essence-rose-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110786&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Foster_Clarks_Culinary_Essence_Rose_28_ml.jpg"
+  },
+  {
+    "name": "49 Bread Crumbs Loose 200 gm",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bread-crumbs-loose-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126244&q=best&v=1&m=400&webp=1",
+    "image_location": "images/49_Bread_Crumbs_Loose_200_gm.jpg"
+  },
+  {
+    "name": "Hershey's Strawberry Syrup 623 gm",
+    "price": "939",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hersheys-strawberry-syrup-623-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174494&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hersheys_Strawberry_Syrup_623_gm.jpg"
+  },
+  {
+    "name": "Sis White Sugar Cube 454 gm",
+    "price": "500",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sis-white-sugar-cube-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176580&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sis_White_Sugar_Cube_454_gm.jpg"
+  },
+  {
+    "name": "Foster Clark's Food Colour (Red) 28 ml",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foster-clarks-food-colour-red-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112888&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Foster_Clarks_Food_Colour_Red_28_ml.jpg"
+  }
+]

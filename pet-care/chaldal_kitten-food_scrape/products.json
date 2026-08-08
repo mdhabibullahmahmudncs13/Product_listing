@@ -1,0 +1,51 @@
+[
+  {
+    "name": "800 Paw Paw Kitten Dry Cat Food Chicken 1.5 kg",
+    "price": "699",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/paw-paw-kitten-dry-cat-food-chicken-15-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163737&q=best&v=1&m=400&webp=1",
+    "image_location": "images/800_Paw_Paw_Kitten_Dry_Cat_Food_Chicken_15_kg.jpg"
+  },
+  {
+    "name": "1220 Bonacibo Cat Food Kitten Chicken With Anchovy & Rice 1.5 kg",
+    "price": "1139",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bonacibo-cat-food-kitten-chicken-with-anchovy-rice-15-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120536&q=best&v=1&m=400&webp=1",
+    "image_location": "images/1220_Bonacibo_Cat_Food_Kitten_Chicken_With_Anchovy__Rice_15_kg.jpg"
+  },
+  {
+    "name": "110 Foodinnova Nekko Kitten Chicken Mousse 70 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foodinnova-nekko-kitten-chicken-mousse-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121222&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/110_Foodinnova_Nekko_Kitten_Chicken_Mousse_70_gm.jpg"
+  },
+  {
+    "name": "110 Foodinnova Nekko Kitten Tuna Mousse with Goat Milk 70 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/foodinnova-nekko-kitten-tuna-mousse-with-goat-milk-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121225&q=best&v=1&m=400&webp=1",
+    "image_location": "images/110_Foodinnova_Nekko_Kitten_Tuna_Mousse_with_Goat_Milk_70_gm.jpg"
+  },
+  {
+    "name": "130 SmartHeart Kitten Food Tuna 85 gm",
+    "price": "119",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/smartheart-kitten-food-tuna-85-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127119&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/130_SmartHeart_Kitten_Food_Tuna_85_gm.jpg"
+  },
+  {
+    "name": "130 Whiskas Junior Cat Food Mackerel 80 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/whiskas-junior-cat-food-mackerel-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D157575&q=best&v=1&m=400&webp=1",
+    "image_location": "images/130_Whiskas_Junior_Cat_Food_Mackerel_80_gm.jpg"
+  },
+  {
+    "name": "130 Whiskas Cat Food Junior Tuna Kitten 80 gm",
+    "price": "99",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/whiskas-cat-food-junior-tuna-kitten-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122599&q=best&v=1&m=400&webp=1",
+    "image_location": "images/130_Whiskas_Cat_Food_Junior_Tuna_Kitten_80_gm.jpg"
+  }
+]

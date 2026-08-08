@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Deli Whiteboard Eraser (Grey) each",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-whiteboard-eraser-grey-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97959&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Deli_Whiteboard_Eraser_Grey_each.jpg"
+  },
+  {
+    "name": "RFL Good Luck Duster Blue each",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-good-luck-duster-blue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97009&q=best&v=1&m=400&webp=1",
+    "image_location": "images/RFL_Good_Luck_Duster_Blue_each.jpg"
+  },
+  {
+    "name": "RFL Good Luck Duster Red each",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-good-luck-duster-red-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133221&q=best&v=1&m=400&webp=1",
+    "image_location": "images/RFL_Good_Luck_Duster_Red_each.jpg"
+  },
+  {
+    "name": "Deli Correction Pen Quick Drying 8 ml each",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-correction-pen-quick-drying-8-ml-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D99368&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Deli_Correction_Pen_Quick_Drying_8_ml_each.jpg"
+  },
+  {
+    "name": "Pencil Sharpner (94529) each",
+    "price": "19",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pencil-sharpner-94529-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153446&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pencil_Sharpner_94529_each.jpg"
+  }
+]

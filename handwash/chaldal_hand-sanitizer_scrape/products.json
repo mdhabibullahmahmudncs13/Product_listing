@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Germnil Hand Sanitizer With Dispenser 250 ml",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/germnil-hand-sanitizer-with-dispenser-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114567&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Germnil_Hand_Sanitizer_With_Dispenser_250_ml.jpg"
+  },
+  {
+    "name": "D-Care Instant Hand Sanitizer 5 ltr",
+    "price": "2525",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/d-care-instant-hand-sanitizer-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127499&q=best&v=1&m=400&webp=1",
+    "image_location": "images/D-Care_Instant_Hand_Sanitizer_5_ltr.jpg"
+  },
+  {
+    "name": "Savlon Instant Hand Sanitizer 200 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/savlon-instant-hand-sanitizer-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75306&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Savlon_Instant_Hand_Sanitizer_200_ml.jpg"
+  },
+  {
+    "name": "Savlon Hand Sanitizer 50 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/savlon-hand-sanitizer-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133231&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Savlon_Hand_Sanitizer_50_ml.jpg"
+  },
+  {
+    "name": "Savlon Hand Rub 250 ml",
+    "price": "130",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/savlon-hand-rub-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133228&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Savlon_Hand_Rub_250_ml.jpg"
+  },
+  {
+    "name": "Sepnil Instant Hand Sanitizer 40 ml",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sepnil-instant-hand-sanitizer-40-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60016&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sepnil_Instant_Hand_Sanitizer_40_ml.jpg"
+  },
+  {
+    "name": "Sepnil Instant Hand Sanitizer 200 ml",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sepnil-instant-hand-sanitizer-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178322&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sepnil_Instant_Hand_Sanitizer_200_ml.jpg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "360 Haisenpet Clumping Cat Litter Lavender 5 ltr",
+    "price": "319",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/haisenpet-clumping-cat-litter-lavender-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121355&q=best&v=1&m=400&webp=1",
+    "image_location": "images/360_Haisenpet_Clumping_Cat_Litter_Lavender_5_ltr.jpg"
+  },
+  {
+    "name": "750 Coziecat Premium Cat Litter Coffe Clumping 10 ltr",
+    "price": "699",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coziecat-premium-cat-litter-coffe-clumping-10-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120569&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/750_Coziecat_Premium_Cat_Litter_Coffe_Clumping_10_ltr.jpg"
+  },
+  {
+    "name": "370 Coziecat Premium Cat Litter Coffe Clumping 5 ltr",
+    "price": "349",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coziecat-premium-cat-litter-coffe-clumping-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176537&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/370_Coziecat_Premium_Cat_Litter_Coffe_Clumping_5_ltr.jpg"
+  },
+  {
+    "name": "1090 Coziecat Premium Cat Litter Lemon Clumping 10 ltr",
+    "price": "819",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coziecat-premium-cat-litter-lemon-clumping-10-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176682&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/1090_Coziecat_Premium_Cat_Litter_Lemon_Clumping_10_ltr.jpg"
+  },
+  {
+    "name": "390 Coziecat Premium Cat Litter Apple Clumping 5 ltr",
+    "price": "359",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coziecat-premium-cat-litter-apple-clumping-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176538&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/390_Coziecat_Premium_Cat_Litter_Apple_Clumping_5_ltr.jpg"
+  },
+  {
+    "name": "500 Paws Cat Litter (Lavender) 4.5 kg",
+    "price": "379",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/paws-cat-litter-lavender-45-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181511&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/500_Paws_Cat_Litter_Lavender_45_kg.jpg"
+  }
+]

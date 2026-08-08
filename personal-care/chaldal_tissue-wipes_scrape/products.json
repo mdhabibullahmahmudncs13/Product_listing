@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Fresh Hand Towel (250X1 Ply) each",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-hand-towel-250x1-ply-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113119&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Hand_Towel_250X1_Ply_each.jpg"
+  },
+  {
+    "name": "Fresh Perfumed Facial Tissue (150 X 2) ply Box each",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-perfumed-facial-tissue-150-x-2-ply-box-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49747&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Perfumed_Facial_Tissue_150_X_2_ply_Box_each.jpg"
+  },
+  {
+    "name": "Fresh Paper Napkins 13\" Perfumed (100X1 Ply) each",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-paper-napkins-13-perfumed-100x1-ply-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113125&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Paper_Napkins_13_Perfumed_100X1_Ply_each.jpg"
+  },
+  {
+    "name": "Fresh White Paper Napkin Non-Perfumed 100 pcs",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-white-paper-napkin-non-perfumed-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132873&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_White_Paper_Napkin_Non-Perfumed_100_pcs.jpg"
+  },
+  {
+    "name": "Partex Cleen Hand Towel (200X2 Ply) each",
+    "price": "85",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/partex-cleen-hand-towel-200x2-ply-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124948&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Partex_Cleen_Hand_Towel_200X2_Ply_each.jpg"
+  },
+  {
+    "name": "Bashundhara Paper Napkins 13\" Unscented 100 pcs",
+    "price": "75",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bashundhara-paper-napkins-13-unscented-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164084&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bashundhara_Paper_Napkins_13_Unscented_100_pcs.jpg"
+  },
+  {
+    "name": "Fay Facial Tissue Non-Perfume (150 X 2 ply) Box each",
+    "price": "105",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fay-facial-tissue-non-perfume-150-x-2-ply-box-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95808&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fay_Facial_Tissue_Non-Perfume_150_X_2_ply_Box_each.jpg"
+  },
+  {
+    "name": "Fresh Toilet Tissue (Family Value Pack) 4 pcs",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-toilet-tissue-family-value-pack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113296&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Toilet_Tissue_Family_Value_Pack_4_pcs.jpg"
+  },
+  {
+    "name": "Bashundhara Toilet Tissue 4 pcs",
+    "price": "112",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bashundhara-toilet-tissue-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D99251&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bashundhara_Toilet_Tissue_4_pcs.jpg"
+  },
+  {
+    "name": "Fay Perfume Facial Tissue Perfume (150 X 2 ply) Box each",
+    "price": "105",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fay-perfume-facial-tissue-perfume-150-x-2-ply-box-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95805&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fay_Perfume_Facial_Tissue_Perfume_150_X_2_ply_Box_each.jpg"
+  },
+  {
+    "name": "Fay Toilet Tissue White 180 Sheet each",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fay-toilet-tissue-white-180-sheet-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128444&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fay_Toilet_Tissue_White_180_Sheet_each.jpg"
+  },
+  {
+    "name": "Fay Multi-fold Hand Towel 1 Ply 150 pcs",
+    "price": "160",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fay-multi-fold-hand-towel-1-ply-150-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128439&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Fay_Multi-fold_Hand_Towel_1_Ply_150_pcs.jpg"
+  },
+  {
+    "name": "Bashundhara Gold Toilet Tissue each",
+    "price": "38",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bashundhara-gold-toilet-tissue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64375&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Bashundhara_Gold_Toilet_Tissue_each.jpg"
+  }
+]

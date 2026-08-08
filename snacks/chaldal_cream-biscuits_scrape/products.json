@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Cocola Champion Chocolate Cream Biscuit 65 gm",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cocola-champion-chocolate-cream-biscuit-65-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91752&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Cocola_Champion_Chocolate_Cream_Biscuit_65_gm.jpg"
+  },
+  {
+    "name": "Bisk Club Shero Cream Biscuit 85 gm",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bisk-club-shero-cream-biscuit-85-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98743&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bisk_Club_Shero_Cream_Biscuit_85_gm.jpg"
+  },
+  {
+    "name": "Fresh Fantasy Chocolate Filled Cookies Biscuit 175 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-fantasy-chocolate-filled-cookies-biscuit-175-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128620&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Fantasy_Chocolate_Filled_Cookies_Biscuit_175_gm.jpg"
+  },
+  {
+    "name": "Olympic Pineapple Cream Biscuits 40 gm",
+    "price": "10",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olympic-pineapple-cream-biscuits-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123549&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olympic_Pineapple_Cream_Biscuits_40_gm.jpg"
+  },
+  {
+    "name": "Haque Milk Chocolate Digestive Biscuit 137 gm",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/haque-milk-chocolate-digestive-biscuit-137-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129111&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Haque_Milk_Chocolate_Digestive_Biscuit_137_gm.jpg"
+  },
+  {
+    "name": "Olympic Tim Tim Orange Biscuit 40 gm",
+    "price": "10",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olympic-tim-tim-orange-biscuit-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101046&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olympic_Tim_Tim_Orange_Biscuit_40_gm.jpg"
+  },
+  {
+    "name": "Fresh Fun Fill Sandwich Chocolate Cream Biscuit 34 gm",
+    "price": "10",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-fun-fill-sandwich-chocolate-cream-biscuit-34-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158415&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Fun_Fill_Sandwich_Chocolate_Cream_Biscuit_34_gm.jpg"
+  },
+  {
+    "name": "Tiffany Crunch 'n' Cream Vanilla Wafers 135 gm",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tiffany-crunch-n-cream-vanilla-wafers-135-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94249&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Tiffany_Crunch_n_Cream_Vanilla_Wafers_135_gm.jpg"
+  },
+  {
+    "name": "Munchy's Topmix Assorted Biscuits 295 gm",
+    "price": "580",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/munchys-topmix-assorted-biscuits-295-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141634&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Munchys_Topmix_Assorted_Biscuits_295_gm.jpg"
+  },
+  {
+    "name": "Munchy's Lexus Cheese Cream Sandwich Cracker Biscuit 225 gm",
+    "price": "490",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/munchys-lexus-cheese-cream-sandwich-cracker-biscuit-225-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101662&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Munchys_Lexus_Cheese_Cream_Sandwich_Cracker_Biscuit_225_gm.jpg"
+  },
+  {
+    "name": "Tiffany Delights Bourbon Creams 200 gm",
+    "price": "470",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tiffany-delights-bourbon-creams-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47454&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tiffany_Delights_Bourbon_Creams_200_gm.jpg"
+  },
+  {
+    "name": "Parle Hide & Seek Black Bourbon Choco Creme Biscuit 100 gm",
+    "price": "195",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parle-hide-seek-black-bourbon-choco-creme-biscuit-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109112&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Parle_Hide__Seek_Black_Bourbon_Choco_Creme_Biscuit_100_gm.jpg"
+  },
+  {
+    "name": "Ifad Butter Delight Biscuit 150 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ifad-butter-delight-biscuit-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163562&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ifad_Butter_Delight_Biscuit_150_gm.jpg"
+  },
+  {
+    "name": "Ifad Orange Delight Biscuit 140 gm",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ifad-orange-delight-biscuit-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169203&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ifad_Orange_Delight_Biscuit_140_gm.jpg"
+  },
+  {
+    "name": "Munchy's Lexus Choco Coated Chocolate Cream Biscuit 200 gm",
+    "price": "480",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/munchys-lexus-choco-coated-chocolate-cream-biscuit-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112885&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Munchys_Lexus_Choco_Coated_Chocolate_Cream_Biscuit_200_gm.jpg"
+  },
+  {
+    "name": "Munchy's Topmix Assorted Biscuits Tin 700 gm",
+    "price": "1870",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/munchys-topmix-assorted-biscuits-tin-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101740&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Munchys_Topmix_Assorted_Biscuits_Tin_700_gm.jpg"
+  }
+]

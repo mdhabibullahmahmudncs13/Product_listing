@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Olympic Lexus Vegetable Crackers Biscuits 216 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olympic-lexus-vegetable-crackers-biscuits-216-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115564&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olympic_Lexus_Vegetable_Crackers_Biscuits_216_gm.jpg"
+  },
+  {
+    "name": "Fresh Fantasy Chocolate Filled Cookies Biscuit 175 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-fantasy-chocolate-filled-cookies-biscuit-175-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128620&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Fantasy_Chocolate_Filled_Cookies_Biscuit_175_gm.jpg"
+  },
+  {
+    "name": "Haque Mr. Cookie Butter Coconut Biscuit 175 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/haque-mr-cookie-butter-coconut-biscuit-175-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129113&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Haque_Mr_Cookie_Butter_Coconut_Biscuit_175_gm.jpg"
+  },
+  {
+    "name": "Haque La Kokonat Cookies Biscuit 100 gm",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/haque-la-kokonat-cookies-biscuit-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177144&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Haque_La_Kokonat_Cookies_Biscuit_100_gm.jpg"
+  },
+  {
+    "name": "Kishwan Ovaltine Biscuit 250 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kishwan-ovaltine-biscuit-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132360&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kishwan_Ovaltine_Biscuit_250_gm.jpg"
+  },
+  {
+    "name": "Ifad Nutri Bite Vegetable Crackers Biscuit 180 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ifad-nutri-bite-vegetable-crackers-biscuit-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165424&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ifad_Nutri_Bite_Vegetable_Crackers_Biscuit_180_gm.jpg"
+  },
+  {
+    "name": "Haque Mr. Cookie Butter Coconut Biscuit 35 gm",
+    "price": "10",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/haque-mr-cookie-butter-coconut-biscuit-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140369&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Haque_Mr_Cookie_Butter_Coconut_Biscuit_35_gm.jpg"
+  },
+  {
+    "name": "Fresh Butter Cookies Biscuit Jar 750 gm",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-butter-cookies-biscuit-jar-750-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169151&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Butter_Cookies_Biscuit_Jar_750_gm.jpg"
+  },
+  {
+    "name": "Danish Lexus Vegetable Cracker Biscuit 180 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/danish-lexus-vegetable-cracker-biscuit-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124076&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Danish_Lexus_Vegetable_Cracker_Biscuit_180_gm.jpg"
+  },
+  {
+    "name": "Dekko Kheer Cookies Biscuit Family Pack 265 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dekko-kheer-cookies-biscuit-family-pack-265-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103393&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Dekko_Kheer_Cookies_Biscuit_Family_Pack_265_gm.jpg"
+  },
+  {
+    "name": "Kishwan Magica Choco Filled Cookies 180 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kishwan-magica-choco-filled-cookies-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75185&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kishwan_Magica_Choco_Filled_Cookies_180_gm.jpg"
+  },
+  {
+    "name": "Kishwan Horlicks Biscuit 250 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kishwan-horlicks-biscuit-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132361&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kishwan_Horlicks_Biscuit_250_gm.jpg"
+  },
+  {
+    "name": "All Time Roma Chocolate Cookies 150 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/all-time-roma-chocolate-cookies-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101626&q=best&v=1&m=400&webp=1",
+    "image_location": "images/All_Time_Roma_Chocolate_Cookies_150_gm.jpg"
+  },
+  {
+    "name": "Kishwan Butter Cookies Biscuit 200 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kishwan-butter-cookies-biscuit-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129015&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kishwan_Butter_Cookies_Biscuit_200_gm.jpg"
+  },
+  {
+    "name": "Dekko Bhalobasa Chocolate Milk Cookies 88 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dekko-bhalobasa-chocolate-milk-cookies-88-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128207&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Dekko_Bhalobasa_Chocolate_Milk_Cookies_88_gm.jpg"
+  },
+  {
+    "name": "Dekko Chocomalt Chocolate Cookies Biscuit 235 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dekko-chocomalt-chocolate-cookies-biscuit-235-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126066&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dekko_Chocomalt_Chocolate_Cookies_Biscuit_235_gm.jpg"
+  },
+  {
+    "name": "Dekko Honey & Kalo Zeera Biscuit 150 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dekko-honey-kalo-zeera-biscuit-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126065&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Dekko_Honey__Kalo_Zeera_Biscuit_150_gm.jpg"
+  },
+  {
+    "name": "Meena Sweets Butter Shortbread cookies 250 gm",
+    "price": "340",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/meena-sweets-butter-shortbread-cookies-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130672&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Meena_Sweets_Butter_Shortbread_cookies_250_gm.jpg"
+  },
+  {
+    "name": "Bakeman's Coconut Craze Cookies Biscuit 185 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bakemans-coconut-craze-cookies-biscuit-185-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D172139&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bakemans_Coconut_Craze_Cookies_Biscuit_185_gm.jpg"
+  },
+  {
+    "name": "Bakeman's Bahtar Butter Cookies 185 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bakemans-bahtar-butter-cookies-185-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169095&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bakemans_Bahtar_Butter_Cookies_185_gm.jpg"
+  },
+  {
+    "name": "Dan Cake Danish Butter Cookies 150 gm",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dan-cake-danish-butter-cookies-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169222&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dan_Cake_Danish_Butter_Cookies_150_gm.jpg"
+  },
+  {
+    "name": "Dan Cake Oats Cookies 150 gm",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dan-cake-oats-cookies-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169224&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dan_Cake_Oats_Cookies_150_gm.jpg"
+  },
+  {
+    "name": "Bakeman's Ovaltine Cookies Biscuit 250 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bakemans-ovaltine-cookies-biscuit-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138712&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bakemans_Ovaltine_Cookies_Biscuit_250_gm.jpg"
+  },
+  {
+    "name": "Munchy's Oat Krunch Nutty Chocolate Cookies 208 gm",
+    "price": "550",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/munchys-oat-krunch-nutty-chocolate-cookies-208-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141621&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Munchys_Oat_Krunch_Nutty_Chocolate_Cookies_208_gm.jpg"
+  },
+  {
+    "name": "Iko Sugar Free Oat Bran Crackers 220 gm",
+    "price": "730",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/iko-sugar-free-oat-bran-crackers-220-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107040&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Iko_Sugar_Free_Oat_Bran_Crackers_220_gm.jpg"
+  },
+  {
+    "name": "Olympic Hilux Vegetable Crackers Biscuits 216 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olympic-hilux-vegetable-crackers-biscuits-216-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101172&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olympic_Hilux_Vegetable_Crackers_Biscuits_216_gm.jpg"
+  },
+  {
+    "name": "Olympic Hello Cookies Biscuits 165 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olympic-hello-cookies-biscuits-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183208&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Olympic_Hello_Cookies_Biscuits_165_gm.jpg"
+  },
+  {
+    "name": "Olympic Biscotti Cookies Biscuit 160 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olympic-biscotti-cookies-biscuit-160-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183207&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Olympic_Biscotti_Cookies_Biscuit_160_gm.jpg"
+  },
+  {
+    "name": "Dekko Pick Star Cookies Biscuit 175 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dekko-pick-star-cookies-biscuit-175-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D118898&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dekko_Pick_Star_Cookies_Biscuit_175_gm.jpg"
+  },
+  {
+    "name": "Weetabix Original Biscuit 215 gm",
+    "price": "725",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/weetabix-original-biscuit-215-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137094&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Weetabix_Original_Biscuit_215_gm.jpg"
+  },
+  {
+    "name": "Iko Sugar Free Pumpkin Cookies 178 gm",
+    "price": "610",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/iko-sugar-free-pumpkin-cookies-178-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107042&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Iko_Sugar_Free_Pumpkin_Cookies_178_gm.jpg"
+  },
+  {
+    "name": "Fit Masala Biscuit 60 gm",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fit-masala-biscuit-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161800&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fit_Masala_Biscuit_60_gm.jpg"
+  },
+  {
+    "name": "Goldmark Original Fruit Cookies 200 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/goldmark-original-fruit-cookies-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115554&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Goldmark_Original_Fruit_Cookies_200_gm.jpg"
+  },
+  {
+    "name": "Goldmark Butter Cookies 210 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/goldmark-butter-cookies-210-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103302&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Goldmark_Butter_Cookies_210_gm.jpg"
+  }
+]

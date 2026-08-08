@@ -1,0 +1,611 @@
+[
+  {
+    "name": "190 Nihar Naturals Shanti Badam Amla Hair Oil 175 ml",
+    "price": "175",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nihar-naturals-shanti-badam-amla-hair-oil-175-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D154044&q=best&v=1&m=400&webp=1",
+    "image_location": "images/190_Nihar_Naturals_Shanti_Badam_Amla_Hair_Oil_175_ml.jpg"
+  },
+  {
+    "name": "Gondhraj Perfume Hair Oil 350 ml",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gondhraj-perfume-hair-oil-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176464&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gondhraj_Perfume_Hair_Oil_350_ml.jpg"
+  },
+  {
+    "name": "380 Well's Almond Oil 70 ml",
+    "price": "299",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wells-almond-oil-70-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138271&q=best&v=1&m=400&webp=1",
+    "image_location": "images/380_Wells_Almond_Oil_70_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Beliphool Coconut Hair Oil 300 ml",
+    "price": "310",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-beliphool-coconut-hair-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131903&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Beliphool_Coconut_Hair_Oil_300_ml.jpg"
+  },
+  {
+    "name": "Well's Castor Oil 70 ml",
+    "price": "500",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/wells-castor-oil-70-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138272&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Wells_Castor_Oil_70_ml.jpg"
+  },
+  {
+    "name": "Parachute Coconut Oil (Extra 15 ml) 175 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-coconut-oil-extra-15-ml-175-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186223&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Coconut_Oil_Extra_15_ml_175_ml.jpg"
+  },
+  {
+    "name": "Parachute Coconut Oil 95 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-coconut-oil-95-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186224&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Coconut_Oil_95_ml.jpg"
+  },
+  {
+    "name": "Parachute Coconut Oil 500 ml",
+    "price": "450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-coconut-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120823&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Coconut_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Jui Coconut Oil 200 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jui-coconut-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129629&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Jui_Coconut_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Ujjwala Care Anti Hairfall Herbal Shampoo 200 ml",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ujjwala-care-anti-hairfall-herbal-shampoo-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177915&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ujjwala_Care_Anti_Hairfall_Herbal_Shampoo_200_ml.jpg"
+  },
+  {
+    "name": "Ujjwala Care Anti Hairfall Herbal Hair Oil 100 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ujjwala-care-anti-hairfall-herbal-hair-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177342&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ujjwala_Care_Anti_Hairfall_Herbal_Hair_Oil_100_ml.jpg"
+  },
+  {
+    "name": "Ujjwala Care Anti Hairfall Herbal Shampoo 350 ml",
+    "price": "480",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ujjwala-care-anti-hairfall-herbal-shampoo-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177336&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ujjwala_Care_Anti_Hairfall_Herbal_Shampoo_350_ml.jpg"
+  },
+  {
+    "name": "Natura Grow Hair Oil 200 ml",
+    "price": "230",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/natura-grow-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174134&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Natura_Grow_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Dove Shampoo Intense Repair 450 ml",
+    "price": "580",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dove-shampoo-intense-repair-450-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D159916&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dove_Shampoo_Intense_Repair_450_ml.jpg"
+  },
+  {
+    "name": "Parachute Naturale Shampoo Advanced Hair Fall Control 320 ml",
+    "price": "265",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-naturale-shampoo-advanced-hair-fall-control-320-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180759&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Naturale_Shampoo_Advanced_Hair_Fall_Control_320_ml.jpg"
+  },
+  {
+    "name": "Farmer's Gold Sweet Pumpkin Seed Oil 30 ml",
+    "price": "450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-sweet-pumpkin-seed-oil-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120324&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Sweet_Pumpkin_Seed_Oil_30_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Onion Enriched Coconut Hair Growth Oil 200 ml",
+    "price": "215",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-onion-enriched-coconut-hair-growth-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116167&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Onion_Enriched_Coconut_Hair_Growth_Oil_200_ml.jpg"
+  },
+  {
+    "name": "B. Tech Expert Pure Herbal Hair Care Oil (Gold) 200 ml",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/b-tech-expert-pure-herbal-hair-care-oil-gold-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D111361&q=best&v=1&m=400&webp=1",
+    "image_location": "images/B_Tech_Expert_Pure_Herbal_Hair_Care_Oil_Gold_200_ml.jpg"
+  },
+  {
+    "name": "Farmer's Gold Onion Oil 30 ml",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-onion-oil-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98426&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Onion_Oil_30_ml.jpg"
+  },
+  {
+    "name": "Farmer's Gold Neem Oil 100 ml",
+    "price": "255",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/farmers-gold-neem-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98333&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Farmers_Gold_Neem_Oil_100_ml.jpg"
+  },
+  {
+    "name": "Dabur Amla Hair Oil (Extra 50 ml ) 400 ml",
+    "price": "440",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dabur-amla-hair-oil-extra-50-ml-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123334&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dabur_Amla_Hair_Oil_Extra_50_ml__400_ml.jpg"
+  },
+  {
+    "name": "Himalaya Anti Hair Fall Shampoo 180 ml",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/himalaya-anti-hair-fall-shampoo-180-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129228&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Himalaya_Anti_Hair_Fall_Shampoo_180_ml.jpg"
+  },
+  {
+    "name": "Sesa Herbal Hair Oil 100 ml",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sesa-herbal-hair-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133488&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sesa_Herbal_Hair_Oil_100_ml.jpg"
+  },
+  {
+    "name": "Ceylon Organic Extra Virgin Coconut Oil 200 ml",
+    "price": "600",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ceylon-organic-extra-virgin-coconut-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126645&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ceylon_Organic_Extra_Virgin_Coconut_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Agrilife Extra Virgin Coconut Oil 450 ml",
+    "price": "1089",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/agrilife-extra-virgin-coconut-oil-450-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92014&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Agrilife_Extra_Virgin_Coconut_Oil_450_ml.jpg"
+  },
+  {
+    "name": "Dabur Amla Hair Oil 300 ml",
+    "price": "290",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dabur-amla-hair-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123331&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dabur_Amla_Hair_Oil_300_ml.jpg"
+  },
+  {
+    "name": "760 Indulekha Bringha Ayurvedic Hair Oil 50 ml",
+    "price": "549",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/indulekha-bringha-ayurvedic-hair-oil-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129474&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/760_Indulekha_Bringha_Ayurvedic_Hair_Oil_50_ml.jpg"
+  },
+  {
+    "name": "My Organic BD Shikakai Powder 100 gm",
+    "price": "85",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/my-organic-bd-shikakai-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131076&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/My_Organic_BD_Shikakai_Powder_100_gm.jpg"
+  },
+  {
+    "name": "Herbal Essences White Strawberry & Sweet Mint Shampoo 400 ml",
+    "price": "1800",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/herbal-essences-white-strawberry-sweet-mint-shampoo-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101830&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Herbal_Essences_White_Strawberry__Sweet_Mint_Shampoo_400_ml.jpg"
+  },
+  {
+    "name": "Dabur Amla Hair Oil 100 ml",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dabur-amla-hair-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123325&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dabur_Amla_Hair_Oil_100_ml.jpg"
+  },
+  {
+    "name": "Kumarika Spilt & Control Hair Oil 200 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kumarika-spilt-control-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113433&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kumarika_Spilt__Control_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Kumarika Anti Dandruff Control Hair Oil 200 ml",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kumarika-anti-dandruff-control-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129868&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kumarika_Anti_Dandruff_Control_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Coconut Hair Oil 275 ml",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-coconut-hair-oil-275-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98895&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Coconut_Hair_Oil_275_ml.jpg"
+  },
+  {
+    "name": "Emami 7 Oils In One Non Sticky Hair Oil 300 ml",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/emami-7-oils-in-one-non-sticky-hair-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73784&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Emami_7_Oils_In_One_Non_Sticky_Hair_Oil_300_ml.jpg"
+  },
+  {
+    "name": "Bigen Hair Color & Conditioner (Light Brown) 80 gm",
+    "price": "750",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bigen-hair-color-conditioner-light-brown-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125773&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bigen_Hair_Color__Conditioner_Light_Brown_80_gm.jpg"
+  },
+  {
+    "name": "Bigen Hair Color & Conditioner (Natural Brown) 80 gm",
+    "price": "700",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bigen-hair-color-conditioner-natural-brown-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71945&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bigen_Hair_Color__Conditioner_Natural_Brown_80_gm.jpg"
+  },
+  {
+    "name": "Bigen Hair Color & Conditioner (Dark Brown) 80 gm",
+    "price": "700",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bigen-hair-color-conditioner-dark-brown-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71944&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bigen_Hair_Color__Conditioner_Dark_Brown_80_gm.jpg"
+  },
+  {
+    "name": "Bigen Hair Color & Conditioner (Natural Black) 80 gm",
+    "price": "700",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bigen-hair-color-conditioner-natural-black-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125774&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Bigen_Hair_Color__Conditioner_Natural_Black_80_gm.jpg"
+  },
+  {
+    "name": "Jui Coconut Oil Can 350 ml",
+    "price": "340",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jui-coconut-oil-can-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110871&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Jui_Coconut_Oil_Can_350_ml.jpg"
+  },
+  {
+    "name": "Ceylon Organic Extra Virgin Coconut Oil 500 ml",
+    "price": "1590",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ceylon-organic-extra-virgin-coconut-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126647&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ceylon_Organic_Extra_Virgin_Coconut_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Naturel Organic Extra Virgin Coconut Oil 500 ml",
+    "price": "1525",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/naturel-organic-extra-virgin-coconut-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101800&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Naturel_Organic_Extra_Virgin_Coconut_Oil_500_ml.jpg"
+  },
+  {
+    "name": "Disposable Head Cover 100 pcs",
+    "price": "489",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/disposable-head-cover-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79813&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Disposable_Head_Cover_100_pcs.jpg"
+  },
+  {
+    "name": "Dabur Vatika Enriched Coconut Hair Oil 150 ml",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dabur-vatika-enriched-coconut-hair-oil-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123350&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Dabur_Vatika_Enriched_Coconut_Hair_Oil_150_ml.jpg"
+  },
+  {
+    "name": "Dabur Methi Amla Hair Oil 200 ml",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dabur-methi-amla-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149248&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dabur_Methi_Amla_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Beliphool Coconut Hair Oil 400 ml",
+    "price": "410",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-beliphool-coconut-hair-oil-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131904&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Beliphool_Coconut_Hair_Oil_400_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Beliphool Coconut Hair Oil 200 ml",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-beliphool-coconut-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131902&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Beliphool_Coconut_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Bajaj Cool Almond Drops 95 ml",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bajaj-cool-almond-drops-95-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125332&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bajaj_Cool_Almond_Drops_95_ml.jpg"
+  },
+  {
+    "name": "Sesa Herbal Hair Oil 200 ml",
+    "price": "490",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sesa-herbal-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112877&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sesa_Herbal_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Emami 7 Oils In One Pumpkin Plus Hair Oil 200 ml",
+    "price": "280",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/emami-7-oils-in-one-pumpkin-plus-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108350&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Emami_7_Oils_In_One_Pumpkin_Plus_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Clear Shampoo Anti Hairfall Anti Dandruff 330 ml",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clear-shampoo-anti-hairfall-anti-dandruff-330-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128549&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Clear_Shampoo_Anti_Hairfall_Anti_Dandruff_330_ml.jpg"
+  },
+  {
+    "name": "Sunsilk Perfect Straight Shampoo 300 ml",
+    "price": "830",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sunsilk-perfect-straight-shampoo-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51990&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sunsilk_Perfect_Straight_Shampoo_300_ml.jpg"
+  },
+  {
+    "name": "1299 Sunsilk Soft & Smooth Shampoo 300 ml",
+    "price": "829",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sunsilk-soft-smooth-shampoo-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135683&q=best&v=1&m=400&webp=1",
+    "image_location": "images/1299_Sunsilk_Soft__Smooth_Shampoo_300_ml.jpg"
+  },
+  {
+    "name": "Cute Refined Coconut Hair Oil 330 ml",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cute-refined-coconut-hair-oil-330-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50484&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Cute_Refined_Coconut_Hair_Oil_330_ml.jpg"
+  },
+  {
+    "name": "Dhaka Dough Cold Pressed Almond Oil 80 ml",
+    "price": "350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dhaka-dough-cold-pressed-almond-oil-80-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127703&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dhaka_Dough_Cold_Pressed_Almond_Oil_80_ml.jpg"
+  },
+  {
+    "name": "Dove Conditioner Intense Repair 170 ml",
+    "price": "290",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dove-conditioner-intense-repair-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163911&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dove_Conditioner_Intense_Repair_170_ml.jpg"
+  },
+  {
+    "name": "Dove Conditioner Hair Fall Rescue 170 ml",
+    "price": "290",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dove-conditioner-hair-fall-rescue-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D157849&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dove_Conditioner_Hair_Fall_Rescue_170_ml.jpg"
+  },
+  {
+    "name": "Livon Hair Serum 18 ml",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/livon-hair-serum-18-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130305&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Livon_Hair_Serum_18_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Aloe Vera Hair Oil 150 ml",
+    "price": "215",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-aloe-vera-hair-oil-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131900&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Aloe_Vera_Hair_Oil_150_ml.jpg"
+  },
+  {
+    "name": "Emami 7 Oils In One Black Seed Hair Oil 200 ml",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/emami-7-oils-in-one-black-seed-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128171&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Emami_7_Oils_In_One_Black_Seed_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Tresemmé Shampoo Hair Fall Defense 580 ml",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tresemme-shampoo-hair-fall-defense-580-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128355&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tresemm_Shampoo_Hair_Fall_Defense_580_ml.jpg"
+  },
+  {
+    "name": "Nihar Naturals Anti Hair Fall 5 Seeds Hair Oil 200 ml",
+    "price": "220",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nihar-naturals-anti-hair-fall-5-seeds-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D159826&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nihar_Naturals_Anti_Hair_Fall_5_Seeds_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Aloe Vera Hair Oil 250 ml 2 pcs",
+    "price": "640",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-aloe-vera-hair-oil-250-ml-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109555&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Aloe_Vera_Hair_Oil_250_ml_2_pcs.jpg"
+  },
+  {
+    "name": "Livon Hair Serum 100 ml",
+    "price": "540",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/livon-hair-serum-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130307&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Livon_Hair_Serum_100_ml.jpg"
+  },
+  {
+    "name": "Tresemmé Shampoo Botanique Nourish and Replenish 580 ml",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tresemme-shampoo-botanique-nourish-and-replenish-580-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136577&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tresemm_Shampoo_Botanique_Nourish_and_Replenish_580_ml.jpg"
+  },
+  {
+    "name": "Dove Shampoo Environmental Defense 340 ml",
+    "price": "370",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dove-shampoo-environmental-defense-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127868&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dove_Shampoo_Environmental_Defense_340_ml.jpg"
+  },
+  {
+    "name": "Dove Shampoo Hairfall Rescue 170 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dove-shampoo-hairfall-rescue-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127871&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dove_Shampoo_Hairfall_Rescue_170_ml.jpg"
+  },
+  {
+    "name": "Livon Hair Serum 50 ml",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/livon-hair-serum-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130306&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Livon_Hair_Serum_50_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Aloe Vera Hair Oil 250 ml",
+    "price": "290",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-aloe-vera-hair-oil-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109552&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Aloe_Vera_Hair_Oil_250_ml.jpg"
+  },
+  {
+    "name": "Meril Olive Oil Tin Jar 150 ml",
+    "price": "450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/meril-olive-oil-tin-jar-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185676&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Meril_Olive_Oil_Tin_Jar_150_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Extra Care Anti Hairfall Oil 150 ml",
+    "price": "210",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-extra-care-anti-hairfall-oil-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131906&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Extra_Care_Anti_Hairfall_Oil_150_ml.jpg"
+  },
+  {
+    "name": "Vaseline Hair Tonic & Scalp Conditioner 200 ml",
+    "price": "620",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/vaseline-hair-tonic-scalp-conditioner-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29618&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Vaseline_Hair_Tonic__Scalp_Conditioner_200_ml.jpg"
+  },
+  {
+    "name": "Sesa Ayurvedic Hair Oil 100 ml",
+    "price": "800",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sesa-ayurvedic-hair-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133487&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sesa_Ayurvedic_Hair_Oil_100_ml.jpg"
+  },
+  {
+    "name": "Lucy Oliva Olive Oil 300 ml",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lucy-oliva-olive-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130401&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Lucy_Oliva_Olive_Oil_300_ml.jpg"
+  },
+  {
+    "name": "Himani Navaratna Cool Ayurvedic Hair Oil 200 ml",
+    "price": "280",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/himani-navaratna-cool-ayurvedic-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103607&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Himani_Navaratna_Cool_Ayurvedic_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Keo Karpin Non Sticky Hair Oil 200 ml",
+    "price": "360",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/keo-karpin-non-sticky-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108578&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Keo_Karpin_Non_Sticky_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Emami 7 Oils In One Non Sticky Hair Oil 200 ml",
+    "price": "280",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/emami-7-oils-in-one-non-sticky-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128175&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Emami_7_Oils_In_One_Non_Sticky_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Parachute Advansed Extra Care Anti Hairfall Oil 300 ml",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-advansed-extra-care-anti-hairfall-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131905&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Parachute_Advansed_Extra_Care_Anti_Hairfall_Oil_300_ml.jpg"
+  },
+  {
+    "name": "Tibet Pumpkin Hair Oil 100 ml",
+    "price": "125",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tibet-pumpkin-hair-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136227&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tibet_Pumpkin_Hair_Oil_100_ml.jpg"
+  },
+  {
+    "name": "Garnier Color Naturals Cream 3 Darkest Brown 130 ml",
+    "price": "405",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/garnier-color-naturals-cream-3-darkest-brown-130-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169225&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Garnier_Color_Naturals_Cream_3_Darkest_Brown_130_ml.jpg"
+  },
+  {
+    "name": "Bajaj Almond Drops Vitamin E Hair Oil 200 ml",
+    "price": "285",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bajaj-almond-drops-vitamin-e-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146765&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bajaj_Almond_Drops_Vitamin_E_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Jui Coconut Oil 350 ml",
+    "price": "340",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jui-coconut-oil-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110870&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Jui_Coconut_Oil_350_ml.jpg"
+  },
+  {
+    "name": "Jui Coconut Oil Can 200 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jui-coconut-oil-can-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129630&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Jui_Coconut_Oil_Can_200_ml.jpg"
+  },
+  {
+    "name": "Bajaj Almond Drops Vitamin E Hair Oil 100 ml",
+    "price": "130",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bajaj-almond-drops-vitamin-e-hair-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146692&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bajaj_Almond_Drops_Vitamin_E_Hair_Oil_100_ml.jpg"
+  },
+  {
+    "name": "Tibet Pumpkin Hair Oil 200 ml",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tibet-pumpkin-hair-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136228&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tibet_Pumpkin_Hair_Oil_200_ml.jpg"
+  },
+  {
+    "name": "Veet Hair Removal Cream Normal Skin With Lotus Milk 50 gm",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/veet-hair-removal-cream-normal-skin-with-lotus-milk-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136999&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Veet_Hair_Removal_Cream_Normal_Skin_With_Lotus_Milk_50_gm.jpg"
+  },
+  {
+    "name": "Parachute Coconut Oil (Extra 35 ml) 300 ml",
+    "price": "340",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/parachute-coconut-oil-extra-35-ml-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186222&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Parachute_Coconut_Oil_Extra_35_ml_300_ml.jpg"
+  },
+  {
+    "name": "Dabur Vatika Enriched Coconut Hair Oil 300 ml",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dabur-vatika-enriched-coconut-hair-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136980&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Dabur_Vatika_Enriched_Coconut_Hair_Oil_300_ml.jpg"
+  }
+]

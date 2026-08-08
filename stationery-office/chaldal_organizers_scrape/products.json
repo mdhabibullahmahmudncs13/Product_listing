@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Tapes Glues Adhesive",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tapes-glues-adhesive?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96752&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Tapes_Glues_Adhesive.jpg"
+  },
+  {
+    "name": "Stapler Punch",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/stapler-punch?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96757&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Stapler_Punch.jpg"
+  },
+  {
+    "name": "Organizing Accessories",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/organizing-accessories?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96753&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Organizing_Accessories.jpg"
+  },
+  {
+    "name": "Cutting",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/cutting?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96746&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Cutting.jpg"
+  },
+  {
+    "name": "Files Folders",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/files-folders?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96749&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Files_Folders.jpg"
+  },
+  {
+    "name": "Measuring Tools",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/measuring-tools?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96763&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Measuring_Tools.jpg"
+  },
+  {
+    "name": "Desk Organizers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/desk-organizers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96754&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Desk_Organizers.jpg"
+  }
+]

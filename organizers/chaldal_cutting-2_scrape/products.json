@@ -1,0 +1,58 @@
+[
+  {
+    "name": "210 Deli Anti Cutter (Blue) each",
+    "price": "159",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-anti-cutter-blue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125744&q=best&v=1&m=400&webp=1",
+    "image_location": "images/210_Deli_Anti_Cutter_Blue_each.jpg"
+  },
+  {
+    "name": "Deli Scissors (Pink) each",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-scissors-pink-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97800&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Deli_Scissors_Pink_each.jpg"
+  },
+  {
+    "name": "Deli Anti Cutter (E2091) each",
+    "price": "180",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-anti-cutter-e2091-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103652&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Deli_Anti_Cutter_E2091_each.jpg"
+  },
+  {
+    "name": "Deli Stainless Steel Multi Purpose Scissors 7 Inch each",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-stainless-steel-multi-purpose-scissors-7-inch-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D104835&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Deli_Stainless_Steel_Multi_Purpose_Scissors_7_Inch_each.jpg"
+  },
+  {
+    "name": "250 Deli Stainless Steel Scissors 7.5 inch each",
+    "price": "199",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-stainless-steel-scissors-75-inch-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103835&q=best&v=1&m=400&webp=1",
+    "image_location": "images/250_Deli_Stainless_Steel_Scissors_75_inch_each.jpg"
+  },
+  {
+    "name": "200 Deli Anti Cutter (E2041) each",
+    "price": "129",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-anti-cutter-e2041-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D99882&q=best&v=1&m=400&webp=1",
+    "image_location": "images/200_Deli_Anti_Cutter_E2041_each.jpg"
+  },
+  {
+    "name": "Deli Cutter (E2056) each",
+    "price": "198",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-cutter-e2056-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103654&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Deli_Cutter_E2056_each.jpg"
+  },
+  {
+    "name": "70 Deli Anti Cutter Knife Blade Small 10 pcs",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-anti-cutter-knife-blade-small-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44181&q=best&v=1&m=400&webp=1",
+    "image_location": "images/70_Deli_Anti_Cutter_Knife_Blade_Small_10_pcs.jpg"
+  }
+]

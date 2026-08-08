@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Award Shoe & Boot Polish (Brown) 40 gm",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/award-shoe-boot-polish-brown-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103823&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Award_Shoe__Boot_Polish_Brown_40_gm.jpg"
+  },
+  {
+    "name": "Award Shoe & Boot Polish (Black) 40 gm",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/award-shoe-boot-polish-black-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103822&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Award_Shoe__Boot_Polish_Black_40_gm.jpg"
+  },
+  {
+    "name": "RFL Shoe Rack 4 Step (Red) each",
+    "price": "550",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-shoe-rack-4-step-red-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95454&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/RFL_Shoe_Rack_4_Step_Red_each.jpg"
+  },
+  {
+    "name": "Disposable Shoe Cover 25 pairs",
+    "price": "609",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/disposable-shoe-cover-25-pairs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D106822&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Disposable_Shoe_Cover_25_pairs.jpg"
+  },
+  {
+    "name": "Kiwi Liquid Shoe Polish Brown 75 ml",
+    "price": "130",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kiwi-liquid-shoe-polish-brown-75-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110139&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kiwi_Liquid_Shoe_Polish_Brown_75_ml.jpg"
+  },
+  {
+    "name": "Tiger Shoe Brush each",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tiger-shoe-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136248&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Tiger_Shoe_Brush_each.jpg"
+  },
+  {
+    "name": "Kangaroo Liquid Shoe Shiner (Brown) 75 ml",
+    "price": "209",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kangaroo-liquid-shoe-shiner-brown-75-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108169&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kangaroo_Liquid_Shoe_Shiner_Brown_75_ml.jpg"
+  },
+  {
+    "name": "Smart Diamond Liquid Shoe Polish (Brown) 75 ml",
+    "price": "185",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/smart-diamond-liquid-shoe-polish-brown-75-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133740&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Smart_Diamond_Liquid_Shoe_Polish_Brown_75_ml.jpg"
+  }
+]

@@ -1,0 +1,1354 @@
+[
+ {
+  "id": 1379,
+  "name": "Baby Oral Care",
+  "slug": "baby-oral-care",
+  "url": "https://chaldal.com/baby-oral-care",
+  "folder": "babycare",
+  "outdir": "/home/xenon/Docs/Product_listing/babycare/chaldal_baby-oral-care_scrape"
+ },
+ {
+  "id": 234,
+  "name": "Feeders",
+  "slug": "feeders",
+  "url": "https://chaldal.com/feeders",
+  "folder": "babycare",
+  "outdir": "/home/xenon/Docs/Product_listing/babycare/chaldal_feeders_scrape"
+ },
+ {
+  "id": 223,
+  "name": "Baby Skincare",
+  "slug": "bath-skincare",
+  "url": "https://chaldal.com/bath-skincare",
+  "folder": "babycare",
+  "outdir": "/home/xenon/Docs/Product_listing/babycare/chaldal_bath-skincare_scrape"
+ },
+ {
+  "id": 1378,
+  "name": "Baby Accessories",
+  "slug": "baby-accessories",
+  "url": "https://chaldal.com/baby-accessories",
+  "folder": "babycare",
+  "outdir": "/home/xenon/Docs/Product_listing/babycare/chaldal_baby-accessories_scrape"
+ },
+ {
+  "id": 225,
+  "name": "Color Pencils",
+  "slug": "color-pencil",
+  "url": "https://chaldal.com/color-pencil",
+  "folder": "arts-crafts",
+  "outdir": "/home/xenon/Docs/Product_listing/arts-crafts/chaldal_color-pencil_scrape"
+ },
+ {
+  "id": 216,
+  "name": "Baby Food",
+  "slug": "fooding",
+  "url": "https://chaldal.com/fooding",
+  "folder": "babycare",
+  "outdir": "/home/xenon/Docs/Product_listing/babycare/chaldal_fooding_scrape"
+ },
+ {
+  "id": 211,
+  "name": "Diapers",
+  "slug": "diapers",
+  "url": "https://chaldal.com/diapers",
+  "folder": "babycare",
+  "outdir": "/home/xenon/Docs/Product_listing/babycare/chaldal_diapers_scrape"
+ },
+ {
+  "id": 1493,
+  "name": "Baking Tools",
+  "slug": "baking-tools",
+  "url": "https://chaldal.com/baking-tools",
+  "folder": "baking-needs",
+  "outdir": "/home/xenon/Docs/Product_listing/baking-needs/chaldal_baking-tools_scrape"
+ },
+ {
+  "id": 103,
+  "name": "Flour",
+  "slug": "flour",
+  "url": "https://chaldal.com/flour",
+  "folder": "baking-needs",
+  "outdir": "/home/xenon/Docs/Product_listing/baking-needs/chaldal_flour_scrape"
+ },
+ {
+  "id": 212,
+  "name": "Wipes",
+  "slug": "wipes",
+  "url": "https://chaldal.com/wipes",
+  "folder": "babycare",
+  "outdir": "/home/xenon/Docs/Product_listing/babycare/chaldal_wipes_scrape"
+ },
+ {
+  "id": 18,
+  "name": "Tea",
+  "slug": "beverages-tea",
+  "url": "https://chaldal.com/beverages-tea",
+  "folder": "beverages",
+  "outdir": "/home/xenon/Docs/Product_listing/beverages/chaldal_beverages-tea_scrape"
+ },
+ {
+  "id": 1483,
+  "name": "Newborn Essentials",
+  "slug": "newborn-essentials",
+  "url": "https://chaldal.com/newborn-essentials",
+  "folder": "babycare",
+  "outdir": "/home/xenon/Docs/Product_listing/babycare/chaldal_newborn-essentials_scrape"
+ },
+ {
+  "id": 101,
+  "name": "Baking & Dessert Mixes",
+  "slug": "baking-mixes",
+  "url": "https://chaldal.com/baking-mixes",
+  "folder": "baking-needs",
+  "outdir": "/home/xenon/Docs/Product_listing/baking-needs/chaldal_baking-mixes_scrape"
+ },
+ {
+  "id": 8,
+  "name": "Nuts & Dried Fruits",
+  "slug": "nuts-dried-fruits",
+  "url": "https://chaldal.com/nuts-dried-fruits",
+  "folder": "baking-needs",
+  "outdir": "/home/xenon/Docs/Product_listing/baking-needs/chaldal_nuts-dried-fruits_scrape"
+ },
+ {
+  "id": 102,
+  "name": "Baking Ingredients",
+  "slug": "baking-ingredients",
+  "url": "https://chaldal.com/baking-ingredients",
+  "folder": "baking-needs",
+  "outdir": "/home/xenon/Docs/Product_listing/baking-needs/chaldal_baking-ingredients_scrape"
+ },
+ {
+  "id": 22,
+  "name": "Water",
+  "slug": "water",
+  "url": "https://chaldal.com/water",
+  "folder": "beverages",
+  "outdir": "/home/xenon/Docs/Product_listing/beverages/chaldal_water_scrape"
+ },
+ {
+  "id": 189,
+  "name": "Syrups & Powder Drinks",
+  "slug": "powder-mixes",
+  "url": "https://chaldal.com/powder-mixes",
+  "folder": "beverages",
+  "outdir": "/home/xenon/Docs/Product_listing/beverages/chaldal_powder-mixes_scrape"
+ },
+ {
+  "id": 1600,
+  "name": "Chocolates",
+  "slug": "chocolates",
+  "url": "https://chaldal.com/chocolates",
+  "folder": "candy-chocolate",
+  "outdir": "/home/xenon/Docs/Product_listing/candy-chocolate/chaldal_chocolates_scrape"
+ },
+ {
+  "id": 1599,
+  "name": "Candies",
+  "slug": "candies",
+  "url": "https://chaldal.com/candies",
+  "folder": "candy-chocolate",
+  "outdir": "/home/xenon/Docs/Product_listing/candy-chocolate/chaldal_candies_scrape"
+ },
+ {
+  "id": 1377,
+  "name": "Coffee",
+  "slug": "coffees",
+  "url": "https://chaldal.com/coffees",
+  "folder": "beverages",
+  "outdir": "/home/xenon/Docs/Product_listing/beverages/chaldal_coffees_scrape"
+ },
+ {
+  "id": 19,
+  "name": "Juice",
+  "slug": "juice",
+  "url": "https://chaldal.com/juice",
+  "folder": "beverages",
+  "outdir": "/home/xenon/Docs/Product_listing/beverages/chaldal_juice_scrape"
+ },
+ {
+  "id": 20,
+  "name": "Soft Drinks",
+  "slug": "soft-drinks",
+  "url": "https://chaldal.com/soft-drinks",
+  "folder": "beverages",
+  "outdir": "/home/xenon/Docs/Product_listing/beverages/chaldal_soft-drinks_scrape"
+ },
+ {
+  "id": 1702,
+  "name": "Eggs",
+  "slug": "eggs-2",
+  "url": "https://chaldal.com/eggs-2",
+  "folder": "breakfast",
+  "outdir": "/home/xenon/Docs/Product_listing/breakfast/chaldal_eggs-2_scrape"
+ },
+ {
+  "id": 1607,
+  "name": "Jellies & Marshmallows",
+  "slug": "halal-marshmallows",
+  "url": "https://chaldal.com/halal-marshmallows",
+  "folder": "candy-chocolate",
+  "outdir": "/home/xenon/Docs/Product_listing/candy-chocolate/chaldal_halal-marshmallows_scrape"
+ },
+ {
+  "id": 83,
+  "name": "Dishwashing Supplies",
+  "slug": "dish-wash",
+  "url": "https://chaldal.com/dish-wash",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_dish-wash_scrape"
+ },
+ {
+  "id": 1605,
+  "name": "Gums, Mints & Mouth Fresheners",
+  "slug": "mints-mouth-fresheners",
+  "url": "https://chaldal.com/mints-mouth-fresheners",
+  "folder": "candy-chocolate",
+  "outdir": "/home/xenon/Docs/Product_listing/candy-chocolate/chaldal_mints-mouth-fresheners_scrape"
+ },
+ {
+  "id": 82,
+  "name": "Air Fresheners",
+  "slug": "air-freshners",
+  "url": "https://chaldal.com/air-freshners",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_air-freshners_scrape"
+ },
+ {
+  "id": 87,
+  "name": "Napkins & Paper Products",
+  "slug": "paper-products",
+  "url": "https://chaldal.com/paper-products",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_paper-products_scrape"
+ },
+ {
+  "id": 1276,
+  "name": "Cleaning Accessories",
+  "slug": "cleaning-accessories",
+  "url": "https://chaldal.com/cleaning-accessories",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_cleaning-accessories_scrape"
+ },
+ {
+  "id": 86,
+  "name": "Laundry",
+  "slug": "laundry",
+  "url": "https://chaldal.com/laundry",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_laundry_scrape"
+ },
+ {
+  "id": 89,
+  "name": "Shoe Care",
+  "slug": "shoe-care",
+  "url": "https://chaldal.com/shoe-care",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_shoe-care_scrape"
+ },
+ {
+  "id": 1542,
+  "name": "Floor & Glass Cleaners",
+  "slug": "floor-glass-cleaners",
+  "url": "https://chaldal.com/floor-glass-cleaners",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_floor-glass-cleaners_scrape"
+ },
+ {
+  "id": 88,
+  "name": "Pest Control",
+  "slug": "pest-control",
+  "url": "https://chaldal.com/pest-control",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_pest-control_scrape"
+ },
+ {
+  "id": 90,
+  "name": "Disposables & Trash Bags",
+  "slug": "trash-bags",
+  "url": "https://chaldal.com/trash-bags",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_trash-bags_scrape"
+ },
+ {
+  "id": 1545,
+  "name": "Trash Bin & Basket",
+  "slug": "trash-bin-basket",
+  "url": "https://chaldal.com/trash-bin-basket",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_trash-bin-basket_scrape"
+ },
+ {
+  "id": 1648,
+  "name": "Beauty & MakeUp",
+  "slug": "beauty",
+  "url": "https://chaldal.com/beauty",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_beauty_scrape"
+ },
+ {
+  "id": 1553,
+  "name": "Fashion & Lifestyle",
+  "slug": "fashion-lifestyle",
+  "url": "https://chaldal.com/fashion-lifestyle",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_fashion-lifestyle_scrape"
+ },
+ {
+  "id": 1484,
+  "name": "Health & Wellness",
+  "slug": "hygiene",
+  "url": "https://chaldal.com/hygiene",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_hygiene_scrape"
+ },
+ {
+  "id": 84,
+  "name": "Toilet Cleaners",
+  "slug": "toilet-cleaning",
+  "url": "https://chaldal.com/toilet-cleaning",
+  "folder": "cleaning",
+  "outdir": "/home/xenon/Docs/Product_listing/cleaning/chaldal_toilet-cleaning_scrape"
+ },
+ {
+  "id": 209,
+  "name": "Baby Care",
+  "slug": "babycare",
+  "url": "https://chaldal.com/babycare",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_babycare_scrape"
+ },
+ {
+  "id": 1420,
+  "name": "Marks Milk",
+  "slug": "marks-milk",
+  "url": "https://chaldal.com/marks-milk",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_marks-milk_scrape"
+ },
+ {
+  "id": 1471,
+  "name": "Flash Sales ",
+  "slug": "flash-sales",
+  "url": "https://chaldal.com/flash-sales",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_flash-sales_scrape"
+ },
+ {
+  "id": 1479,
+  "name": "New Arrival",
+  "slug": "new-arrival",
+  "url": "https://chaldal.com/new-arrival",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_new-arrival_scrape"
+ },
+ {
+  "id": 1574,
+  "name": "Toys & Sports",
+  "slug": "toys-sports",
+  "url": "https://chaldal.com/toys-sports",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_toys-sports_scrape"
+ },
+ {
+  "id": 238,
+  "name": "Popular",
+  "slug": "popular",
+  "url": "https://chaldal.com/popular",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_popular_scrape"
+ },
+ {
+  "id": 1738,
+  "name": "Nutri Plus",
+  "slug": "nutri-plus",
+  "url": "https://chaldal.com/nutri-plus",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_nutri-plus_scrape"
+ },
+ {
+  "id": 1417,
+  "name": "Vehicle Essentials",
+  "slug": "vehicle-essentials",
+  "url": "https://chaldal.com/vehicle-essentials",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_vehicle-essentials_scrape"
+ },
+ {
+  "id": 1750,
+  "name": "Tong",
+  "slug": "tong",
+  "url": "https://chaldal.com/tong",
+  "folder": "collections",
+  "outdir": "/home/xenon/Docs/Product_listing/collections/chaldal_tong_scrape"
+ },
+ {
+  "id": 1677,
+  "name": "Extra Large (15+ kg) Diapers",
+  "slug": "extra-large-15-kg-diapers",
+  "url": "https://chaldal.com/extra-large-15-kg-diapers",
+  "folder": "diapers",
+  "outdir": "/home/xenon/Docs/Product_listing/diapers/chaldal_extra-large-15-kg-diapers_scrape"
+ },
+ {
+  "id": 1676,
+  "name": "Large (10-16 kg) Diapers",
+  "slug": "large-2",
+  "url": "https://chaldal.com/large-2",
+  "folder": "diapers",
+  "outdir": "/home/xenon/Docs/Product_listing/diapers/chaldal_large-2_scrape"
+ },
+ {
+  "id": 1671,
+  "name": "Newborn (2-5 kg) Diapers",
+  "slug": "newborn-2",
+  "url": "https://chaldal.com/newborn-2",
+  "folder": "diapers",
+  "outdir": "/home/xenon/Docs/Product_listing/diapers/chaldal_newborn-2_scrape"
+ },
+ {
+  "id": 1673,
+  "name": "Medium (5-13 kg) Diapers",
+  "slug": "medium-2",
+  "url": "https://chaldal.com/medium-2",
+  "folder": "diapers",
+  "outdir": "/home/xenon/Docs/Product_listing/diapers/chaldal_medium-2_scrape"
+ },
+ {
+  "id": 1642,
+  "name": "Face Wash & Scrub",
+  "slug": "face-wash-scrub",
+  "url": "https://chaldal.com/face-wash-scrub",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_face-wash-scrub_scrape"
+ },
+ {
+  "id": 1672,
+  "name": "Small (3-7 kg) Diapers",
+  "slug": "small-2",
+  "url": "https://chaldal.com/small-2",
+  "folder": "diapers",
+  "outdir": "/home/xenon/Docs/Product_listing/diapers/chaldal_small-2_scrape"
+ },
+ {
+  "id": 1499,
+  "name": "Female Deo",
+  "slug": "female-deo",
+  "url": "https://chaldal.com/female-deo",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_female-deo_scrape"
+ },
+ {
+  "id": 1497,
+  "name": "Female Moisturizer",
+  "slug": "female-moisturizer",
+  "url": "https://chaldal.com/female-moisturizer",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_female-moisturizer_scrape"
+ },
+ {
+  "id": 1644,
+  "name": "Serum, Oil & Toners",
+  "slug": "serum-oil-toners",
+  "url": "https://chaldal.com/serum-oil-toners",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_serum-oil-toners_scrape"
+ },
+ {
+  "id": 1501,
+  "name": "Women's Shampoos & Conditioners",
+  "slug": "female-shampoo",
+  "url": "https://chaldal.com/female-shampoo",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_female-shampoo_scrape"
+ },
+ {
+  "id": 1610,
+  "name": "Women's Shower Gel",
+  "slug": "womens-shower-gel",
+  "url": "https://chaldal.com/womens-shower-gel",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_womens-shower-gel_scrape"
+ },
+ {
+  "id": 35,
+  "name": "Feminine Care",
+  "slug": "feminine-care",
+  "url": "https://chaldal.com/feminine-care",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_feminine-care_scrape"
+ },
+ {
+  "id": 1611,
+  "name": "Women's Perfume",
+  "slug": "womens-perfume",
+  "url": "https://chaldal.com/womens-perfume",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_womens-perfume_scrape"
+ },
+ {
+  "id": 1608,
+  "name": "Women's Soaps",
+  "slug": "womens-soaps",
+  "url": "https://chaldal.com/womens-soaps",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_womens-soaps_scrape"
+ },
+ {
+  "id": 191,
+  "name": "Diabetic Food",
+  "slug": "diabetic-food",
+  "url": "https://chaldal.com/diabetic-food",
+  "folder": "food",
+  "outdir": "/home/xenon/Docs/Product_listing/food/chaldal_diabetic-food_scrape"
+ },
+ {
+  "id": 1643,
+  "name": "Masks & Cleansers",
+  "slug": "masks-cleansers",
+  "url": "https://chaldal.com/masks-cleansers",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_masks-cleansers_scrape"
+ },
+ {
+  "id": 71,
+  "name": "Ice Cream",
+  "slug": "ice-cream",
+  "url": "https://chaldal.com/ice-cream",
+  "folder": "food",
+  "outdir": "/home/xenon/Docs/Product_listing/food/chaldal_ice-cream_scrape"
+ },
+ {
+  "id": 33,
+  "name": "Hair Care",
+  "slug": "hair-care",
+  "url": "https://chaldal.com/hair-care",
+  "folder": "female-care",
+  "outdir": "/home/xenon/Docs/Product_listing/female-care/chaldal_hair-care_scrape"
+ },
+ {
+  "id": 51,
+  "name": "Candy & Chocolate",
+  "slug": "candy-chocolate",
+  "url": "https://chaldal.com/candy-chocolate",
+  "folder": "food",
+  "outdir": "/home/xenon/Docs/Product_listing/food/chaldal_candy-chocolate_scrape"
+ },
+ {
+  "id": 217,
+  "name": "Formula",
+  "slug": "formula",
+  "url": "https://chaldal.com/formula",
+  "folder": "fooding",
+  "outdir": "/home/xenon/Docs/Product_listing/fooding/chaldal_formula_scrape"
+ },
+ {
+  "id": 219,
+  "name": "Baby & Toddler Food",
+  "slug": "toddler-food",
+  "url": "https://chaldal.com/toddler-food",
+  "folder": "fooding",
+  "outdir": "/home/xenon/Docs/Product_listing/fooding/chaldal_toddler-food_scrape"
+ },
+ {
+  "id": 1618,
+  "name": "Fish Cans",
+  "slug": "fish-cans",
+  "url": "https://chaldal.com/fish-cans",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_fish-cans_scrape"
+ },
+ {
+  "id": 1609,
+  "name": "Frozen Parathas & Roti",
+  "slug": "frozen-parathas-roti",
+  "url": "https://chaldal.com/frozen-parathas-roti",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_frozen-parathas-roti_scrape"
+ },
+ {
+  "id": 1615,
+  "name": "Vegetable Cans",
+  "slug": "vegetable-cans",
+  "url": "https://chaldal.com/vegetable-cans",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_vegetable-cans_scrape"
+ },
+ {
+  "id": 221,
+  "name": "Milk, Juice & Drinks",
+  "slug": "milk-juice-drinks",
+  "url": "https://chaldal.com/milk-juice-drinks",
+  "folder": "fooding",
+  "outdir": "/home/xenon/Docs/Product_listing/fooding/chaldal_milk-juice-drinks_scrape"
+ },
+ {
+  "id": 1598,
+  "name": "Beef Snacks",
+  "slug": "beef-snacks",
+  "url": "https://chaldal.com/beef-snacks",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_beef-snacks_scrape"
+ },
+ {
+  "id": 1604,
+  "name": "Fish Snacks",
+  "slug": "fish-snacks",
+  "url": "https://chaldal.com/fish-snacks",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_fish-snacks_scrape"
+ },
+ {
+  "id": 1595,
+  "name": "Chicken Snacks",
+  "slug": "chicken-snacks",
+  "url": "https://chaldal.com/chicken-snacks",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_chicken-snacks_scrape"
+ },
+ {
+  "id": 1617,
+  "name": "Canned Fruits & Sweets",
+  "slug": "canned-fruits",
+  "url": "https://chaldal.com/canned-fruits",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_canned-fruits_scrape"
+ },
+ {
+  "id": 1612,
+  "name": "Mushroom Cans",
+  "slug": "mushroom-cans",
+  "url": "https://chaldal.com/mushroom-cans",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_mushroom-cans_scrape"
+ },
+ {
+  "id": 1606,
+  "name": "Vegetable Snacks",
+  "slug": "vegetable-snacks",
+  "url": "https://chaldal.com/vegetable-snacks",
+  "folder": "frozen-foods",
+  "outdir": "/home/xenon/Docs/Product_listing/frozen-foods/chaldal_vegetable-snacks_scrape"
+ },
+ {
+  "id": 1645,
+  "name": "Hand Sanitizer",
+  "slug": "hand-sanitizer",
+  "url": "https://chaldal.com/hand-sanitizer",
+  "folder": "handwash",
+  "outdir": "/home/xenon/Docs/Product_listing/handwash/chaldal_hand-sanitizer_scrape"
+ },
+ {
+  "id": 1543,
+  "name": "Basket & Bucket",
+  "slug": "baskets-buckets",
+  "url": "https://chaldal.com/baskets-buckets",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_baskets-buckets_scrape"
+ },
+ {
+  "id": 85,
+  "name": "Kitchen Accessories",
+  "slug": "kitchen-accessories",
+  "url": "https://chaldal.com/kitchen-accessories",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_kitchen-accessories_scrape"
+ },
+ {
+  "id": 1638,
+  "name": "Liquid Handwash",
+  "slug": "liquid-handwash",
+  "url": "https://chaldal.com/liquid-handwash",
+  "folder": "handwash",
+  "outdir": "/home/xenon/Docs/Product_listing/handwash/chaldal_liquid-handwash_scrape"
+ },
+ {
+  "id": 1540,
+  "name": "Disposables",
+  "slug": "disposables",
+  "url": "https://chaldal.com/disposables",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_disposables_scrape"
+ },
+ {
+  "id": 1544,
+  "name": "Box & Container",
+  "slug": "box-container",
+  "url": "https://chaldal.com/box-container",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_box-container_scrape"
+ },
+ {
+  "id": 1269,
+  "name": "Kitchen Appliances",
+  "slug": "kitchen-appliances",
+  "url": "https://chaldal.com/kitchen-appliances",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_kitchen-appliances_scrape"
+ },
+ {
+  "id": 1267,
+  "name": "Lights & Electrical",
+  "slug": "lights-electrical",
+  "url": "https://chaldal.com/lights-electrical",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_lights-electrical_scrape"
+ },
+ {
+  "id": 1527,
+  "name": "Gardening",
+  "slug": "gardening",
+  "url": "https://chaldal.com/gardening",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_gardening_scrape"
+ },
+ {
+  "id": 1541,
+  "name": "Rack & Organizer",
+  "slug": "rack-organizer",
+  "url": "https://chaldal.com/rack-organizer",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_rack-organizer_scrape"
+ },
+ {
+  "id": 1261,
+  "name": "Adult Diapers",
+  "slug": "adult-diapers",
+  "url": "https://chaldal.com/adult-diapers",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_adult-diapers_scrape"
+ },
+ {
+  "id": 1268,
+  "name": "Tools & Hardware",
+  "slug": "tools-hardware",
+  "url": "https://chaldal.com/tools-hardware",
+  "folder": "home-kitchen",
+  "outdir": "/home/xenon/Docs/Product_listing/home-kitchen/chaldal_tools-hardware_scrape"
+ },
+ {
+  "id": 192,
+  "name": "Antiseptics",
+  "slug": "antiseptics",
+  "url": "https://chaldal.com/antiseptics",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_antiseptics_scrape"
+ },
+ {
+  "id": 1658,
+  "name": "Face Masks & Safety",
+  "slug": "face-masks-safety",
+  "url": "https://chaldal.com/face-masks-safety",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_face-masks-safety_scrape"
+ },
+ {
+  "id": 1660,
+  "name": "Handwash & Handrub",
+  "slug": "handwash-handrub",
+  "url": "https://chaldal.com/handwash-handrub",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_handwash-handrub_scrape"
+ },
+ {
+  "id": 227,
+  "name": "Food Supplements",
+  "slug": "food-supplements",
+  "url": "https://chaldal.com/food-supplements",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_food-supplements_scrape"
+ },
+ {
+  "id": 47,
+  "name": "Family Planning",
+  "slug": "family-planning",
+  "url": "https://chaldal.com/family-planning",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_family-planning_scrape"
+ },
+ {
+  "id": 1505,
+  "name": "Keto Food",
+  "slug": "keto-food",
+  "url": "https://chaldal.com/keto-food",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_keto-food_scrape"
+ },
+ {
+  "id": 232,
+  "name": "Herbal & Digestive Aids",
+  "slug": "herbal-products",
+  "url": "https://chaldal.com/herbal-products",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_herbal-products_scrape"
+ },
+ {
+  "id": 1666,
+  "name": "Medical Devices",
+  "slug": "medical-devices",
+  "url": "https://chaldal.com/medical-devices",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_medical-devices_scrape"
+ },
+ {
+  "id": 1665,
+  "name": "Mouthwashes, Inhaler & Balm",
+  "slug": "mouthwashes",
+  "url": "https://chaldal.com/mouthwashes",
+  "folder": "hygiene",
+  "outdir": "/home/xenon/Docs/Product_listing/hygiene/chaldal_mouthwashes_scrape"
+ },
+ {
+  "id": 1715,
+  "name": "Electric & Multiplug",
+  "slug": "electric-multiplug",
+  "url": "https://chaldal.com/electric-multiplug",
+  "folder": "lights-electrical",
+  "outdir": "/home/xenon/Docs/Product_listing/lights-electrical/chaldal_electric-multiplug_scrape"
+ },
+ {
+  "id": 1714,
+  "name": "Mosquito Swatter",
+  "slug": "mosquito-swatter",
+  "url": "https://chaldal.com/mosquito-swatter",
+  "folder": "lights-electrical",
+  "outdir": "/home/xenon/Docs/Product_listing/lights-electrical/chaldal_mosquito-swatter_scrape"
+ },
+ {
+  "id": 1713,
+  "name": "Lights",
+  "slug": "lights",
+  "url": "https://chaldal.com/lights",
+  "folder": "lights-electrical",
+  "outdir": "/home/xenon/Docs/Product_listing/lights-electrical/chaldal_lights_scrape"
+ },
+ {
+  "id": 1468,
+  "name": "Beard Grooming",
+  "slug": "beard-grooming",
+  "url": "https://chaldal.com/beard-grooming",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_beard-grooming_scrape"
+ },
+ {
+  "id": 1716,
+  "name": "Electronics",
+  "slug": "electronics",
+  "url": "https://chaldal.com/electronics",
+  "folder": "lights-electrical",
+  "outdir": "/home/xenon/Docs/Product_listing/lights-electrical/chaldal_electronics_scrape"
+ },
+ {
+  "id": 1500,
+  "name": "Men's Hair Care",
+  "slug": "mens-hair-care",
+  "url": "https://chaldal.com/mens-hair-care",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_mens-hair-care_scrape"
+ },
+ {
+  "id": 1498,
+  "name": "Men's Facewash",
+  "slug": "mens-facewash",
+  "url": "https://chaldal.com/mens-facewash",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_mens-facewash_scrape"
+ },
+ {
+  "id": 1354,
+  "name": "Cream & Lotion",
+  "slug": "lotion-cream",
+  "url": "https://chaldal.com/lotion-cream",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_lotion-cream_scrape"
+ },
+ {
+  "id": 1639,
+  "name": "Men's Shower Gels",
+  "slug": "mens-shower-gels",
+  "url": "https://chaldal.com/mens-shower-gels",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_mens-shower-gels_scrape"
+ },
+ {
+  "id": 32,
+  "name": "Shaving Needs",
+  "slug": "shaving-needs",
+  "url": "https://chaldal.com/shaving-needs",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_shaving-needs_scrape"
+ },
+ {
+  "id": 31,
+  "name": "Men's Deodorants",
+  "slug": "deodorants",
+  "url": "https://chaldal.com/deodorants",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_deodorants_scrape"
+ },
+ {
+  "id": 1641,
+  "name": "Men's Perfume",
+  "slug": "mens-perfume",
+  "url": "https://chaldal.com/mens-perfume",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_mens-perfume_scrape"
+ },
+ {
+  "id": 1640,
+  "name": "Razors & Blades",
+  "slug": "razors-blades",
+  "url": "https://chaldal.com/razors-blades",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_razors-blades_scrape"
+ },
+ {
+  "id": 39,
+  "name": "Men's Shampoos & Conditioners",
+  "slug": "shampoo",
+  "url": "https://chaldal.com/shampoo",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_shampoo_scrape"
+ },
+ {
+  "id": 1636,
+  "name": "Men's Soaps",
+  "slug": "mens-soaps",
+  "url": "https://chaldal.com/mens-soaps",
+  "folder": "male-care",
+  "outdir": "/home/xenon/Docs/Product_listing/male-care/chaldal_mens-soaps_scrape"
+ },
+ {
+  "id": 1616,
+  "name": "Mouthwash & Others",
+  "slug": "mouthwash-others",
+  "url": "https://chaldal.com/mouthwash-others",
+  "folder": "oral-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/oral-care-2/chaldal_mouthwash-others_scrape"
+ },
+ {
+  "id": 1614,
+  "name": "Toothbrushes",
+  "slug": "toothbrushes",
+  "url": "https://chaldal.com/toothbrushes",
+  "folder": "oral-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/oral-care-2/chaldal_toothbrushes_scrape"
+ },
+ {
+  "id": 1532,
+  "name": "Desk Organizers",
+  "slug": "desk-organizers",
+  "url": "https://chaldal.com/desk-organizers",
+  "folder": "organizers",
+  "outdir": "/home/xenon/Docs/Product_listing/organizers/chaldal_desk-organizers_scrape"
+ },
+ {
+  "id": 226,
+  "name": "Tapes, Glues & Adhesive",
+  "slug": "glue-tapes",
+  "url": "https://chaldal.com/glue-tapes",
+  "folder": "organizers",
+  "outdir": "/home/xenon/Docs/Product_listing/organizers/chaldal_glue-tapes_scrape"
+ },
+ {
+  "id": 1613,
+  "name": "Toothpastes",
+  "slug": "toothpastes",
+  "url": "https://chaldal.com/toothpastes",
+  "folder": "oral-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/oral-care-2/chaldal_toothpastes_scrape"
+ },
+ {
+  "id": 203,
+  "name": "Files & Folders",
+  "slug": "file-folder",
+  "url": "https://chaldal.com/file-folder",
+  "folder": "organizers",
+  "outdir": "/home/xenon/Docs/Product_listing/organizers/chaldal_file-folder_scrape"
+ },
+ {
+  "id": 204,
+  "name": "Cutting",
+  "slug": "cutting-2",
+  "url": "https://chaldal.com/cutting-2",
+  "folder": "organizers",
+  "outdir": "/home/xenon/Docs/Product_listing/organizers/chaldal_cutting-2_scrape"
+ },
+ {
+  "id": 1535,
+  "name": "Measuring Tools",
+  "slug": "measuring",
+  "url": "https://chaldal.com/measuring",
+  "folder": "organizers",
+  "outdir": "/home/xenon/Docs/Product_listing/organizers/chaldal_measuring_scrape"
+ },
+ {
+  "id": 1533,
+  "name": "Stapler & Punch",
+  "slug": "stapler-punch",
+  "url": "https://chaldal.com/stapler-punch",
+  "folder": "organizers",
+  "outdir": "/home/xenon/Docs/Product_listing/organizers/chaldal_stapler-punch_scrape"
+ },
+ {
+  "id": 1504,
+  "name": "Hair Color",
+  "slug": "hair-color",
+  "url": "https://chaldal.com/hair-color",
+  "folder": "personal-care",
+  "outdir": "/home/xenon/Docs/Product_listing/personal-care/chaldal_hair-color_scrape"
+ },
+ {
+  "id": 207,
+  "name": "Printing Paper",
+  "slug": "printing-paper",
+  "url": "https://chaldal.com/printing-paper",
+  "folder": "paper-supplies",
+  "outdir": "/home/xenon/Docs/Product_listing/paper-supplies/chaldal_printing-paper_scrape"
+ },
+ {
+  "id": 202,
+  "name": "Organizing Accessories",
+  "slug": "organizing-accessories",
+  "url": "https://chaldal.com/organizing-accessories",
+  "folder": "organizers",
+  "outdir": "/home/xenon/Docs/Product_listing/organizers/chaldal_organizing-accessories_scrape"
+ },
+ {
+  "id": 119,
+  "name": "Diaries & Notebooks",
+  "slug": "notebook-diary",
+  "url": "https://chaldal.com/notebook-diary",
+  "folder": "paper-supplies",
+  "outdir": "/home/xenon/Docs/Product_listing/paper-supplies/chaldal_notebook-diary_scrape"
+ },
+ {
+  "id": 40,
+  "name": "Handwash",
+  "slug": "handwash",
+  "url": "https://chaldal.com/handwash",
+  "folder": "personal-care",
+  "outdir": "/home/xenon/Docs/Product_listing/personal-care/chaldal_handwash_scrape"
+ },
+ {
+  "id": 1697,
+  "name": "Oral Care",
+  "slug": "oral-care-2",
+  "url": "https://chaldal.com/oral-care-2",
+  "folder": "personal-care",
+  "outdir": "/home/xenon/Docs/Product_listing/personal-care/chaldal_oral-care-2_scrape"
+ },
+ {
+  "id": 230,
+  "name": "Batteries",
+  "slug": "batteries",
+  "url": "https://chaldal.com/batteries",
+  "folder": "office-electronics",
+  "outdir": "/home/xenon/Docs/Product_listing/office-electronics/chaldal_batteries_scrape"
+ },
+ {
+  "id": 1698,
+  "name": "Skin Care",
+  "slug": "skin-care-2",
+  "url": "https://chaldal.com/skin-care-2",
+  "folder": "personal-care",
+  "outdir": "/home/xenon/Docs/Product_listing/personal-care/chaldal_skin-care-2_scrape"
+ },
+ {
+  "id": 1539,
+  "name": "Calculators",
+  "slug": "calculators",
+  "url": "https://chaldal.com/calculators",
+  "folder": "office-electronics",
+  "outdir": "/home/xenon/Docs/Product_listing/office-electronics/chaldal_calculators_scrape"
+ },
+ {
+  "id": 1494,
+  "name": "Women's Care ",
+  "slug": "female-care",
+  "url": "https://chaldal.com/female-care",
+  "folder": "personal-care",
+  "outdir": "/home/xenon/Docs/Product_listing/personal-care/chaldal_female-care_scrape"
+ },
+ {
+  "id": 41,
+  "name": "Tissue & Wipes",
+  "slug": "tissue-wipes",
+  "url": "https://chaldal.com/tissue-wipes",
+  "folder": "personal-care",
+  "outdir": "/home/xenon/Docs/Product_listing/personal-care/chaldal_tissue-wipes_scrape"
+ },
+ {
+  "id": 190,
+  "name": "Talcom Powder",
+  "slug": "talcom-powder",
+  "url": "https://chaldal.com/talcom-powder",
+  "folder": "personal-care",
+  "outdir": "/home/xenon/Docs/Product_listing/personal-care/chaldal_talcom-powder_scrape"
+ },
+ {
+  "id": 1679,
+  "name": "Bird & Other Pet Food",
+  "slug": "bird-food",
+  "url": "https://chaldal.com/bird-food",
+  "folder": "pet-care",
+  "outdir": "/home/xenon/Docs/Product_listing/pet-care/chaldal_bird-food_scrape"
+ },
+ {
+  "id": 1254,
+  "name": "Cat Food",
+  "slug": "cat-food",
+  "url": "https://chaldal.com/cat-food",
+  "folder": "pet-care",
+  "outdir": "/home/xenon/Docs/Product_listing/pet-care/chaldal_cat-food_scrape"
+ },
+ {
+  "id": 1257,
+  "name": "Cat Litters",
+  "slug": "cat-litters",
+  "url": "https://chaldal.com/cat-litters",
+  "folder": "pet-care",
+  "outdir": "/home/xenon/Docs/Product_listing/pet-care/chaldal_cat-litters_scrape"
+ },
+ {
+  "id": 1255,
+  "name": "Dog Food",
+  "slug": "dog-food",
+  "url": "https://chaldal.com/dog-food",
+  "folder": "pet-care",
+  "outdir": "/home/xenon/Docs/Product_listing/pet-care/chaldal_dog-food_scrape"
+ },
+ {
+  "id": 1383,
+  "name": "Kitten Food ",
+  "slug": "kitten-food",
+  "url": "https://chaldal.com/kitten-food",
+  "folder": "pet-care",
+  "outdir": "/home/xenon/Docs/Product_listing/pet-care/chaldal_kitten-food_scrape"
+ },
+ {
+  "id": 1547,
+  "name": "Grooming & Cleaning",
+  "slug": "pet-grooming-cleaning",
+  "url": "https://chaldal.com/pet-grooming-cleaning",
+  "folder": "pet-care",
+  "outdir": "/home/xenon/Docs/Product_listing/pet-care/chaldal_pet-grooming-cleaning_scrape"
+ },
+ {
+  "id": 1622,
+  "name": "Body & Hair Oil",
+  "slug": "body-hair-oil",
+  "url": "https://chaldal.com/body-hair-oil",
+  "folder": "skin-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-2/chaldal_body-hair-oil_scrape"
+ },
+ {
+  "id": 1635,
+  "name": "Lipsticks & Lip Balm",
+  "slug": "lipsticks-lip-balm",
+  "url": "https://chaldal.com/lipsticks-lip-balm",
+  "folder": "skin-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-2/chaldal_lipsticks-lip-balm_scrape"
+ },
+ {
+  "id": 1628,
+  "name": "Lotions",
+  "slug": "lotions",
+  "url": "https://chaldal.com/lotions",
+  "folder": "skin-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-2/chaldal_lotions_scrape"
+ },
+ {
+  "id": 1630,
+  "name": "Creams",
+  "slug": "creams",
+  "url": "https://chaldal.com/creams",
+  "folder": "skin-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-2/chaldal_creams_scrape"
+ },
+ {
+  "id": 1627,
+  "name": "Face Wash & Mask",
+  "slug": "face-wash-mask",
+  "url": "https://chaldal.com/face-wash-mask",
+  "folder": "skin-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-2/chaldal_face-wash-mask_scrape"
+ },
+ {
+  "id": 1624,
+  "name": "Petroleum Jelly",
+  "slug": "petroleum-jelly",
+  "url": "https://chaldal.com/petroleum-jelly",
+  "folder": "skin-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-2/chaldal_petroleum-jelly_scrape"
+ },
+ {
+  "id": 1620,
+  "name": "Soaps",
+  "slug": "soaps",
+  "url": "https://chaldal.com/soaps",
+  "folder": "skin-care-2",
+  "outdir": "/home/xenon/Docs/Product_listing/skin-care-2/chaldal_soaps_scrape"
+ },
+ {
+  "id": 53,
+  "name": "Chips & Pretzels",
+  "slug": "chips-pretzels",
+  "url": "https://chaldal.com/chips-pretzels",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_chips-pretzels_scrape"
+ },
+ {
+  "id": 52,
+  "name": "Local Snacks",
+  "slug": "local-snacks",
+  "url": "https://chaldal.com/local-snacks",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_local-snacks_scrape"
+ },
+ {
+  "id": 93,
+  "name": "Noodles",
+  "slug": "noodles",
+  "url": "https://chaldal.com/noodles",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_noodles_scrape"
+ },
+ {
+  "id": 196,
+  "name": "Cakes",
+  "slug": "cakes",
+  "url": "https://chaldal.com/cakes",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_cakes_scrape"
+ },
+ {
+  "id": 1621,
+  "name": "Cream Biscuits",
+  "slug": "cream-biscuits",
+  "url": "https://chaldal.com/cream-biscuits",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_cream-biscuits_scrape"
+ },
+ {
+  "id": 1381,
+  "name": "Pasta & Macaroni",
+  "slug": "pasta-macaroni",
+  "url": "https://chaldal.com/pasta-macaroni",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_pasta-macaroni_scrape"
+ },
+ {
+  "id": 1629,
+  "name": "Cookies",
+  "slug": "cookies-2",
+  "url": "https://chaldal.com/cookies-2",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_cookies-2_scrape"
+ },
+ {
+  "id": 56,
+  "name": "Popcorn & Nuts",
+  "slug": "popcorn-nuts",
+  "url": "https://chaldal.com/popcorn-nuts",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_popcorn-nuts_scrape"
+ },
+ {
+  "id": 79,
+  "name": "Salad Dressing",
+  "slug": "salad-dressing",
+  "url": "https://chaldal.com/salad-dressing",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_salad-dressing_scrape"
+ },
+ {
+  "id": 1623,
+  "name": "Salted Biscuits",
+  "slug": "salted-biscuits",
+  "url": "https://chaldal.com/salted-biscuits",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_salted-biscuits_scrape"
+ },
+ {
+  "id": 201,
+  "name": "Organizers",
+  "slug": "organizers",
+  "url": "https://chaldal.com/organizers",
+  "folder": "stationery-office",
+  "outdir": "/home/xenon/Docs/Product_listing/stationery-office/chaldal_organizers_scrape"
+ },
+ {
+  "id": 1625,
+  "name": "Toast & Bakery Biscuits",
+  "slug": "toast-biscuits",
+  "url": "https://chaldal.com/toast-biscuits",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_toast-biscuits_scrape"
+ },
+ {
+  "id": 194,
+  "name": "Soups",
+  "slug": "soups",
+  "url": "https://chaldal.com/soups",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_soups_scrape"
+ },
+ {
+  "id": 1619,
+  "name": "Plain Biscuits",
+  "slug": "plain-biscuits",
+  "url": "https://chaldal.com/plain-biscuits",
+  "folder": "snacks",
+  "outdir": "/home/xenon/Docs/Product_listing/snacks/chaldal_plain-biscuits_scrape"
+ },
+ {
+  "id": 1531,
+  "name": "School Supplies",
+  "slug": "school-supplies",
+  "url": "https://chaldal.com/school-supplies",
+  "folder": "stationery-office",
+  "outdir": "/home/xenon/Docs/Product_listing/stationery-office/chaldal_school-supplies_scrape"
+ },
+ {
+  "id": 116,
+  "name": "Highlighters & Markers",
+  "slug": "highlighters",
+  "url": "https://chaldal.com/highlighters",
+  "folder": "writing",
+  "outdir": "/home/xenon/Docs/Product_listing/writing/chaldal_highlighters_scrape"
+ },
+ {
+  "id": 117,
+  "name": "Erasers & Correction Fluid",
+  "slug": "erasers-correction-fluid",
+  "url": "https://chaldal.com/erasers-correction-fluid",
+  "folder": "writing",
+  "outdir": "/home/xenon/Docs/Product_listing/writing/chaldal_erasers-correction-fluid_scrape"
+ },
+ {
+  "id": 115,
+  "name": "Pencils",
+  "slug": "pencils",
+  "url": "https://chaldal.com/pencils",
+  "folder": "writing",
+  "outdir": "/home/xenon/Docs/Product_listing/writing/chaldal_pencils_scrape"
+ },
+ {
+  "id": 208,
+  "name": "Toner & Ink",
+  "slug": "printer-ink",
+  "url": "https://chaldal.com/printer-ink",
+  "folder": "writing",
+  "outdir": "/home/xenon/Docs/Product_listing/writing/chaldal_printer-ink_scrape"
+ },
+ {
+  "id": 114,
+  "name": "Pens",
+  "slug": "pens",
+  "url": "https://chaldal.com/pens",
+  "folder": "writing",
+  "outdir": "/home/xenon/Docs/Product_listing/writing/chaldal_pens_scrape"
+ }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Soaps",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/soaps?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D166450&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Soaps.jpg"
+  },
+  {
+    "name": "Lotions",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lotions?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116597&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Lotions.jpg"
+  },
+  {
+    "name": "Petroleum Jelly",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/petroleum-jelly?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116588&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Petroleum_Jelly.jpg"
+  },
+  {
+    "name": "Creams",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/creams?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D166449&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Creams.jpg"
+  },
+  {
+    "name": "Face Wash Mask",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/face-wash-mask?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116766&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Face_Wash_Mask.jpg"
+  },
+  {
+    "name": "Body Hair Oil",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/body-hair-oil?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116616&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Body_Hair_Oil.jpg"
+  },
+  {
+    "name": "Lipsticks Lip Balm",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lipsticks-lip-balm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116835&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Lipsticks_Lip_Balm.jpg"
+  }
+]

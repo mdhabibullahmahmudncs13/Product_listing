@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Nestle Nescafe Creamy Latte 18 gm",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-nescafe-creamy-latte-18-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D87967&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Nescafe_Creamy_Latte_18_gm.jpg"
+  },
+  {
+    "name": "Fresh Coffee 3 in 1 15 gm",
+    "price": "10",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-coffee-3-in-1-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187178&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Coffee_3_in_1_15_gm.jpg"
+  },
+  {
+    "name": "AMA Coffee 3 In 1 15 gm",
+    "price": "10",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ama-coffee-3-in-1-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127328&q=best&v=1&m=400&webp=1",
+    "image_location": "images/AMA_Coffee_3_In_1_15_gm.jpg"
+  },
+  {
+    "name": "Nestle Nescafe Classic Instant Coffee Jar 45 gm",
+    "price": "275",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-nescafe-classic-instant-coffee-jar-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161347&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Nescafe_Classic_Instant_Coffee_Jar_45_gm.jpg"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer Box 450 gm",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-coffee-mate-coffee-creamer-box-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123151&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Coffee_Mate_Coffee_Creamer_Box_450_gm.jpg"
+  },
+  {
+    "name": "Nestle Nescafe Classic Instant Coffee Jar 90 gm",
+    "price": "475",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-nescafe-classic-instant-coffee-jar-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183555&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Nescafe_Classic_Instant_Coffee_Jar_90_gm.jpg"
+  },
+  {
+    "name": "MacCoffee Instant Coffee Pouch 200 gm",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maccoffee-instant-coffee-pouch-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130479&q=best&v=1&m=400&webp=1",
+    "image_location": "images/MacCoffee_Instant_Coffee_Pouch_200_gm.jpg"
+  },
+  {
+    "name": "Tora Bika Cappuccino 25 gm 6 pcs",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tora-bika-cappuccino-25-gm-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137190&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tora_Bika_Cappuccino_25_gm_6_pcs.jpg"
+  },
+  {
+    "name": "MacCoffee Coffee And Creamer 2 in 1 12 gm x 20",
+    "price": "425",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maccoffee-coffee-and-creamer-2-in-1-12-gm-x-20?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D89997&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/MacCoffee_Coffee_And_Creamer_2_in_1_12_gm_x_20.jpg"
+  },
+  {
+    "name": "MacCoffee Original Jar 200 gm",
+    "price": "1100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maccoffee-original-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130481&q=best&v=1&m=400&webp=1",
+    "image_location": "images/MacCoffee_Original_Jar_200_gm.jpg"
+  },
+  {
+    "name": "Moccona Select Instant Coffee 190 gm",
+    "price": "1420",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/moccona-select-instant-coffee-190-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130796&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Moccona_Select_Instant_Coffee_190_gm.jpg"
+  },
+  {
+    "name": "Nestle Nescafe Creamy Latte Coffee Mix Sachet 18 gm 12 pcs",
+    "price": "240",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-nescafe-creamy-latte-coffee-mix-sachet-18-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74236&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Nescafe_Creamy_Latte_Coffee_Mix_Sachet_18_gm_12_pcs.jpg"
+  },
+  {
+    "name": "Kopiko Brown Coffee 20 gm 6 pcs",
+    "price": "279",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kopiko-brown-coffee-20-gm-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113370&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kopiko_Brown_Coffee_20_gm_6_pcs.jpg"
+  },
+  {
+    "name": "MacCoffee Gold Jar 100 gm",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maccoffee-gold-jar-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130478&q=best&v=1&m=400&webp=1",
+    "image_location": "images/MacCoffee_Gold_Jar_100_gm.jpg"
+  },
+  {
+    "name": "MacCoffee Gold Jar 50 gm",
+    "price": "475",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maccoffee-gold-jar-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122519&q=best&v=1&m=400&webp=1",
+    "image_location": "images/MacCoffee_Gold_Jar_50_gm.jpg"
+  },
+  {
+    "name": "MacCoffee Original Jar 50 gm",
+    "price": "350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maccoffee-original-jar-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130483&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/MacCoffee_Original_Jar_50_gm.jpg"
+  },
+  {
+    "name": "Bru Pure Instant Coffee Jar 200 gm",
+    "price": "1495",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bru-pure-instant-coffee-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126269&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bru_Pure_Instant_Coffee_Jar_200_gm.jpg"
+  },
+  {
+    "name": "Tora Bika Creamy Latte 25 gm 6 pcs",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tora-bika-creamy-latte-25-gm-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137191&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tora_Bika_Creamy_Latte_25_gm_6_pcs.jpg"
+  },
+  {
+    "name": "Nestle Coffee Mate Creamer 1 kg",
+    "price": "850",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-coffee-mate-creamer-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45914&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Coffee_Mate_Creamer_1_kg.jpg"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer Jar 400 gm",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nestle-coffee-mate-coffee-creamer-jar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123152&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nestle_Coffee_Mate_Coffee_Creamer_Jar_400_gm.jpg"
+  },
+  {
+    "name": "MacCoffee Original Jar 100 gm",
+    "price": "675",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maccoffee-original-jar-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130482&q=best&v=1&m=400&webp=1",
+    "image_location": "images/MacCoffee_Original_Jar_100_gm.jpg"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Neutrogena Deep Clean Facial Cleanser 40 gm",
+    "price": "499",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/neutrogena-deep-clean-facial-cleanser-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141349&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Neutrogena_Deep_Clean_Facial_Cleanser_40_gm.jpg"
+  },
+  {
+    "name": "Lafz Apple Cider Vinegar Foaming Cleanser 100 ml",
+    "price": "399",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lafz-apple-cider-vinegar-foaming-cleanser-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92202&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Lafz_Apple_Cider_Vinegar_Foaming_Cleanser_100_ml.jpg"
+  },
+  {
+    "name": "Xpel Body Care Cleansing Charcoal Nose Strips (6 Strips) each",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/xpel-body-care-cleansing-charcoal-nose-strips-6-strips-1-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116267&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Xpel_Body_Care_Cleansing_Charcoal_Nose_Strips_6_Strips_each.jpg"
+  },
+  {
+    "name": "Clean & Clear Lemon Facial Cleanser 100 ml",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clean-clear-lemon-facial-cleanser-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126882&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Clean__Clear_Lemon_Facial_Cleanser_100_ml.jpg"
+  },
+  {
+    "name": "Clean & Clear Daily Pore Cleanser 100 ml",
+    "price": "450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clean-clear-daily-pore-cleanser-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126878&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Clean__Clear_Daily_Pore_Cleanser_100_ml.jpg"
+  },
+  {
+    "name": "YC Aloe Vera Peel of Mask 120 ml",
+    "price": "280",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/yc-aloe-vera-peel-of-mask-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95892&q=best&v=1&m=400&webp=1",
+    "image_location": "images/YC_Aloe_Vera_Peel_of_Mask_120_ml.jpg"
+  },
+  {
+    "name": "YC Cucumber Peel of Mask 120 ml",
+    "price": "650",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/yc-cucumber-peel-of-mask-120-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95887&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/YC_Cucumber_Peel_of_Mask_120_ml.jpg"
+  },
+  {
+    "name": "Garnier Skin Naturals Light Complete Serum Mask each",
+    "price": "135",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/garnier-skin-naturals-light-complete-serum-mask-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60891&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Garnier_Skin_Naturals_Light_Complete_Serum_Mask_each.jpg"
+  },
+  {
+    "name": "Beauty Formulas Charcoal Detox Cleanser 150 ml",
+    "price": "460",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/beauty-formulas-charcoal-detox-cleanser-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125618&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Beauty_Formulas_Charcoal_Detox_Cleanser_150_ml.jpg"
+  }
+]

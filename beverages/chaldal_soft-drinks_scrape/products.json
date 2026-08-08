@@ -1,0 +1,401 @@
+[
+  {
+    "name": "85 Coca-Cola 1 ltr",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coca-cola-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164611&q=best&v=1&m=400&webp=1",
+    "image_location": "images/85_Coca-Cola_1_ltr.jpg"
+  },
+  {
+    "name": "25 Sprite 250 ml",
+    "price": "23",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sprite-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146689&q=best&v=1&m=400&webp=1",
+    "image_location": "images/25_Sprite_250_ml.jpg"
+  },
+  {
+    "name": "40 Coca-Cola 400 ml",
+    "price": "38",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coca-cola-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186629&q=best&v=1&m=400&webp=1",
+    "image_location": "images/40_Coca-Cola_400_ml.jpg"
+  },
+  {
+    "name": "RC Q Lemon Pet 250 ml",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rc-q-lemon-pet-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71331&q=best&v=1&m=400&webp=1",
+    "image_location": "images/RC_Q_Lemon_Pet_250_ml.jpg"
+  },
+  {
+    "name": "Rooh Afza (Free Ispaghol Bhusi 20 gm) 750 ml",
+    "price": "550",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rooh-afza-free-ispaghol-bhusi-20-gm-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D170046&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Rooh_Afza_Free_Ispaghol_Bhusi_20_gm_750_ml.jpg"
+  },
+  {
+    "name": "40 Fanta Orange Flavored 400 ml",
+    "price": "38",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fanta-orange-flavored-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186631&q=best&v=1&m=400&webp=1",
+    "image_location": "images/40_Fanta_Orange_Flavored_400_ml.jpg"
+  },
+  {
+    "name": "25 Fanta Orange Flavored 250 ml",
+    "price": "23",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fanta-orange-flavored-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146710&q=best&v=1&m=400&webp=1",
+    "image_location": "images/25_Fanta_Orange_Flavored_250_ml.jpg"
+  },
+  {
+    "name": "Fresh Mojito 250 ml",
+    "price": "25",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-mojito-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121077&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Mojito_250_ml.jpg"
+  },
+  {
+    "name": "Rooh Afza 300 ml",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rooh-afza-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133032&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Rooh_Afza_300_ml.jpg"
+  },
+  {
+    "name": "Rooh Afza 750 ml",
+    "price": "550",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rooh-afza-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101117&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Rooh_Afza_750_ml.jpg"
+  },
+  {
+    "name": "70 Sprite Can 250 ml",
+    "price": "65",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sprite-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176552&q=best&v=1&m=400&webp=1",
+    "image_location": "images/70_Sprite_Can_250_ml.jpg"
+  },
+  {
+    "name": "85 Sprite 1 ltr",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sprite-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164609&q=best&v=1&m=400&webp=1",
+    "image_location": "images/85_Sprite_1_ltr.jpg"
+  },
+  {
+    "name": "70 Fanta Can Orange Flavored 250 ml",
+    "price": "65",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fanta-can-orange-flavored-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109107&q=best&v=1&m=400&webp=1",
+    "image_location": "images/70_Fanta_Can_Orange_Flavored_250_ml.jpg"
+  },
+  {
+    "name": "85 Fanta Orange Flavored 1 ltr",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fanta-orange-flavored-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164610&q=best&v=1&m=400&webp=1",
+    "image_location": "images/85_Fanta_Orange_Flavored_1_ltr.jpg"
+  },
+  {
+    "name": "Coca-Cola Zero Sugar 250 ml",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coca-cola-zero-sugar-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186630&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Coca-Cola_Zero_Sugar_250_ml.jpg"
+  },
+  {
+    "name": "Mojo Pet 250 ml",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mojo-pet-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161183&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mojo_Pet_250_ml.jpg"
+  },
+  {
+    "name": "Mojo Soft Drink 2 ltr",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mojo-soft-drink-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130804&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mojo_Soft_Drink_2_ltr.jpg"
+  },
+  {
+    "name": "Sprite 1.75 ltr",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sprite-175-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174766&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sprite_175_ltr.jpg"
+  },
+  {
+    "name": "Mountain Dew 500 ml",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mountain-dew-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163559&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Mountain_Dew_500_ml.jpg"
+  },
+  {
+    "name": "Coca-Cola 1.75 ltr",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coca-cola-175-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174770&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Coca-Cola_175_ltr.jpg"
+  },
+  {
+    "name": "Mojo Pet 1 ltr",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mojo-pet-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130803&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mojo_Pet_1_ltr.jpg"
+  },
+  {
+    "name": "Maxx Cola 2 ltr",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maxx-cola-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181219&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Maxx_Cola_2_ltr.jpg"
+  },
+  {
+    "name": "Maxx Cola 500 ml",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/maxx-cola-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180306&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Maxx_Cola_500_ml.jpg"
+  },
+  {
+    "name": "Fresh Cola 500 ml",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-cola-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184880&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Cola_500_ml.jpg"
+  },
+  {
+    "name": "Clemon Mojito Can 250 ml",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clemon-mojito-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161303&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Clemon_Mojito_Can_250_ml.jpg"
+  },
+  {
+    "name": "Sunquick Orange Fruit Drink 250 ml",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sunquick-orange-fruit-drink-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180815&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sunquick_Orange_Fruit_Drink_250_ml.jpg"
+  },
+  {
+    "name": "Sunquick Mango Fruit Drink 250 ml",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sunquick-mango-fruit-drink-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180814&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sunquick_Mango_Fruit_Drink_250_ml.jpg"
+  },
+  {
+    "name": "RC Cola 250 ml",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rc-cola-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D151176&q=best&v=1&m=400&webp=1",
+    "image_location": "images/RC_Cola_250_ml.jpg"
+  },
+  {
+    "name": "Fresh Googly 250 ml",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-googly-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127682&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Googly_250_ml.jpg"
+  },
+  {
+    "name": "Pepsi 1.75 ltr",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pepsi-175-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177196&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Pepsi_175_ltr.jpg"
+  },
+  {
+    "name": "Houston Soft Drink Can 250 ml",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/houston-soft-drink-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97110&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Houston_Soft_Drink_Can_250_ml.jpg"
+  },
+  {
+    "name": "RC Q Orange Pet 250 ml",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rc-q-orange-pet-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D142016&q=best&v=1&m=400&webp=1",
+    "image_location": "images/RC_Q_Orange_Pet_250_ml.jpg"
+  },
+  {
+    "name": "Fresh Cola 1 ltr",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-cola-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141596&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Cola_1_ltr.jpg"
+  },
+  {
+    "name": "Pran Up 500 ml",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-up-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132339&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Pran_Up_500_ml.jpg"
+  },
+  {
+    "name": "Fresh Cola 250 ml",
+    "price": "20",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-cola-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184879&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Fresh_Cola_250_ml.jpg"
+  },
+  {
+    "name": "Speed Can 250 ml",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/speed-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D134962&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Speed_Can_250_ml.jpg"
+  },
+  {
+    "name": "Clemon Can 250 ml",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clemon-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126978&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Clemon_Can_250_ml.jpg"
+  },
+  {
+    "name": "Mojo Can 250 ml",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mojo-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130799&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mojo_Can_250_ml.jpg"
+  },
+  {
+    "name": "Dolphin Nata De Coco Lychee Drink 350 ml",
+    "price": "280",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dolphin-nata-de-coco-lychee-drink-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127803&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dolphin_Nata_De_Coco_Lychee_Drink_350_ml.jpg"
+  },
+  {
+    "name": "Basil Seed Drink (Mixed Fruit) 290 ml",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/basil-seed-drink-mixed-fruit-290-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125535&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Basil_Seed_Drink_Mixed_Fruit_290_ml.jpg"
+  },
+  {
+    "name": "Basil Seed Drink (White Grape) 290 ml",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/basil-seed-drink-white-grape-290-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125539&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Basil_Seed_Drink_White_Grape_290_ml.jpg"
+  },
+  {
+    "name": "Basil Seed Drink (Lychee) 290 ml",
+    "price": "270",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/basil-seed-drink-lychee-290-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125533&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Basil_Seed_Drink_Lychee_290_ml.jpg"
+  },
+  {
+    "name": "Pepsi Can (Imported) 330 ml",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pepsi-can-imported-330-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109595&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pepsi_Can_Imported_330_ml.jpg"
+  },
+  {
+    "name": "7 Up Can 250 ml",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/7-up-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169160&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/7_Up_Can_250_ml.jpg"
+  },
+  {
+    "name": "Sprite Can (Imported) 320 ml",
+    "price": "349",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sprite-can-imported-320-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158025&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Sprite_Can_Imported_320_ml.jpg"
+  },
+  {
+    "name": "Pepsi Can 250 ml",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pepsi-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177363&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pepsi_Can_250_ml.jpg"
+  },
+  {
+    "name": "Mountain Dew Can 250 ml",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mountain-dew-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130891&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Mountain_Dew_Can_250_ml.jpg"
+  },
+  {
+    "name": "Mirinda Can 250 ml",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mirinda-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177362&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mirinda_Can_250_ml.jpg"
+  },
+  {
+    "name": "Pepsi 1 ltr",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pepsi-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174300&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pepsi_1_ltr.jpg"
+  },
+  {
+    "name": "7 Up 500 ml",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/7-up-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163563&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/7_Up_500_ml.jpg"
+  },
+  {
+    "name": "7 Up 1 ltr",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/7-up-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122690&q=best&v=1&m=400&webp=1",
+    "image_location": "images/7_Up_1_ltr.jpg"
+  },
+  {
+    "name": "Clemon 2 ltr",
+    "price": "110",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/clemon-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126976&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Clemon_2_ltr.jpg"
+  },
+  {
+    "name": "Pepsi 500 ml",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pepsi-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163558&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Pepsi_500_ml.jpg"
+  },
+  {
+    "name": "Mojo Pet 500 ml",
+    "price": "40",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mojo-pet-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130802&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Mojo_Pet_500_ml.jpg"
+  },
+  {
+    "name": "Coca-Cola Can (Imported) 320 ml",
+    "price": "299",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coca-cola-can-imported-320-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127011&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Coca-Cola_Can_Imported_320_ml.jpg"
+  },
+  {
+    "name": "Mirinda Orange 500 ml",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mirinda-orange-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163669&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Mirinda_Orange_500_ml.jpg"
+  },
+  {
+    "name": "Coca-Cola Can 250 ml",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/coca-cola-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146657&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Coca-Cola_Can_250_ml.jpg"
+  }
+]

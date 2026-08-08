@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Gillette Blue 2 Disposable Razor each",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-blue-2-disposable-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114759&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gillette_Blue_2_Disposable_Razor_each.jpg"
+  },
+  {
+    "name": "Gillette Guard Cartridges Single Cartridge each",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-guard-cartridges-single-cartridge-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128790&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gillette_Guard_Cartridges_Single_Cartridge_each.jpg"
+  },
+  {
+    "name": "Beardo Beard & Hair Growth Oil 50 ml",
+    "price": "1599",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/beardo-beard-hair-growth-oil-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126346&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Beardo_Beard__Hair_Growth_Oil_50_ml.jpg"
+  },
+  {
+    "name": "Kool After Shave Lotion 50 ml",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kool-after-shave-lotion-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129845&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kool_After_Shave_Lotion_50_ml.jpg"
+  },
+  {
+    "name": "Aichun Beauty Beard Growth Beard Essential Oil 30 ml",
+    "price": "450",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aichun-beauty-beard-growth-beard-essential-oil-30-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125576&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Aichun_Beauty_Beard_Growth_Beard_Essential_Oil_30_ml.jpg"
+  },
+  {
+    "name": "Nivea Men Sensitive After Shave Lotion 100 ml",
+    "price": "1250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nivea-men-sensitive-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D104979&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nivea_Men_Sensitive_After_Shave_Lotion_100_ml.jpg"
+  },
+  {
+    "name": "Nivea Men Sensitive After Shave Lotion 100 ml",
+    "price": "550",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nivea-men-sensitive-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158064&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nivea_Men_Sensitive_After_Shave_Lotion_100_ml_1.jpg"
+  },
+  {
+    "name": "Kool Ultra Glide Shaving Foam 200 ml",
+    "price": "350",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kool-ultra-glide-shaving-foam-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D155413&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kool_Ultra_Glide_Shaving_Foam_200_ml.jpg"
+  },
+  {
+    "name": "Kool After Shave Lotion 100 ml",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kool-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129844&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kool_After_Shave_Lotion_100_ml.jpg"
+  },
+  {
+    "name": "Gillette Mach3 New Blade Razor each",
+    "price": "655",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-mach3-new-blade-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181489&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gillette_Mach3_New_Blade_Razor_each.jpg"
+  },
+  {
+    "name": "Gillette Fusion Manual Razor each",
+    "price": "1090",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/gillette-fusion-manual-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146407&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Gillette_Fusion_Manual_Razor_each.jpg"
+  },
+  {
+    "name": "Kool Frosty Shaving Cream 50 gm",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kool-frosty-shaving-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93741&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kool_Frosty_Shaving_Cream_50_gm.jpg"
+  }
+]

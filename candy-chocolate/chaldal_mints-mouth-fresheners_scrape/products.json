@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Tic Tac Mint Mouth Freshener 13 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/tic-tac-mint-mouth-freshener-13-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177540&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Tic_Tac_Mint_Mouth_Freshener_13_gm.jpg"
+  },
+  {
+    "name": "Sargam Royal Crispy Mouth Freshener 40 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/sargam-royal-crispy-mouth-freshener-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133158&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Sargam_Royal_Crispy_Mouth_Freshener_40_gm.jpg"
+  },
+  {
+    "name": "Eclipse Sugar Free Winterfrost Mints 35 gm",
+    "price": "290",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/eclipse-sugar-free-winterfrost-mints-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108270&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Eclipse_Sugar_Free_Winterfrost_Mints_35_gm.jpg"
+  },
+  {
+    "name": "Eclipse Sugar Free Mints Spearmint Flavor 35 gm",
+    "price": "370",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/eclipse-sugar-free-mints-spearmint-flavor-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127970&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Eclipse_Sugar_Free_Mints_Spearmint_Flavor_35_gm.jpg"
+  },
+  {
+    "name": "Mentos Pure Fresh Chewing Sugarfree Gum B.Lime Mint 29.7 gm",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mentos-pure-fresh-chewing-sugarfree-gum-blime-mint-297-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130740&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Mentos_Pure_Fresh_Chewing_Sugarfree_Gum_BLime_Mint_297_gm.jpg"
+  }
+]

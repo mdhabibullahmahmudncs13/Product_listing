@@ -1,0 +1,30 @@
+[
+  {
+    "name": "University khata 300 Pages each",
+    "price": "169",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/university-khata-300-pages-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114550&q=best&v=1&m=400&webp=1",
+    "image_location": "images/University_khata_300_Pages_each.jpg"
+  },
+  {
+    "name": "RFL Good Luck Kids Arabic Book each",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-good-luck-kids-arabic-book-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97369&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/RFL_Good_Luck_Kids_Arabic_Book_each.jpg"
+  },
+  {
+    "name": "Register Book 150 pages",
+    "price": "90",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/register-book-150-pages?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43773&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Register_Book_150_pages.jpg"
+  },
+  {
+    "name": "Register Book 300 Page each",
+    "price": "179",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/register-book-300-page-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D9770&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Register_Book_300_Page_each.jpg"
+  }
+]

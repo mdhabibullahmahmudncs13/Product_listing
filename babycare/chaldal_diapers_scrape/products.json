@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Medium (5-13 kg) Diapers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/medium-5-13-kg-diapers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D117349&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Medium_5-13_kg_Diapers.jpg"
+  },
+  {
+    "name": "Large (10-16 kg) Diapers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/large-10-16-kg-diapers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D117347&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Large_10-16_kg_Diapers.jpg"
+  },
+  {
+    "name": "Extra Large (15+ kg) Diapers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/extra-large-15-kg-diapers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D119176&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Extra_Large_15_kg_Diapers.jpg"
+  },
+  {
+    "name": "Small (3-7 kg) Diapers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/small-3-7-kg-diapers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D117346&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Small_3-7_kg_Diapers.jpg"
+  },
+  {
+    "name": "Newborn (2-5 kg) Diapers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/newborn-2-5-kg-diapers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D117348&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Newborn_2-5_kg_Diapers.jpg"
+  }
+]

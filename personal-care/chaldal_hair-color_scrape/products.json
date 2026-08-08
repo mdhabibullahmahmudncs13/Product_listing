@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Godrej Permanent Liquid Hair Dye Black (Buy 1 Get 1 Free) 40 ml",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/godrej-permanent-liquid-hair-dye-black-buy-1-get-1-free-40-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128883&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Godrej_Permanent_Liquid_Hair_Dye_Black_Buy_1_Get_1_Free_40_ml.jpg"
+  },
+  {
+    "name": "Godrej Expert Easy 5 Minute Shampoo Based Hair Color (Black) 10 gm",
+    "price": "30",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/godrej-expert-easy-5-minute-shampoo-based-hair-color-black-10-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115045&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Godrej_Expert_Easy_5_Minute_Shampoo_Based_Hair_Color_Black_10_gm.jpg"
+  },
+  {
+    "name": "Bigen Hair Color & Conditioner (Light Brown) 80 gm",
+    "price": "750",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bigen-hair-color-conditioner-light-brown-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125773&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bigen_Hair_Color__Conditioner_Light_Brown_80_gm.jpg"
+  },
+  {
+    "name": "Bigen Hair Color & Conditioner (Natural Brown) 80 gm",
+    "price": "700",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bigen-hair-color-conditioner-natural-brown-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71945&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bigen_Hair_Color__Conditioner_Natural_Brown_80_gm.jpg"
+  },
+  {
+    "name": "Bigen Hair Color & Conditioner (Dark Brown) 80 gm",
+    "price": "700",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bigen-hair-color-conditioner-dark-brown-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71944&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bigen_Hair_Color__Conditioner_Dark_Brown_80_gm.jpg"
+  },
+  {
+    "name": "Bigen Hair Color & Conditioner (Natural Black) 80 gm",
+    "price": "700",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bigen-hair-color-conditioner-natural-black-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125774&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Bigen_Hair_Color__Conditioner_Natural_Black_80_gm.jpg"
+  }
+]

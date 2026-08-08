@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Olympic Premium Toast Biscuit 185 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olympic-premium-toast-biscuit-185-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D100990&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olympic_Premium_Toast_Biscuit_185_gm.jpg"
+  },
+  {
+    "name": "Olympic Dry Cake Biscuit 290 gm",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/olympic-dry-cake-biscuit-290-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183198&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Olympic_Dry_Cake_Biscuit_290_gm.jpg"
+  },
+  {
+    "name": "Pran Special Toast Biscuit 250 gm",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/pran-special-toast-biscuit-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132330&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Pran_Special_Toast_Biscuit_250_gm.jpg"
+  },
+  {
+    "name": "Fresh Butter Cookies Biscuit Jar 750 gm",
+    "price": "200",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/fresh-butter-cookies-biscuit-jar-750-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169151&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Fresh_Butter_Cookies_Biscuit_Jar_750_gm.jpg"
+  },
+  {
+    "name": "Bisk Club Rusk Premium Bake Biscuit 250 gm",
+    "price": "70",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bisk-club-rusk-premium-bake-biscuit-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161802&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bisk_Club_Rusk_Premium_Bake_Biscuit_250_gm.jpg"
+  },
+  {
+    "name": "Ispahani Premium Toast Biscuit 185 gm",
+    "price": "50",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ispahani-premium-toast-biscuit-185-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169991&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ispahani_Premium_Toast_Biscuit_185_gm.jpg"
+  },
+  {
+    "name": "Dekko Sweet Toast Biscuit 300 gm",
+    "price": "80",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dekko-sweet-toast-biscuit-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103587&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dekko_Sweet_Toast_Biscuit_300_gm.jpg"
+  },
+  {
+    "name": "Ifad Plain Toast Biscuit 350 gm",
+    "price": "100",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/ifad-plain-toast-biscuit-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96840&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Ifad_Plain_Toast_Biscuit_350_gm.jpg"
+  }
+]

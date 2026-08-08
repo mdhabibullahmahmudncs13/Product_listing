@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Welcome Light Meat Tuna In Sunflower Oil (Flake) 170 gm",
+    "price": "190",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/welcome-light-meat-tuna-in-sunflower-oil-flake-170-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60408&q=low&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Welcome_Light_Meat_Tuna_In_Sunflower_Oil_Flake_170_gm.jpg"
+  },
+  {
+    "name": "King Bell Tuna Salad Vegetables 170 gm",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/king-bell-tuna-salad-vegetables-170-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129782&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/King_Bell_Tuna_Salad_Vegetables_170_gm.jpg"
+  },
+  {
+    "name": "King Bell Tuna Salad In Tomato Sauce 170 gm",
+    "price": "310",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/king-bell-tuna-salad-in-tomato-sauce-170-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184785&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/King_Bell_Tuna_Salad_In_Tomato_Sauce_170_gm.jpg"
+  },
+  {
+    "name": "Nautilus Lite Sandwich Tuna In Spring Water 165 gm",
+    "price": "429",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nautilus-lite-sandwich-tuna-in-spring-water-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182822&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Nautilus_Lite_Sandwich_Tuna_In_Spring_Water_165_gm.jpg"
+  },
+  {
+    "name": "330 Nautilus Sandwich Tuna In Soybean Oil 165 gm",
+    "price": "319",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nautilus-sandwich-tuna-in-soybean-oil-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92539&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/330_Nautilus_Sandwich_Tuna_In_Soybean_Oil_165_gm.jpg"
+  },
+  {
+    "name": "330 Nautilus Lite Tuna Chunk Soybean Oil 165 gm",
+    "price": "319",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/nautilus-lite-tuna-chunk-soybean-oil-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175007&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/330_Nautilus_Lite_Tuna_Chunk_Soybean_Oil_165_gm.jpg"
+  }
+]

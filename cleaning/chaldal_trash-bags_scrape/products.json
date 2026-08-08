@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Trash Bag Black (18\" x 24\") 10 pcs",
+    "price": "230",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/trash-bag-black-18-x-24-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129180&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Trash_Bag_Black_18_x_24_10_pcs.jpg"
+  },
+  {
+    "name": "Trash Bag Black - 20\" x 30\" 12 pcs",
+    "price": "283",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/trash-bag-black-20-x-30-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49765&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Trash_Bag_Black_-_20_x_30_12_pcs.jpg"
+  },
+  {
+    "name": "Trash Bag White (18\" x 24\") 10 pcs",
+    "price": "242",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/trash-bag-white-18-x-24-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91221&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Trash_Bag_White_18_x_24_10_pcs.jpg"
+  },
+  {
+    "name": "Trash Bag Black (32\" x 42\") 10 pcs",
+    "price": "299",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/trash-bag-black-32-x-42-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91220&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Trash_Bag_Black_32_x_42_10_pcs.jpg"
+  },
+  {
+    "name": "Transparent Disposable Piping Bags (8.5\"x12.5\") 100 pcs",
+    "price": "719",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/transparent-disposable-piping-bags-85x125-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69286&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Transparent_Disposable_Piping_Bags_85x125_100_pcs.jpg"
+  },
+  {
+    "name": "Disposable Shoe Cover 25 pairs",
+    "price": "609",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/disposable-shoe-cover-25-pairs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D106822&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Disposable_Shoe_Cover_25_pairs.jpg"
+  },
+  {
+    "name": "Disposable Head Cover 100 pcs",
+    "price": "489",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/disposable-head-cover-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79813&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Disposable_Head_Cover_100_pcs.jpg"
+  },
+  {
+    "name": "Net Bag 150 pcs",
+    "price": "289",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/net-bag-150-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125478&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Net_Bag_150_pcs.jpg"
+  },
+  {
+    "name": "Trash Bag White - 20\" x 30\" 10 pcs",
+    "price": "230",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/trash-bag-white-20-x-30-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49766&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Trash_Bag_White_-_20_x_30_10_pcs.jpg"
+  }
+]

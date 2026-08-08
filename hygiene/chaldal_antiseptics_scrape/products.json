@@ -1,0 +1,86 @@
+[
+  {
+    "name": "SMC Orsaline-N 25 pcs",
+    "price": "150",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/smc-orsaline-n-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61695&q=best&v=1&m=400&webp=1",
+    "image_location": "images/SMC_Orsaline-N_25_pcs.jpg"
+  },
+  {
+    "name": "ACI Savlon Antiseptic Liquid 56 ml",
+    "price": "45",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-antiseptic-liquid-56-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181711&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Antiseptic_Liquid_56_ml.jpg"
+  },
+  {
+    "name": "Dettol Antiseptic Disinfectant Liquid 100 ml",
+    "price": "60",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-antiseptic-disinfectant-liquid-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D155575&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Antiseptic_Disinfectant_Liquid_100_ml.jpg"
+  },
+  {
+    "name": "1200 ACI Savlon Antiseptic 5 ltr",
+    "price": "1149",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-antiseptic-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181735&q=best&v=1&m=400&webp=1",
+    "image_location": "images/1200_ACI_Savlon_Antiseptic_5_ltr.jpg"
+  },
+  {
+    "name": "ACI Savlon Liquid Antiseptic 1000 ml",
+    "price": "280",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-liquid-antiseptic-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181725&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Liquid_Antiseptic_1000_ml.jpg"
+  },
+  {
+    "name": "ACI Savlon Liquid Antiseptic 500 ml",
+    "price": "175",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/aci-savlon-liquid-antiseptic-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181728&q=best&v=1&m=400&webp=1",
+    "image_location": "images/ACI_Savlon_Liquid_Antiseptic_500_ml.jpg"
+  },
+  {
+    "name": "Alcohol Prep Pads 100 pcs",
+    "price": "155",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/alcohol-prep-pads-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123212&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Alcohol_Prep_Pads_100_pcs.jpg"
+  },
+  {
+    "name": "Himani Fast Relief 50 ml",
+    "price": "500",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/himani-fast-relief-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103606&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Himani_Fast_Relief_50_ml.jpg"
+  },
+  {
+    "name": "Hexisol Hand Rub 50 ml",
+    "price": "55",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hexisol-hand-rub-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129219&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hexisol_Hand_Rub_50_ml.jpg"
+  },
+  {
+    "name": "Hexisol Hand Rub 250 ml",
+    "price": "140",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hexisol-hand-rub-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103093&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hexisol_Hand_Rub_250_ml.jpg"
+  },
+  {
+    "name": "Dettol Antiseptic Disinfectant Liquid 500 ml",
+    "price": "175",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-antiseptic-disinfectant-liquid-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D154668&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Antiseptic_Disinfectant_Liquid_500_ml.jpg"
+  },
+  {
+    "name": "Dettol Antiseptic Disinfectant Liquid 5 ltr",
+    "price": "1500",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/dettol-antiseptic-disinfectant-liquid-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184817&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Dettol_Antiseptic_Disinfectant_Liquid_5_ltr.jpg"
+  }
+]

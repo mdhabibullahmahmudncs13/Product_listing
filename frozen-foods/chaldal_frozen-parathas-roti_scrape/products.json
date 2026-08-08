@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Jhatpot Deshi Paratha 650 gm 10 pcs",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jhatpot-deshi-paratha-650-gm-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112588&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Jhatpot_Deshi_Paratha_650_gm_10_pcs.jpg"
+  },
+  {
+    "name": "Jhatpot Low Fat Paratha 1200 gm 20 pcs",
+    "price": "250",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jhatpot-low-fat-paratha-1200-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112589&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Jhatpot_Low_Fat_Paratha_1200_gm_20_pcs.jpg"
+  },
+  {
+    "name": "Golden Harvest Premium Deshi Paratha 20 pcs 1300 gm",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-harvest-premium-deshi-paratha-20-pcs-1300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177582&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Harvest_Premium_Deshi_Paratha_20_pcs_1300_gm.jpg"
+  },
+  {
+    "name": "Golden Harvest Mega Deshi Paratha 1600 gm 20 pcs",
+    "price": "380",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/golden-harvest-mega-deshi-paratha-1600-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168990&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Golden_Harvest_Mega_Deshi_Paratha_1600_gm_20_pcs.jpg"
+  },
+  {
+    "name": "Kazi Farms Kitchen Plain Paratha Family 1300 gm 20 pcs",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-farms-kitchen-plain-paratha-family-1300-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109153&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Kazi_Farms_Kitchen_Plain_Paratha_Family_1300_gm_20_pcs.jpg"
+  },
+  {
+    "name": "Kazi Farms Kitchen Plain Paratha 10 pcs 650 gm",
+    "price": "170",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/kazi-farms-kitchen-plain-paratha-10-pcs-650-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124551&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Kazi_Farms_Kitchen_Plain_Paratha_10_pcs_650_gm.jpg"
+  },
+  {
+    "name": "Jhatpot Paratha Low Fat 600 gm 10 pcs",
+    "price": "130",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jhatpot-paratha-low-fat-600-gm-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129587&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Jhatpot_Paratha_Low_Fat_600_gm_10_pcs.jpg"
+  },
+  {
+    "name": "Quality Plain Paratha 600 gm 10 pcs",
+    "price": "155",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/quality-plain-paratha-600-gm-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113407&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Quality_Plain_Paratha_600_gm_10_pcs.jpg"
+  },
+  {
+    "name": "Jhatpot Deshi Paratha Family Pack 1300 gm 20 pcs",
+    "price": "320",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/jhatpot-deshi-paratha-family-pack-1300-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96024&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Jhatpot_Deshi_Paratha_Family_Pack_1300_gm_20_pcs.jpg"
+  }
+]

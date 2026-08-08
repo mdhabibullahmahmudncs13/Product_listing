@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Womens Soaps",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/womens-soaps?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163528&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Womens_Soaps.jpg"
+  },
+  {
+    "name": "Hair Care",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/hair-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70663&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Hair_Care.jpg"
+  },
+  {
+    "name": "Womens Shampoos Conditioners",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/womens-shampoos-conditioners?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70664&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Womens_Shampoos_Conditioners.jpg"
+  },
+  {
+    "name": "Feminine Care",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/feminine-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163515&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Feminine_Care.jpg"
+  },
+  {
+    "name": "Female Moisturizer",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/female-moisturizer?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70655&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Female_Moisturizer.jpg"
+  },
+  {
+    "name": "Face Wash Scrub",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/face-wash-scrub?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D117250&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Face_Wash_Scrub.jpg"
+  },
+  {
+    "name": "Female Deo",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/female-deo?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70660&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Female_Deo.jpg"
+  },
+  {
+    "name": "Womens Perfume",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/womens-perfume?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116778&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Womens_Perfume.jpg"
+  },
+  {
+    "name": "Womens Shower Gel",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/womens-shower-gel?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163512&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Womens_Shower_Gel.jpg"
+  },
+  {
+    "name": "Masks Cleansers",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/masks-cleansers?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116771&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Masks_Cleansers.jpg"
+  },
+  {
+    "name": "Serum Oil Toners",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/serum-oil-toners?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D117310&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Serum_Oil_Toners.jpg"
+  }
+]

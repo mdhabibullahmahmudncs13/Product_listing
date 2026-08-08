@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Lights",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/lights?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131672&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Lights.jpg"
+  },
+  {
+    "name": "Mosquito Swatter",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/mosquito-swatter?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131674&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Mosquito_Swatter.jpg"
+  },
+  {
+    "name": "Electric Multiplug",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/electric-multiplug?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131676&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Electric_Multiplug.jpg"
+  },
+  {
+    "name": "Electronics",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/electronics?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131679&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Electronics.jpg"
+  }
+]

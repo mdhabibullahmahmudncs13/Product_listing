@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Bili Management File A4 (Purple) each",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bili-management-file-a4-purple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126122&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bili_Management_File_A4_Purple_each.jpg"
+  },
+  {
+    "name": "Bili Management File A4 (Blue) each",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bili-management-file-a4-blue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126121&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bili_Management_File_A4_Blue_each.jpg"
+  },
+  {
+    "name": "Bili Management File A4 (Green) each",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bili-management-file-a4-green-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126119&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bili_Management_File_A4_Green_each.jpg"
+  },
+  {
+    "name": "Transparent File Folder each",
+    "price": "39",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/transparent-file-folder-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185005&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/Transparent_File_Folder_each.jpg"
+  },
+  {
+    "name": "Court File (Orange) each",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/court-file-orange-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140781&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Court_File_Orange_each.jpg"
+  },
+  {
+    "name": "Court File (Blue) each",
+    "price": "79",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/court-file-blue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140783&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Court_File_Blue_each.jpg"
+  },
+  {
+    "name": "Court File (Yellow) each",
+    "price": "69",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/court-file-yellow-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140795&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Court_File_Yellow_each.jpg"
+  },
+  {
+    "name": "RFL Good Luck Three Station File Organizer each",
+    "price": "300",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-good-luck-three-station-file-organizer-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133222&q=best&v=1&m=400&webp=1",
+    "image_location": "images/RFL_Good_Luck_Three_Station_File_Organizer_each.jpg"
+  },
+  {
+    "name": "Deli Management File each",
+    "price": "35",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/deli-management-file-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103723&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Deli_Management_File_each.jpg"
+  },
+  {
+    "name": "Bag File each",
+    "price": "649",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bag-file-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D1137&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Bag_File_each.jpg"
+  },
+  {
+    "name": "Court File each",
+    "price": "49",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/court-file-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127093&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Court_File_each.jpg"
+  }
+]

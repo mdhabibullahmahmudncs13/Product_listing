@@ -1,0 +1,51 @@
+[
+  {
+    "name": "RFL Pakhir Basha (Bird Nest) each",
+    "price": "400",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/rfl-pakhir-basha-bird-nest-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122101&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/RFL_Pakhir_Basha_Bird_Nest_each.jpg"
+  },
+  {
+    "name": "639 Bearing Tick And Flea Dog Shampoo Short Hair 300 ml",
+    "price": "549",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bearing-tick-and-flea-dog-shampoo-short-hair-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120475&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/639_Bearing_Tick_And_Flea_Dog_Shampoo_Short_Hair_300_ml.jpg"
+  },
+  {
+    "name": "Bearing Tick & Flea Dog Spray 250 ml",
+    "price": "1795",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/bearing-tick-flea-dog-spray-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120472&q=best&v=1&m=400&webp=1",
+    "image_location": "images/Bearing_Tick__Flea_Dog_Spray_250_ml.jpg"
+  },
+  {
+    "name": "2100 Versele Laga Cat Attract 200 ml",
+    "price": "1519",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/versele-laga-cat-attract-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122511&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/2100_Versele_Laga_Cat_Attract_200_ml.jpg"
+  },
+  {
+    "name": "620 Versele Laga Oropharme Oral Spary 150 ml",
+    "price": "579",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/versele-laga-oropharme-oral-spary-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122532&q=best&v=1&m=400&webp=1",
+    "image_location": "images/620_Versele_Laga_Oropharme_Oral_Spary_150_ml.jpg"
+  },
+  {
+    "name": "1160 Versele Laga Cat Dry Shampoo 150 ml",
+    "price": "1049",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/versele-laga-cat-dry-shampoo-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122513&q=best&v=1&m=400&webp=1",
+    "image_location": "images/1160_Versele_Laga_Cat_Dry_Shampoo_150_ml.jpg"
+  },
+  {
+    "name": "620 Petme Oral +Plus Gel 30 gm",
+    "price": "469",
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/petme-oral-plus-gel-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121904&q=best&v=1&m=400&m=400&webp=1",
+    "image_location": "images/620_Petme_Oral_Plus_Gel_30_gm.jpg"
+  }
+]

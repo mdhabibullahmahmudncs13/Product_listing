@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Milk Juice Drinks",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/milk-juice-drinks?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29086&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Milk_Juice_Drinks.jpg"
+  },
+  {
+    "name": "Baby Toddler Food",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/baby-toddler-food?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29084&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Baby_Toddler_Food.jpg"
+  },
+  {
+    "name": "Formula",
+    "price": null,
+    "currency": "BDT",
+    "image_url": "https://chaldn.com/_mpimage/formula?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29085&q=low&v=1&m=400&webp=1",
+    "image_location": "images/Formula.jpg"
+  }
+]
